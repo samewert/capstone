@@ -10,7 +10,7 @@ palm.configure(api_key=bardKey)
 #         print(model.name)
 
 
-x = 'I got a bad grade'
+x = 'cat and dot'
 
 close = 'I failed an exam'
 
@@ -35,3 +35,6 @@ print(farMeasure)
 
 # 0 means less similar
 # 1 means more similar
+
+
+# what type of embedding is this. How to get rid of stop word. 
