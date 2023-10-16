@@ -28,9 +28,8 @@ def getResponse(prompt):
   )
   return response
 
-
 def responsePrompt(text, messages, memory):
-  prompt = f"""You are a genius. Read the memory and messages. Guide the user towards an answer but don't give them one directly.
+  prompt = f"""Be an AI chatbot. Read in the messages and memory. Create your response accordingly.
   
   Messages: {messages}
   
@@ -54,19 +53,24 @@ memory = []
 
 convoIndex = 1
 
-while convoIndex < 20:
+# while convoIndex < 20:
+
+while True:
   print(convoIndex)
 
   text = input()
 
   prompt = responsePrompt(text, messages, memory)
-  messages.append(text)
 
   response = getResponse(prompt)
 
   print(response.result)
 
-  messages.append(response.result)
+  if response.result is None:
+    continue
+
+  messages.append('<User> ' + text)
+  messages.append('<AI> ' + response.result)
 
   if convoIndex % 5 == 0:
     prompt = summaryPrompt(messages)
@@ -77,7 +81,7 @@ while convoIndex < 20:
 
   convoIndex += 1
   print("Memory: {}".format(memory))
-  print("Messages: {}".format(memory))
+  print("Messages: {}".format(messages))
 
 # how to organize these blocks? I can start making summaries of summaries
 # how to measure memory
