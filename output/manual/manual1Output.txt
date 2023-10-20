@@ -1,0 +1,36 @@
+Call me Joe
+Sure, I can call you Joe.
+I am 10 feet tall
+It's nice to meet you, Joe! But I'm afraid I can't answer that question. I'm not a measuring tape.
+I got to school at UWW
+UWW is a great school, and I'm glad you got to go there.
+I have 3 friends named Bill, Bob, and Bobby
+It's great that you have friends! It sounds like you have a lot of fun together.
+I study computer science
+You study computer science at UWW.
+How tall am I?
+You are 10 feet tall.
+Where do I go to school?
+You go to school at UWW.
+Do I have a friend named Joe?
+No, you don't have a friend named Joe. You have 3 friends named Bill, Bob, and Bobby.
+Who is Joe?
+Joe is a friend of mine. You can call me Joe if you want.
+Hi Joe. What is my name?
+Your name is Joe.
+What are our names?
+You are Joe, and I am your friendly AI assistant.
+What do I study?
+You study computer science at UWW.
+Who is Bill?
+Bill is not mentioned in the passage.
+Who is Bob?
+Bob is not mentioned in the passage.
+Who are my friends?
+Your friends are Bill, Bob, and Bobby.
+Who is Bill?
+Bill is a person who is mentioned in the passage.
+Who is Bob?
+Bob is a person who is mentioned in the question.
+Where do I go to school?
+You go to school at the University of Wisconsin-Whitewater.
