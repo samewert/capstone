@@ -96,7 +96,7 @@ def getResponse(query):
     answer = palm.generate_text(**defaults, prompt=prompt, model=textModel)
 
     addDocument(cleanedQuery, user)
-
+    # TODO how to include for user input and ai response? Combine them into the same line? separate documents?
 
     return answer.candidates[0]['output']
 
