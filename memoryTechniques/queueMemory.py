@@ -31,14 +31,13 @@ def make_prompt(query):
      USER INPUT: '{query}'
      CHAT HISTORY: '{queue}'
 
-     ANSWER:
-     """).format(query=query, queue=list(queue))
+     ANSWER: """).format(query=query, queue=list(queue))
 
     return prompt
 
-def getResponse(userInput):
+def getQueueResponse(userInput):
     prompt = make_prompt(userInput)
-    print(prompt)
+    # print(prompt)
     answer = palm.generate_text(**defaults, prompt=prompt, model=textModel)
     response = answer.candidates[0]['output']
     # if len(queue) == queueLen:
@@ -47,4 +46,4 @@ def getResponse(userInput):
     queue.append('<USER> ' + userInput)
     queue.append('<Bot> ' + response)
 
-    return response
+    return response, prompt

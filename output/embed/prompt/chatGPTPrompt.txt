@@ -1,0 +1,100 @@
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Hi, Ive been feeling really overwhelmed lately. Can we talk?'
+     CHAT HISTORY: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Its just work and personal life piling up. I feel like I cant keep up with everything.'
+     CHAT HISTORY: '['Hi, Ive been feeling really overwhelmed lately. Can we talk?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.'
+     CHAT HISTORY: '['Its just work and personal life piling up. I feel like I cant keep up with everything.', 'Hi, Ive been feeling really overwhelmed lately. Can we talk?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Not really. I feel guilty taking breaks when theres so much to do.'
+     CHAT HISTORY: '['Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.', 'Its just work and personal life piling up. I feel like I cant keep up with everything.', 'Hi, Ive been feeling really overwhelmed lately. Can we talk?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I used to enjoy reading, but I havent had time for it lately.'
+     CHAT HISTORY: '['Not really. I feel guilty taking breaks when theres so much to do.', 'Its just work and personal life piling up. I feel like I cant keep up with everything.', 'Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'That sounds doable. Ill give it a try.'
+     CHAT HISTORY: '['Not really. I feel guilty taking breaks when theres so much to do.', 'Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.', 'Hi, Ive been feeling really overwhelmed lately. Can we talk?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Thanks, I appreciate that. It just feels like Im juggling too much at once.'
+     CHAT HISTORY: '['Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.', 'Its just work and personal life piling up. I feel like I cant keep up with everything.', 'Not really. I feel guilty taking breaks when theres so much to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I havent thought about that. It might help to make things less overwhelming.'
+     CHAT HISTORY: '['Thanks, I appreciate that. It just feels like Im juggling too much at once.', 'Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.', 'Not really. I feel guilty taking breaks when theres so much to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Ill give it a shot. Its worth a try at this point.'
+     CHAT HISTORY: '['That sounds doable. Ill give it a try.', 'I havent thought about that. It might help to make things less overwhelming.', 'Hi, Ive been feeling really overwhelmed lately. Can we talk?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Thats the spirit! Small changes can lead to significant improvements. Is there anything specific youd like to focus on breaking down first?'
+     CHAT HISTORY: '['I havent thought about that. It might help to make things less overwhelming.', 'Thanks, I appreciate that. It just feels like Im juggling too much at once.', 'That sounds doable. Ill give it a try.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I think work-related tasks. Theres a big project looming, and I dont know where to start.'
+     CHAT HISTORY: '['Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.', 'Its just work and personal life piling up. I feel like I cant keep up with everything.', 'Not really. I feel guilty taking breaks when theres so much to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Ill give it a shot. Its worth a try at this point.'
+     CHAT HISTORY: '['Ill give it a shot. Its worth a try at this point.', 'That sounds doable. Ill give it a try.', 'I havent thought about that. It might help to make things less overwhelming.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'That sounds like a great plan. Setting a clear outline for the research phase can provide a roadmap for your project. How do you usually approach research tasks?'
+     CHAT HISTORY: '['I think work-related tasks. Theres a big project looming, and I dont know where to start.', 'Thats the spirit! Small changes can lead to significant improvements. Is there anything specific youd like to focus on breaking down first?', 'That sounds doable. Ill give it a try.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I usually start by gathering information online and then organizing it into categories.'
+     CHAT HISTORY: '['That sounds like a great plan. Setting a clear outline for the research phase can provide a roadmap for your project. How do you usually approach research tasks?', 'I think work-related tasks. Theres a big project looming, and I dont know where to start.', 'Ive tried to stay organized and prioritize tasks, but it feels like theres just too much on my plate. Im getting anxious.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Thats a solid approach. Whats the first piece of information you need for your project, and where can you find it?'
+     CHAT HISTORY: '['That sounds like a great plan. Setting a clear outline for the research phase can provide a roadmap for your project. How do you usually approach research tasks?', 'I usually start by gathering information online and then organizing it into categories.', 'Thats the spirit! Small changes can lead to significant improvements. Is there anything specific youd like to focus on breaking down first?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I need recent market trends. I can find that information in industry reports and online publications.'
+     CHAT HISTORY: '['I usually start by gathering information online and then organizing it into categories.', 'Thats a solid approach. Whats the first piece of information you need for your project, and where can you find it?', 'I used to enjoy reading, but I havent had time for it lately.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I can do that. Ill dedicate the first hour of tomorrow morning to kick off the research phase.'
+     CHAT HISTORY: '['That sounds like a great plan. Setting a clear outline for the research phase can provide a roadmap for your project. How do you usually approach research tasks?', 'That sounds doable. Ill give it a try.', 'Thats a solid approach. Whats the first piece of information you need for your project, and where can you find it?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I feel a bit more relieved. Its like I have a roadmap now. Thanks for helping me break it down.'
+     CHAT HISTORY: '['I havent thought about that. It might help to make things less overwhelming.', 'Thanks, I appreciate that. It just feels like Im juggling too much at once.', 'Thats the spirit! Small changes can lead to significant improvements. Is there anything specific youd like to focus on breaking down first?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Not at the moment. I appreciate your guidance. Its been helpful.'
+     CHAT HISTORY: '['Thanks, I appreciate that. It just feels like Im juggling too much at once.', 'I feel a bit more relieved. Its like I have a roadmap now. Thanks for helping me break it down.', 'Ill give it a shot. Its worth a try at this point.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Thank you. Ill keep that in mind. Have a great day too!'
+     CHAT HISTORY: '['Not at the moment. I appreciate your guidance. Its been helpful.', 'That sounds doable. Ill give it a try.', 'Thanks, I appreciate that. It just feels like Im juggling too much at once.']'
+     
+     ANSWER: 

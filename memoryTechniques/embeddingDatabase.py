@@ -78,23 +78,23 @@ def make_prompt(query, relevant_passage):
      USER INPUT: '{query}'
      CHAT HISTORY: '{relevant_passage}'
      
-     ANSWER:
-     """).format(query=query, relevant_passage=relevant_passage)
+     ANSWER: """).format(query=query, relevant_passage=relevant_passage)
 
     return prompt
 
-def getResponse(query):
+def getEmbeddingResponse(query):
     cleanedQuery = query.replace("'", "").replace('"', "").replace("\n", " ")
     passage = get_relevant_passage(cleanedQuery, user)
     prompt = make_prompt(cleanedQuery, passage)
     # print(prompt)
-    print(textModel)
+    # print(textModel)
     answer = palm.generate_text(**defaults, prompt=prompt, model=textModel)
+    response = answer.candidates[0]['output']
 
     addDocument(cleanedQuery, user)
     # TODO how to include for user input and ai response? Combine them into the same line? separate documents?
 
-    return answer.candidates[0]['output']
+    return response, prompt
 
 
 # temperature = 0.65

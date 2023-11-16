@@ -1,6 +1,7 @@
 import time
 # from embeddingDatabase import getResponse
-from queueMemory import getResponse
+# from memoryTechniques.queueMemory import getResponse
+from memoryTechniques.allMessages import getAllResponse
 
 # Define the function to get a response for a given input
 # def getResponse(inputText):
@@ -19,10 +20,10 @@ try:
         if userInput.lower() == 'q':
             break
         startTime = time.time()
-        response = getResponse(userInput)
+        response = getAllResponse(userInput)
         endTime = time.time()
         totalTime += (endTime - startTime)
-        print(f"Bot: {response}")
+        print(f"AI: {response}")
 
         conversations.extend([userInput, response])
 
@@ -34,6 +35,6 @@ except KeyboardInterrupt:
     filename = 'queueTest'
 
     # Write the input and response pairs to 'convoOutput.txt'
-    with open('output/manual/' + filename + 'Output.txt', 'w') as outputFile:
+    with open('manual/' + filename + 'Output.txt', 'w') as outputFile:
         for line in conversations:
             outputFile.write(line + '\n')
