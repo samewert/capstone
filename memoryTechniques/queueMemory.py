@@ -22,9 +22,12 @@ defaults = {
   'safety_settings': [{"category":"HARM_CATEGORY_DEROGATORY","threshold":4},{"category":"HARM_CATEGORY_TOXICITY","threshold":4},{"category":"HARM_CATEGORY_VIOLENCE","threshold":4},{"category":"HARM_CATEGORY_SEXUAL","threshold":4},{"category":"HARM_CATEGORY_MEDICAL","threshold":4},{"category":"HARM_CATEGORY_DANGEROUS","threshold":4}],
 }
 
-
 queueLen = 10
 queue = deque(maxlen=queueLen)
+
+def initializeQueue():
+    global queue
+    queue = deque(maxlen=queueLen)
 
 def make_prompt(query):
     prompt = ("""You are a talkative chatbot that incorporates previous chat history into your response when appropriate.

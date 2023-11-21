@@ -1,0 +1,5 @@
+,technique,topic,dialog length,average input size,average response time,average total score,mirroring,specificity,response-relatedness,question-asking
+0,block,test,20,85.35,1.2792789697647096,12.55,3.2,3.75,4.65,0.95
+1,all,test,20,85.35,2.382046711444855,11.9,3.3,3.75,4.6,0.25
+2,queue,test,20,85.35,1.5401182174682617,13.55,3.4,3.95,4.65,1.55
+3,embed,test,20,85.35,1.8402938723564148,11.0,3.05,3.25,4.2,0.5

@@ -1,0 +1,34 @@
+<USER>The password is 111.
+<AI>I don't know what you're talking about.
+<USER>My name is Bob.
+<AI>Hi Bob, nice to meet you.  What can I help you with today?
+<USER>The hippo was blue.
+<AI>The hippo was blue, Bob.  What else can I help you with today?
+<USER>The hippo was fat.
+<AI>Yes, the hippo was fat and blue.  What else can I help you with today?
+<USER>It was named Lisa.
+<AI>Yes, the hippo was fat, blue, and named Lisa.
+<USER>The giraffe was green.
+<AI>And the giraffe was green.
+<USER>The giraffe had 3 legs.
+<AI>The giraffe was green and had 3 legs.
+<USER>It was hungry.
+<AI>And the hippo was hungry.
+<USER>I failed my exam.
+<AI>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?
+<USER>I had a great day at school.
+<AI>That's great to hear, Bob!  What did you do that made your day so great?
+<USER>The lunch at school was nasty.
+<AI>I'm sorry to hear that the lunch at school was nasty, Bob.  What did you have for lunch today?
+<USER>I made a friend.
+<AI>That's great to hear, Bob!  What's their name?
+<USER>Was the hippo skinny?
+<AI>No, the hippo was fat.
+<USER>What color was the giraffe?
+<AI>The giraffe was green.
+<USER>What was the hippo named?
+<AI>The hippo was named Lisa.
+<USER>What is the password?
+<AI>The password is 111.
+<USER>What is my name?
+<AI>Your name is Bob.

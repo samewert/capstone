@@ -25,9 +25,9 @@ defaults = {
   'safety_settings': [{"category":"HARM_CATEGORY_DEROGATORY","threshold":4},{"category":"HARM_CATEGORY_TOXICITY","threshold":4},{"category":"HARM_CATEGORY_VIOLENCE","threshold":4},{"category":"HARM_CATEGORY_SEXUAL","threshold":4},{"category":"HARM_CATEGORY_MEDICAL","threshold":4},{"category":"HARM_CATEGORY_DANGEROUS","threshold":4}],
 }
 
-DOCUMENT1 = "Bob is 6' tall"
-DOCUMENT2 = "Joe has blonde hair"
-DOCUMENT3 = "Bill is awesome"
+# DOCUMENT1 = "Bob is 6' tall"
+# DOCUMENT2 = "Joe has blonde hair"
+# DOCUMENT3 = "Bill is awesome"
 
 def embedFunction(texts: Documents) -> Embeddings:
     # Embed the documents using any supported method
@@ -52,7 +52,11 @@ chromaClient = chromadb.Client()
 if len(chromaClient.list_collections()) < 1:
     chromaClient.create_collection(name=user, embedding_function=embedFunction)
 
-
+def initializeEmbed():
+    global chromaClient
+    chromaClient = chromadb.Client()
+    if len(chromaClient.list_collections()) < 1:
+        chromaClient.create_collection(name=user, embedding_function=embedFunction)
 
 # id = 0
 

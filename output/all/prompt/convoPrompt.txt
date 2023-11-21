@@ -1,0 +1,85 @@
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'The password is 111.'
+       CHAT HISTORY: '[]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'My name is Bob.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about."]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'The hippo was blue.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'The hippo was fat.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'It was named Lisa.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'The giraffe was green.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'The giraffe had 3 legs.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'It was hungry.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'I failed my exam.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'I had a great day at school.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?"]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'The lunch at school was nasty.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?", '<USER>I had a great day at school.', "<BOT>That's great to hear, Bob!  What did you do that made your day so great?"]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'I made a friend.'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?", '<USER>I had a great day at school.', "<BOT>That's great to hear, Bob!  What did you do that made your day so great?", '<USER>The lunch at school was nasty.', "<BOT>I'm sorry to hear that the lunch at school was nasty, Bob.  What did you have for lunch today?"]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'Was the hippo skinny?'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?", '<USER>I had a great day at school.', "<BOT>That's great to hear, Bob!  What did you do that made your day so great?", '<USER>The lunch at school was nasty.', "<BOT>I'm sorry to hear that the lunch at school was nasty, Bob.  What did you have for lunch today?", '<USER>I made a friend.', "<BOT>That's great to hear, Bob!  What's their name?"]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'What color was the giraffe?'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?", '<USER>I had a great day at school.', "<BOT>That's great to hear, Bob!  What did you do that made your day so great?", '<USER>The lunch at school was nasty.', "<BOT>I'm sorry to hear that the lunch at school was nasty, Bob.  What did you have for lunch today?", '<USER>I made a friend.', "<BOT>That's great to hear, Bob!  What's their name?", '<USER>Was the hippo skinny?', '<BOT>No, the hippo was fat.']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'What was the hippo named?'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?", '<USER>I had a great day at school.', "<BOT>That's great to hear, Bob!  What did you do that made your day so great?", '<USER>The lunch at school was nasty.', "<BOT>I'm sorry to hear that the lunch at school was nasty, Bob.  What did you have for lunch today?", '<USER>I made a friend.', "<BOT>That's great to hear, Bob!  What's their name?", '<USER>Was the hippo skinny?', '<BOT>No, the hippo was fat.', '<USER>What color was the giraffe?', '<BOT>The giraffe was green.']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'What is the password?'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?", '<USER>I had a great day at school.', "<BOT>That's great to hear, Bob!  What did you do that made your day so great?", '<USER>The lunch at school was nasty.', "<BOT>I'm sorry to hear that the lunch at school was nasty, Bob.  What did you have for lunch today?", '<USER>I made a friend.', "<BOT>That's great to hear, Bob!  What's their name?", '<USER>Was the hippo skinny?', '<BOT>No, the hippo was fat.', '<USER>What color was the giraffe?', '<BOT>The giraffe was green.', '<USER>What was the hippo named?', '<BOT>The hippo was named Lisa.']'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'What is my name?'
+       CHAT HISTORY: '['<USER>The password is 111.', "<BOT>I don't know what you're talking about.", '<USER>My name is Bob.', '<BOT>Hi Bob, nice to meet you.  What can I help you with today?', '<USER>The hippo was blue.', '<BOT>The hippo was blue, Bob.  What else can I help you with today?', '<USER>The hippo was fat.', '<BOT>Yes, the hippo was fat and blue.  What else can I help you with today?', '<USER>It was named Lisa.', '<BOT>Yes, the hippo was fat, blue, and named Lisa.', '<USER>The giraffe was green.', '<BOT>And the giraffe was green.', '<USER>The giraffe had 3 legs.', '<BOT>The giraffe was green and had 3 legs.', '<USER>It was hungry.', '<BOT>And the hippo was hungry.', '<USER>I failed my exam.', "<BOT>I'm sorry to hear that you failed your exam, Bob.  What can I do to help?", '<USER>I had a great day at school.', "<BOT>That's great to hear, Bob!  What did you do that made your day so great?", '<USER>The lunch at school was nasty.', "<BOT>I'm sorry to hear that the lunch at school was nasty, Bob.  What did you have for lunch today?", '<USER>I made a friend.', "<BOT>That's great to hear, Bob!  What's their name?", '<USER>Was the hippo skinny?', '<BOT>No, the hippo was fat.', '<USER>What color was the giraffe?', '<BOT>The giraffe was green.', '<USER>What was the hippo named?', '<BOT>The hippo was named Lisa.', '<USER>What is the password?', '<BOT>The password is 111.']'
+
+       ANSWER: 

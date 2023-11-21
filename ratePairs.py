@@ -57,12 +57,20 @@ def getRating(user, ai):
     # print(prompt)
     answer = palm.generate_text(**defaults, prompt=prompt)
     response = answer.candidates[0]['output']
+
     # messages.append('<USER>' + userInput)
     # messages.append('<BOT>' + response)
-    stats = response.split(', ')
     dictionary = {}
+    stats = response.split(', ')
+
     for stat in stats:
-        key, value = stat.split(': ')
+        try:
+            key, value = stat.split(': ')
+        except Exception as e:
+            print(user)
+            print(ai)
+            print(stats)
+
         dictionary[key] = int(value)
 
     return dictionary

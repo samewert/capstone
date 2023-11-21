@@ -25,6 +25,12 @@ defaults = {
 memory = []
 messages = []
 
+def initializeBlock():
+    global memory
+    global messages
+    memory = []
+    messages = []
+
 # Be an AI chatbot. Read in the messages and memory. Create your response accordingly.
 
 def make_prompt(text):

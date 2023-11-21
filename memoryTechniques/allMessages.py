@@ -23,6 +23,10 @@ defaults = {
 
 messages = []
 
+def initializeAll():
+  global messages
+  messages = []
+
 def make_prompt(query):
   prompt = ("""You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
        USER INPUT: '{query}'
