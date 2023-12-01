@@ -1,0 +1,7 @@
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 5}
+{'mirroring': 3, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 5}
+{'mirroring': 3, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 4, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 1, 'specificity': 1, 'response-relatedness': 4, 'question-asking': 0}
+{'mirroring': 1, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}

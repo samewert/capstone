@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm really struggling with an eating disorder right now. I'm not sure what to do.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Well, I've been struggling with anorexia for a few years now. I'm constantly restricting my food intake and counting calories. I'm also terrified of gaining weight.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm really struggling with an eating disorder right now. I'm not sure what to do.", "<AI>I'm sorry to hear that you're struggling with an eating disorder. It's a very difficult thing to deal with, and I want to offer you my support.\n\nHere are some resources that you may find helpful:\n\n- The National Eating Disorders Association: 1-800-931-2237\n- The National Institute of Mental Health: 1-800-662-HELP (4357)\n- Eating Disorders Online: https://www.eatingdisordersonline.com\n\nYou can also find support online through forums and chat rooms. Here are a few resources:\n\n- The National Eating Disorders Association: https://www.nationaleatingdisorders.org/support/chat\n- Eating Disorders Online: https://www.eatingdisordersonline.com/forums\n\nRemember, you are not alone. There are people who care about you and want to help you get through this. Please reach out for help if you need it."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'What can I do?'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm really struggling with an eating disorder right now. I'm not sure what to do.", "<AI>I'm sorry to hear that you're struggling with an eating disorder. It's a very difficult thing to deal with, and I want to offer you my support.\n\nHere are some resources that you may find helpful:\n\n- The National Eating Disorders Association: 1-800-931-2237\n- The National Institute of Mental Health: 1-800-662-HELP (4357)\n- Eating Disorders Online: https://www.eatingdisordersonline.com\n\nYou can also find support online through forums and chat rooms. Here are a few resources:\n\n- The National Eating Disorders Association: https://www.nationaleatingdisorders.org/support/chat\n- Eating Disorders Online: https://www.eatingdisordersonline.com/forums\n\nRemember, you are not alone. There are people who care about you and want to help you get through this. Please reach out for help if you need it.", "<USER>Well, I've been struggling with anorexia for a few years now. I'm constantly restricting my food intake and counting calories. I'm also terrified of gaining weight.", "<AI>I'm sorry to hear that you're struggling with anorexia. It's a very difficult thing to deal with, and I want to offer you my support.\n\nHere are some things that you can do to help yourself:\n\n* **Talk to someone you trust.** This could be a friend, family member, therapist, or other healthcare provider. Talking about your struggles can help you to feel less alone and can give you the support you need to get through this.\n* **Seek professional help.** Eating disorders are serious mental illnesses that require professional treatment. A therapist can help you to understand your disorder and develop coping mechanisms to help you manage your symptoms.\n* **Take care of yourself.** This means eating healthy foods, getting enough sleep, and exercising regularly. Taking care of yourself physically can help you to feel better mentally and emotionally.\n* **Be patient with yourself.** Recovery from an eating disorder takes time. Don't get discouraged if you have setbacks. Just keep working at it and you will eventually get better.\n\nRemember, you are not alone. There are people who care about you and want to help you get through this. Please reach out for help if you need it."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm not sure if I'm ready to develop a meal plan yet. I'm really scared of eating more food.'
+  MEMORY: '['User is struggling with an eating disorder. AI provides resources and support.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Okay. I'm willing to try.'
+  MEMORY: '['User is struggling with an eating disorder. AI provides resources and support.']'
+  CHAT HISTORY: '["<USER>I'm not sure if I'm ready to develop a meal plan yet. I'm really scared of eating more food.", "<AI>I understand that you're scared of eating more food. It's a common fear for people who are struggling with an eating disorder. But I want to remind you that eating is essential for your health and well-being. When you eat enough food, you give your body the nutrients it needs to function properly. You also help to maintain a healthy weight.\n\nI know it's hard to take that first step, but I'm here to support you. We can work together to develop a meal plan that's right for you. It doesn't have to be anything drastic. Just start by adding a few more healthy foods to your diet each day. And remember, I'm here for you every step of the way."]'
+
+  ANSWER: 

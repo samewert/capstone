@@ -1,0 +1,25 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I dont want to waste time. I want to graduate on time and get a good job.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know. But its so hard to decide. I feel like Im lost.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.', 'But I dont want to waste time. I want to graduate on time and get a good job.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I appreciate your help.'
+     SIMILAR PAST USER INPUT: '['I know. But its so hard to decide. I feel like Im lost.', 'Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'But I dont want to waste time. I want to graduate on time and get a good job.']'
+     
+     ANSWER: 

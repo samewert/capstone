@@ -1,0 +1,48 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm struggling with my sexuality, JOY. I've always considered myself to be straight, but lately I've been questioning that. I'm attracted to men, but I'm also attracted to women. I'm not sure what to do.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But I'm so confused. I don't know what I'm feeling.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm struggling with my sexuality, JOY. I've always considered myself to be straight, but lately I've been questioning that. I'm attracted to men, but I'm also attracted to women. I'm not sure what to do.", "<AI>It sounds like you're going through a lot right now. I'm here to listen and support you. It's okay to be questioning your sexuality. Many people do at some point in their lives. There is no right or wrong answer. You just need to figure out what feels right for you.\n\nHere are some resources that might be helpful:\n- The Trevor Project: 1-866-488-7386\n- The National Sexual Assault Hotline: 1-800-656-HOPE\n- Planned Parenthood: 1-800-230-PLAN\n\nYou can also talk to a therapist or counselor who can help you work through your feelings."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But I feel like I'm the only one who's feeling this way.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm struggling with my sexuality, JOY. I've always considered myself to be straight, but lately I've been questioning that. I'm attracted to men, but I'm also attracted to women. I'm not sure what to do.", "<AI>It sounds like you're going through a lot right now. I'm here to listen and support you. It's okay to be questioning your sexuality. Many people do at some point in their lives. There is no right or wrong answer. You just need to figure out what feels right for you.\n\nHere are some resources that might be helpful:\n- The Trevor Project: 1-866-488-7386\n- The National Sexual Assault Hotline: 1-800-656-HOPE\n- Planned Parenthood: 1-800-230-PLAN\n\nYou can also talk to a therapist or counselor who can help you work through your feelings.", "<USER>But I'm so confused. I don't know what I'm feeling.", "<AI>It's understandable to feel confused when you're questioning your sexuality. It can be a lot to process, and it's okay to take your time figuring things out. There is no right or wrong answer. You just need to figure out what feels right for you.\n\nHere are some things that might help:\n\n* Talk to a trusted friend or family member.\n* Read books or articles about sexuality.\n* Join a support group for people who are questioning their sexuality.\n* See a therapist or counselor who can help you work through your feelings.\n\nRemember, you are not alone. There are many people who have been through the same thing, and they can help you on your journey."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But what do I do now?'
+  MEMORY: '['User is struggling with their sexuality and is feeling confused. AI provides support and resources.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I don't know if I'm ready to talk to anyone about this yet.'
+  MEMORY: '['User is struggling with their sexuality and is feeling confused. AI provides support and resources.']'
+  CHAT HISTORY: '['<USER>But what do I do now?', "<AI>It's okay to feel confused. It's a big decision, and it's important to take your time. There are a lot of resources available to help you explore your sexuality. You can find some of them here:\n\n* [The Trevor Project](https://www.thetrevorproject.org/)\n* [Sexuality.org](https://www.sexuality.org/)\n* [GLAAD](https://www.glaad.org/)\n\nYou can also talk to a trusted friend or family member, or a therapist. They can help you process your feelings and make a decision that's right for you."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But I don't know what to do.'
+  MEMORY: '['User is struggling with their sexuality and is feeling confused. AI provides support and resources.']'
+  CHAT HISTORY: '['<USER>But what do I do now?', "<AI>It's okay to feel confused. It's a big decision, and it's important to take your time. There are a lot of resources available to help you explore your sexuality. You can find some of them here:\n\n* [The Trevor Project](https://www.thetrevorproject.org/)\n* [Sexuality.org](https://www.sexuality.org/)\n* [GLAAD](https://www.glaad.org/)\n\nYou can also talk to a trusted friend or family member, or a therapist. They can help you process your feelings and make a decision that's right for you.", "<USER>I don't know if I'm ready to talk to anyone about this yet.", "<AI>I understand that you're not ready to talk to anyone about this yet. That's okay. It's important to take your time and do what feels right for you. There are a lot of resources available to help you explore your sexuality. You can find some of them here:\\n\\n* [The Trevor Project](https://www.thetrevorproject.org/)\\n* [Sexuality.org](https://www.sexuality.org/)\\n* [GLAAD](https://www.glaad.org/)\\n\\nYou can also talk to a trusted friend or family member, or a therapist. They can help you process your feelings and make a decision that's right for you."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Okay.'
+  MEMORY: '['User is struggling with their sexuality and is feeling confused. AI provides support and resources.', 'The user is confused about their sexuality and is looking for resources to help them explore. The AI provides a list of resources and encourages the user to take their time and do what feels right for them.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'No, I think that's all. Thank you for listening to me, JOY.'
+  MEMORY: '['User is struggling with their sexuality and is feeling confused. AI provides support and resources.', 'The user is confused about their sexuality and is looking for resources to help them explore. The AI provides a list of resources and encourages the user to take their time and do what feels right for them.']'
+  CHAT HISTORY: '['<USER>Okay.', "<AI>Okay, I'm here to help you explore your sexuality. What would you like to know?"]'
+
+  ANSWER: 

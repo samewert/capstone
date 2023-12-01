@@ -1,0 +1,16 @@
+<USER>Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.
+<AI>It sounds like you're going through a tough time. I'm here to listen and support you. Can you tell me more about what you're feeling?
+<USER>Thank you. I feel a little better already.
+<AI>I'm glad to hear that I could help. It's important to reach out for help when you're struggling with depression. Remember, you're not alone. There are people who care about you and want to support you.
+<USER>I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.
+<AI>I'm glad to hear that you're feeling a little better. It's important to reach out for help when you're struggling with depression. Remember, you're not alone. There are people who care about you and want to support you.
+
+I'm here to listen and support you. Can you tell me more about what you're feeling?
+<USER>Thank you. I appreciate that.
+<AI>You're welcome. I'm glad I could help. It's important to reach out for help when you're struggling with depression. Remember, you're not alone. There are people who care about you and want to support you.
+<USER>I’m not sure. I guess I just want to feel better. I want to be able to enJOY my life again.
+<AI>It sounds like you're feeling a lot of pain right now. I'm here to listen and support you. Can you tell me more about what you're hoping to achieve by feeling better?
+<USER>Okay.
+<AI>Okay. It sounds like you're struggling with a lot of pain right now. I'm here to listen and support you. Can you tell me more about what you're hoping to achieve by feeling better?
+<USER>Thank you.
+<AI>You're welcome. I'm glad I could help. It's important to reach out for help when you're struggling with depression. Remember, you're not alone. There are people who care about you and want to support you.

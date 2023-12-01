@@ -1,0 +1,35 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Hi JOY, Im really struggling with anxiety lately. I feel like Im constantly on edge, and its making it hard for me to focus on my studies and social life.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks, JOY. Im not sure where to start.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really struggling with anxiety lately. I feel like Im constantly on edge, and its making it hard for me to focus on my studies and social life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel anxious about a lot of things, but especially about upcoming exams and presentations. I also get anxious when I have to socialize with new people.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really struggling with anxiety lately. I feel like Im constantly on edge, and its making it hard for me to focus on my studies and social life.', 'Thanks, JOY. Im not sure where to start.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive tried a few things, like deep breathing and meditation. Ive also tried to exercise regularly and get enough sleep. But it doesnt seem to be enough.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really struggling with anxiety lately. I feel like Im constantly on edge, and its making it hard for me to focus on my studies and social life.', 'I feel anxious about a lot of things, but especially about upcoming exams and presentations. I also get anxious when I have to socialize with new people.', 'Thanks, JOY. Im not sure where to start.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What are those?'
+     SIMILAR PAST USER INPUT: '['Thanks, JOY. Im not sure where to start.', 'I feel anxious about a lot of things, but especially about upcoming exams and presentations. I also get anxious when I have to socialize with new people.', 'Hi JOY, Im really struggling with anxiety lately. I feel like Im constantly on edge, and its making it hard for me to focus on my studies and social life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'That sounds interesting. Im open to trying anything.'
+     SIMILAR PAST USER INPUT: '['Thanks, JOY. Im not sure where to start.', 'Ive tried a few things, like deep breathing and meditation. Ive also tried to exercise regularly and get enough sleep. But it doesnt seem to be enough.', 'What are those?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I really appreciate your help.'
+     SIMILAR PAST USER INPUT: '['Thanks, JOY. Im not sure where to start.', 'Hi JOY, Im really struggling with anxiety lately. I feel like Im constantly on edge, and its making it hard for me to focus on my studies and social life.', 'Ive tried a few things, like deep breathing and meditation. Ive also tried to exercise regularly and get enough sleep. But it doesnt seem to be enough.']'
+     
+     ANSWER: 

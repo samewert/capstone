@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and it's hard to feel connected to him when we're so far apart.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But how? I feel like I'm doing everything wrong.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and it's hard to feel connected to him when we're so far apart.", "<AI>**I'm sorry to hear that you're having trouble managing your long-distance relationship. I can imagine that it's hard to feel connected to your boyfriend when you're so far apart.**"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But what are some things we can do?'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and it's hard to feel connected to him when we're so far apart.", "<AI>**I'm sorry to hear that you're having trouble managing your long-distance relationship. I can imagine that it's hard to feel connected to your boyfriend when you're so far apart.**", "<USER>But how? I feel like I'm doing everything wrong.", "<AI>It's understandable to feel like you're doing everything wrong when you're in a long-distance relationship. It can be hard to maintain a connection with someone who's far away, and it's easy to feel like you're not doing enough. But the truth is, you're not doing anything wrong. You're just in a difficult situation.\n\nHere are a few things you can do to help manage your long-distance relationship:\n\n* **Stay connected.** Make sure to stay in touch with your boyfriend as much as possible. Talk on the phone, text, video chat, or send each other emails. It's important to keep the lines of communication open, even when you're apart.\n* **Be supportive.** Be there for your boyfriend when he needs you. Listen to him when he's feeling down, and offer him your support. Let him know that you're there for him, no matter what.\n* **Be patient.** Long-distance relationships take time and effort. It's important to be patient and understanding when things get tough. Remember, you're in this together.\n\nI know it's not easy, but I believe in you. You can do this."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Those are all great tips. I'll try to implement them more in my relationship.'
+  MEMORY: '['**USER** is having trouble managing her long-distance relationship while in college. **AI** provides support and suggests ways to manage the relationship.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. I feel much better now.'
+  MEMORY: '['**USER** is having trouble managing her long-distance relationship while in college. **AI** provides support and suggests ways to manage the relationship.']'
+  CHAT HISTORY: '["<USER>Those are all great tips. I'll try to implement them more in my relationship.", "<AI>I'm glad I could help! It sounds like you're on the right track. Just remember to communicate with your partner often, and be patient with each other. Long-distance relationships can be tough, but they can also be very rewarding."]'
+
+  ANSWER: 

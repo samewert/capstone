@@ -1,0 +1,42 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you. I feel a little better already.'
+  MEMORY: '[]'
+  CHAT HISTORY: '['<USER>Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', "<AI>It sounds like you're going through a tough time. I'm here to listen and support you. Can you tell me more about what you're feeling?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.'
+  MEMORY: '[]'
+  CHAT HISTORY: '['<USER>Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', "<AI>It sounds like you're going through a tough time. I'm here to listen and support you. Can you tell me more about what you're feeling?", '<USER>Thank you. I feel a little better already.', "<AI>I'm glad to hear that. I'm here for you if you need anything."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you. I appreciate that.'
+  MEMORY: '['USER is struggling with feelings of depression. AI listens and provides support.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I’m not sure. I guess I just want to feel better. I want to be able to enJOY my life again.'
+  MEMORY: '['USER is struggling with feelings of depression. AI listens and provides support.']'
+  CHAT HISTORY: '['<USER>Thank you. I appreciate that.', "<AI>You're welcome. I'm glad I could help."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Okay.'
+  MEMORY: '['USER is struggling with feelings of depression. AI listens and provides support.']'
+  CHAT HISTORY: '['<USER>Thank you. I appreciate that.', "<AI>You're welcome. I'm glad I could help.", '<USER>I’m not sure. I guess I just want to feel better. I want to be able to enJOY my life again.', "<AI>I understand that you're struggling with feelings of depression, and I want to help you feel better. It's important to remember that you're not alone, and there are people who care about you and want to help. It's also important to remember that you have the power to make choices that will help you feel better. For example, you can make choices that will improve your physical health, such as eating healthy foods and getting regular exercise. You can also make choices that will improve your mental health, such as spending time with loved ones, doing things you enjoy, and learning new things. It's important to be patient with yourself and to remember that it takes time to heal. But if you keep working at it, you will eventually feel better."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you.'
+  MEMORY: '['USER is struggling with feelings of depression. AI listens and provides support.', 'User is struggling with feelings of depression and AI provides support and suggestions to help user feel better.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 

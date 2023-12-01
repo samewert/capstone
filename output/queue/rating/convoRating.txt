@@ -4,12 +4,12 @@
 {'mirroring': 3, 'specificity': 3, 'response-relatedness': 4, 'question-asking': 5}
 {'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
 {'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
-{'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
-{'mirroring': 0, 'specificity': 0, 'response-relatedness': 0, 'question-asking': 0}
+{'mirroring': 1, 'specificity': 2, 'response-relatedness': 3, 'question-asking': 0}
+{'mirroring': 1, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
 {'mirroring': 3, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 5}
 {'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
-{'mirroring': 4, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 5}
-{'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 5}
 {'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
 {'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}
 {'mirroring': 5, 'specificity': 5, 'response-relatedness': 5, 'question-asking': 0}

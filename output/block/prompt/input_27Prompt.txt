@@ -1,0 +1,24 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Hi JOY, I'm feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. He's smarter, more popular, and more athletic. I'm always afraid that he's going to find someone better.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but it's hard not to compare myself. He's always getting attention from other girls, and I'm always worried that he's going to leave me for someone else.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>Hi JOY, I'm feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. He's smarter, more popular, and more athletic. I'm always afraid that he's going to find someone better.", "<AI>Hi there, I'm JOY, a chatbot here to help you with your insecurities. It sounds like you're feeling really down about your relationship. Can you tell me more about what's going on?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess I'm just not used to being in a relationship where someone actually likes me. I've been hurt in the past, so it's hard for me to trust people.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>Hi JOY, I'm feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. He's smarter, more popular, and more athletic. I'm always afraid that he's going to find someone better.", "<AI>Hi there, I'm JOY, a chatbot here to help you with your insecurities. It sounds like you're feeling really down about your relationship. Can you tell me more about what's going on?", "<USER>I know, but it's hard not to compare myself. He's always getting attention from other girls, and I'm always worried that he's going to leave me for someone else.", "<AI>I understand that it can be hard to see your boyfriend getting attention from other girls, especially when you're feeling insecure. But it's important to remember that he's with you for a reason. He chose you, and he loves you. If he wanted to be with someone else, he would be. So try not to compare yourself to other girls. Just focus on being the best version of yourself that you can be. That's what will make your boyfriend happy."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thanks, JOY. I feel a little better already.'
+  MEMORY: '["USER is feeling insecure about her relationship because she feels like her boyfriend is better than her in every way. She's afraid that he's going to find someone better. AI assures USER that her boyfriend loves her and wouldn't be with her if he didn't. AI encourages USER to let go of her insecurities and trust her boyfriend."]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 

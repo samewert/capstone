@@ -1,0 +1,20 @@
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'I'm so worried about my future career. I don't know what I want to do with my life, and I'm afraid of making the wrong decision.'
+       CHAT HISTORY: '[]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'I guess that makes me feel a little better. But I'm still really scared. I don't want to make a decision that I'll regret later.'
+       CHAT HISTORY: '["<USER>I'm so worried about my future career. I don't know what I want to do with my life, and I'm afraid of making the wrong decision.", "<BOT>It sounds like you're feeling stressed about your future career. That's understandable - it's a big decision! But don't worry, you're not alone. Many people feel the same way."]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'But how do I know what I'm passionate about? I've tried so many different things, but nothing really seems to stick.'
+       CHAT HISTORY: '["<USER>I'm so worried about my future career. I don't know what I want to do with my life, and I'm afraid of making the wrong decision.", "<BOT>It sounds like you're feeling stressed about your future career. That's understandable - it's a big decision! But don't worry, you're not alone. Many people feel the same way.", "<USER>I guess that makes me feel a little better. But I'm still really scared. I don't want to make a decision that I'll regret later.", "<BOT>I understand your concern. It's important to make a decision that you're happy with, but it's also important to remember that you can always change your mind later on. If you're really struggling to make a decision, you could talk to a career counselor or a trusted friend or family member for some advice."]'
+
+       ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+       USER INPUT: 'Thanks, JOY. That's really helpful. I feel a little bit better now.'
+       CHAT HISTORY: '["<USER>I'm so worried about my future career. I don't know what I want to do with my life, and I'm afraid of making the wrong decision.", "<BOT>It sounds like you're feeling stressed about your future career. That's understandable - it's a big decision! But don't worry, you're not alone. Many people feel the same way.", "<USER>I guess that makes me feel a little better. But I'm still really scared. I don't want to make a decision that I'll regret later.", "<BOT>I understand your concern. It's important to make a decision that you're happy with, but it's also important to remember that you can always change your mind later on. If you're really struggling to make a decision, you could talk to a career counselor or a trusted friend or family member for some advice.", "<USER>But how do I know what I'm passionate about? I've tried so many different things, but nothing really seems to stick.", "<BOT>That's a great question. There are a few ways to figure out what you're passionate about. One way is to think about the things you enjoy doing. What activities do you find yourself drawn to? What do you do for fun? Another way to figure out your passion is to think about the things you're good at. What are you naturally talented at? What are you good at that others seem to appreciate? Once you have a few ideas of what you're passionate about, you can start to explore those interests further. You can read books, watch documentaries, or talk to people who are passionate about the same things. You can also try out different activities to see if you enjoy them. The more you explore your interests, the more likely you are to find something that you're passionate about."]'
+
+       ANSWER: 

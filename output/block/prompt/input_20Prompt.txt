@@ -1,0 +1,48 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I've been feeling really lonely lately.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Well, I don't really have any close friends here. Everyone seems to have their own group of friends already, and I feel like I just don't fit in. I've tried to join a few clubs, but I just feel awkward and out of place.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I've been feeling really lonely lately.", "<AI>It's understandable to feel lonely sometimes. Everyone feels lonely sometimes. It's important to remember that you're not alone. There are people who care about you and want to be there for you."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but it's still hard. I miss my friends from home, and I just want to feel like I belong here.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I've been feeling really lonely lately.", "<AI>It's understandable to feel lonely sometimes. Everyone feels lonely sometimes. It's important to remember that you're not alone. There are people who care about you and want to be there for you.", "<USER>Well, I don't really have any close friends here. Everyone seems to have their own group of friends already, and I feel like I just don't fit in. I've tried to join a few clubs, but I just feel awkward and out of place.", "<AI>I understand how you feel. It can be tough to feel like you don't fit in. It's important to remember that you're not alone. There are plenty of people who feel the same way. And there are things you can do to make friends and feel more connected to others.\n\nOne thing you might try is to join a club or group that you're interested in. This is a great way to meet people who share your interests. You can also try volunteering your time. This is a great way to give back to your community and meet new people at the same time.\n\nIt's also important to be yourself. Don't try to be someone you're not. People will be more likely to want to be friends with you if they know the real you.\n\nFinally, don't be afraid to reach out to people. If you see someone you'd like to get to know, introduce yourself. The worst that can happen is they say no. But the best that can happen is you make a new friend."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I don't know. I just feel so lost and alone right now.'
+  MEMORY: '["The user is feeling lonely because they don't have any close friends where they live now. They have tried to join clubs and volunteer, but still feel awkward and out of place. They miss their friends from home and just want to feel like they belong. The AI provides reassurance that the user is not alone and offers suggestions on how to make friends."]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you. That means a lot.'
+  MEMORY: '["The user is feeling lonely because they don't have any close friends where they live now. They have tried to join clubs and volunteer, but still feel awkward and out of place. They miss their friends from home and just want to feel like they belong. The AI provides reassurance that the user is not alone and offers suggestions on how to make friends."]'
+  CHAT HISTORY: '["<USER>I don't know. I just feel so lost and alone right now.", "<AI>It's understandable to feel lost and alone when you're in a new place and don't have any close friends. Many people have been in your shoes. It's important to remember that you're not alone. There are people who care about you and want to help.\n\nI can see that you've tried to join clubs and volunteer, which are great ways to meet new people. However, it can take time to build close friendships. Don't be discouraged if you don't make a ton of friends right away. Just keep putting yourself out there and eventually you'll find your people.\n\nIn the meantime, here are a few things you can do to help cope with loneliness:\n\n* **Spend time with your family and friends from home.** Even if you can't physically be with them, you can still stay connected through phone calls, video chats, and social media.\n* **Find activities that you enjoy and that you can do with other people.** This could include joining a club, taking a class, or volunteering.\n* **Reach out to a therapist or counselor.** Talking to a professional can help you process your feelings and develop coping mechanisms.\n\nRemember, you are not alone. There are people who care about you and want to help. Just keep putting yourself out there and eventually you'll find your people."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I like to read, write, and play music. I also enJOY spending time outdoors.'
+  MEMORY: '["The user is feeling lonely because they don't have any close friends where they live now. They have tried to join clubs and volunteer, but still feel awkward and out of place. They miss their friends from home and just want to feel like they belong. The AI provides reassurance that the user is not alone and offers suggestions on how to make friends."]'
+  CHAT HISTORY: '["<USER>I don't know. I just feel so lost and alone right now.", "<AI>It's understandable to feel lost and alone when you're in a new place and don't have any close friends. Many people have been in your shoes. It's important to remember that you're not alone. There are people who care about you and want to help.\n\nI can see that you've tried to join clubs and volunteer, which are great ways to meet new people. However, it can take time to build close friendships. Don't be discouraged if you don't make a ton of friends right away. Just keep putting yourself out there and eventually you'll find your people.\n\nIn the meantime, here are a few things you can do to help cope with loneliness:\n\n* **Spend time with your family and friends from home.** Even if you can't physically be with them, you can still stay connected through phone calls, video chats, and social media.\n* **Find activities that you enjoy and that you can do with other people.** This could include joining a club, taking a class, or volunteering.\n* **Reach out to a therapist or counselor.** Talking to a professional can help you process your feelings and develop coping mechanisms.\n\nRemember, you are not alone. There are people who care about you and want to help. Just keep putting yourself out there and eventually you'll find your people.", '<USER>Thank you. That means a lot.', "<AI>You're welcome. I'm glad I could help."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'That's a good idea. I'll think about it.'
+  MEMORY: '["The user is feeling lonely because they don't have any close friends where they live now. They have tried to join clubs and volunteer, but still feel awkward and out of place. They miss their friends from home and just want to feel like they belong. The AI provides reassurance that the user is not alone and offers suggestions on how to make friends.", 'The AI provides comfort and support to the user who is feeling lost and alone. The AI also provides suggestions on how to cope with loneliness.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. I really appreciate it.'
+  MEMORY: '["The user is feeling lonely because they don't have any close friends where they live now. They have tried to join clubs and volunteer, but still feel awkward and out of place. They miss their friends from home and just want to feel like they belong. The AI provides reassurance that the user is not alone and offers suggestions on how to make friends.", 'The AI provides comfort and support to the user who is feeling lost and alone. The AI also provides suggestions on how to cope with loneliness.']'
+  CHAT HISTORY: '["<USER>That's a good idea. I'll think about it.", "<AI>I'm glad you're considering it. Making new friends can be hard, but it's definitely worth it. There are lots of ways to meet new people, and I'm sure you'll find some friends who make you feel like you belong."]'
+
+  ANSWER: 

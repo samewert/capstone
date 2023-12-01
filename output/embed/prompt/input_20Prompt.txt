@@ -1,0 +1,40 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been feeling really lonely lately.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Well, I dont really have any close friends here. Everyone seems to have their own group of friends already, and I feel like I just dont fit in. Ive tried to join a few clubs, but I just feel awkward and out of place.'
+     SIMILAR PAST USER INPUT: '['Ive been feeling really lonely lately.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but its still hard. I miss my friends from home, and I just want to feel like I belong here.'
+     SIMILAR PAST USER INPUT: '['Well, I dont really have any close friends here. Everyone seems to have their own group of friends already, and I feel like I just dont fit in. Ive tried to join a few clubs, but I just feel awkward and out of place.', 'Ive been feeling really lonely lately.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I dont know. I just feel so lost and alone right now.'
+     SIMILAR PAST USER INPUT: '['Ive been feeling really lonely lately.', 'I know, but its still hard. I miss my friends from home, and I just want to feel like I belong here.', 'Well, I dont really have any close friends here. Everyone seems to have their own group of friends already, and I feel like I just dont fit in. Ive tried to join a few clubs, but I just feel awkward and out of place.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you. That means a lot.'
+     SIMILAR PAST USER INPUT: '['I know, but its still hard. I miss my friends from home, and I just want to feel like I belong here.', 'Ive been feeling really lonely lately.', 'I dont know. I just feel so lost and alone right now.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I like to read, write, and play music. I also enJOY spending time outdoors.'
+     SIMILAR PAST USER INPUT: '['I know, but its still hard. I miss my friends from home, and I just want to feel like I belong here.', 'Well, I dont really have any close friends here. Everyone seems to have their own group of friends already, and I feel like I just dont fit in. Ive tried to join a few clubs, but I just feel awkward and out of place.', 'I dont know. I just feel so lost and alone right now.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thats a good idea. Ill think about it.'
+     SIMILAR PAST USER INPUT: '['Thank you. That means a lot.', 'I like to read, write, and play music. I also enJOY spending time outdoors.', 'I know, but its still hard. I miss my friends from home, and I just want to feel like I belong here.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I really appreciate it.'
+     SIMILAR PAST USER INPUT: '['Thank you. That means a lot.', 'I know, but its still hard. I miss my friends from home, and I just want to feel like I belong here.', 'Thats a good idea. Ill think about it.']'
+     
+     ANSWER: 

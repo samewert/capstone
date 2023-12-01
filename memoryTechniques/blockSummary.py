@@ -2,7 +2,7 @@ messages = []
 
 import google.generativeai as palm
 
-bardKey = 'AIzaSyAD17YvlKd1b0gYirNd7Ta-gTxYok76A3U'
+bardKey = 'AIzaSyBr6QwSp3NuJ4j_rYBWKHJ13dytTTa9g8c'
 palm.configure(api_key=bardKey)
 
 models = [m for m in palm.list_models() if 'embedText' in m.supported_generation_methods]

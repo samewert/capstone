@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling really stressed about not fitting in at college. I feel like I dont belong here.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Well, I dont seem to have anything in common with the other students. Theyre all so popular and outgoing, and Im just not. I feel like Im always on the outside looking in.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about not fitting in at college. I feel like I dont belong here.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but its hard not to compare myself to others. Everyone seems to have so many friends, and Im just lonely.'
+     SIMILAR PAST USER INPUT: '['Well, I dont seem to have anything in common with the other students. Theyre all so popular and outgoing, and Im just not. I feel like Im always on the outside looking in.', 'Im feeling really stressed about not fitting in at college. I feel like I dont belong here.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I hope so.'
+     SIMILAR PAST USER INPUT: '['I know, but its hard not to compare myself to others. Everyone seems to have so many friends, and Im just lonely.', 'Im feeling really stressed about not fitting in at college. I feel like I dont belong here.', 'Well, I dont seem to have anything in common with the other students. Theyre all so popular and outgoing, and Im just not. I feel like Im always on the outside looking in.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks. I think Ill try getting involved in some clubs.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about not fitting in at college. I feel like I dont belong here.', 'I know, but its hard not to compare myself to others. Everyone seems to have so many friends, and Im just lonely.', 'Well, I dont seem to have anything in common with the other students. Theyre all so popular and outgoing, and Im just not. I feel like Im always on the outside looking in.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay. Ill try.'
+     SIMILAR PAST USER INPUT: '['Thanks. I think Ill try getting involved in some clubs.', 'I hope so.', 'I know, but its hard not to compare myself to others. Everyone seems to have so many friends, and Im just lonely.']'
+     
+     ANSWER: 

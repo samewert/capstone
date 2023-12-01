@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm just feeling really stressed out about being away from home for the first time. I miss my family and friends, and I'm not sure if I'm going to make it here.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but it's just so hard. I feel like I'm all alone.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm just feeling really stressed out about being away from home for the first time. I miss my family and friends, and I'm not sure if I'm going to make it here.", "<AI>It's understandable to feel stressed out about being away from home for the first time. It's a big change, and it can be hard to adjust. But I'm here to help you through this.\n\nI know you miss your family and friends. That's totally normal. But you can still stay connected with them through phone calls, video chats, and social media. And you'll make new friends here, too. It just takes time.\n\nI'm not sure if you're going to make it here. But I believe in you. You're strong and capable, and you can do anything you set your mind to. Just take it one day at a time, and don't be afraid to ask for help when you need it."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess I could talk to my roommate, but she seems to be doing fine. I don't want to burden her with my problems.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm just feeling really stressed out about being away from home for the first time. I miss my family and friends, and I'm not sure if I'm going to make it here.", "<AI>It's understandable to feel stressed out about being away from home for the first time. It's a big change, and it can be hard to adjust. But I'm here to help you through this.\n\nI know you miss your family and friends. That's totally normal. But you can still stay connected with them through phone calls, video chats, and social media. And you'll make new friends here, too. It just takes time.\n\nI'm not sure if you're going to make it here. But I believe in you. You're strong and capable, and you can do anything you set your mind to. Just take it one day at a time, and don't be afraid to ask for help when you need it.", "<USER>I know, but it's just so hard. I feel like I'm all alone.", "<AI>I know it's hard. Being away from home for the first time can be a really big adjustment. It's normal to feel stressed out, miss your family and friends, and even doubt yourself. But I'm here to help you through this.\n\nI can remind you that you're not alone. There are other students who are feeling the same way you are. We can talk about your feelings and help each other cope.\n\nI can also help you stay connected with your family and friends. We can make phone calls, video chats, and send emails. We can also talk about ways to make new friends here.\n\nMost importantly, I can remind you that you're strong and capable. You can do anything you set your mind to. Just take it one day at a time, and don't be afraid to ask for help when you need it."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Maybe I'll talk to my resident advisor.'
+  MEMORY: '['The user is feeling stressed out about being away from home for the first time. They miss their family and friends and are not sure if they are going to make it. The AI reassures the user that it is normal to feel this way and offers suggestions for how to cope.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thanks, JOY. I feel a little better already just talking to you.'
+  MEMORY: '['The user is feeling stressed out about being away from home for the first time. They miss their family and friends and are not sure if they are going to make it. The AI reassures the user that it is normal to feel this way and offers suggestions for how to cope.']'
+  CHAT HISTORY: '["<USER>Maybe I'll talk to my resident advisor.", "<AI>That's a great idea! Your resident advisor is there to help you with anything you need, and they can be a great resource for support and advice."]'
+
+  ANSWER: 

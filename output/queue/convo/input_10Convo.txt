@@ -1,0 +1,14 @@
+<USER>I'm starting college next week, and I'm worried about making new friends.
+<AI>It's understandable to be nervous about starting college. It's a big change, and making new friends can be tough. But don't worry, I'm here to help.
+<USER>I know, but I can't help but worry. I'm not very outgoing, and I'm afraid that I'm going to be alone.
+<AI>I understand that you're worried about being alone. It's a common fear, and it's one that I can help you overcome. One thing you can do is to try to be more outgoing. This doesn't mean that you have to be the life of the party, but it does mean that you should be willing to talk to people and make new connections. You can also join clubs or activities that interest you. This is a great way to meet people who share your interests. And finally, don't be afraid to ask for help if you need it. There are plenty of people who are willing to help you make friends, including me.
+<USER>I'll try.
+<AI>That's a good attitude. Just remember to be yourself, and you'll be sure to make some great friends.
+<USER>I can try that.
+<AI>I'm glad to hear that. Just remember to be yourself, and you'll be sure to make some great friends.
+<USER>That's a good idea.
+<AI>I'm glad to hear that you're willing to try. Just remember to be yourself, and you'll be sure to make some great friends.
+<USER>Okay. I'll try my best.
+<AI>I'm glad to hear that you're willing to try. Just remember to be yourself, and you'll be sure to make some great friends.
+<USER>Thank you, JOY. That means a lot.
+<AI>You're welcome! I'm glad I could help. Just remember, you're not alone. There are plenty of people who are willing to help you make friends. Just be yourself, and you'll be sure to find your people.

@@ -1,0 +1,16 @@
+<USER>Hi JOY. Iâ€™m struggling with feelings of depression. Iâ€™m not sure what to do.
+<AI>It sounds like you're going through a tough time. I'm here to listen and support you. Can you tell me more about what you're feeling?
+<USER>Thank you. I feel a little better already.
+<AI>I'm glad to hear that. It's important to reach out for help when you're struggling with depression. I'm here to listen and support you in any way I can.
+<USER>Iâ€™ve been feeling really down lately. I donâ€™t have any motivation to do anything. Iâ€™m not sleeping well, and I donâ€™t enJOY the things I used to.
+<AI>It sounds like you're struggling with depression. I'm here to listen and support you. You're not alone. Many people experience depression, and there are things that can help.
+
+I'm glad to hear that you're feeling a little better. It's important to take care of yourself and to seek help if you need it. There are many resources available to help you cope with depression. You can find more information on the [National Institute of Mental Health website](https://www.nimh.nih.gov/health/topics/depression/index.shtml).
+<USER>Thank you. I appreciate that.
+<AI>I'm glad to hear that. It sounds like you're on the right track. Just remember that you're not alone, and there are people who care about you. If you ever need someone to talk to, I'm always here for you.
+<USER>Iâ€™m not sure. I guess I just want to feel better. I want to be able to enJOY my life again.
+<AI>It sounds like you're struggling with depression. I'm here to help you feel better. What would you like to do first?
+<USER>Okay.
+<AI>I’m glad to hear that you’re feeling a little better. Depression is a serious issue, and it’s important to seek help if you’re struggling. There are many resources available to help you cope with depression, including therapy, medication, and support groups. If you’re not sure where to start, I can help you find resources in your area.
+<USER>Thank you.
+<AI>You're welcome. I'm glad I could help.

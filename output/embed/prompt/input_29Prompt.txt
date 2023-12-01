@@ -1,0 +1,20 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess that makes me feel a little better. But Im still really scared. I dont want to make a decision that Ill regret later.'
+     SIMILAR PAST USER INPUT: '['Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But how do I know what Im passionate about? Ive tried so many different things, but nothing really seems to stick.'
+     SIMILAR PAST USER INPUT: '['Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'I guess that makes me feel a little better. But Im still really scared. I dont want to make a decision that Ill regret later.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks, JOY. Thats really helpful. I feel a little bit better now.'
+     SIMILAR PAST USER INPUT: '['I guess that makes me feel a little better. But Im still really scared. I dont want to make a decision that Ill regret later.', 'Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'But how do I know what Im passionate about? Ive tried so many different things, but nothing really seems to stick.']'
+     
+     ANSWER: 

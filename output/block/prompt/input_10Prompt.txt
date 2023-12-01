@@ -1,0 +1,42 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm starting college next week, and I'm worried about making new friends.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but I can't help but worry. I'm not very outgoing, and I'm afraid that I'm going to be alone.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm starting college next week, and I'm worried about making new friends.", "<AI>Starting college can be a daunting experience, but it's also an exciting time to meet new people and make new friends. Here are a few tips to help you get started:\n\n* **Be yourself.** The best way to make friends is to be yourself and let your personality shine through. People are drawn to those who are genuine and authentic.\n* **Be open to meeting new people.** It's easy to get caught up in your own social circle, but it's important to be open to meeting new people from different backgrounds. You never know who you might meet!\n* **Get involved in activities.** A great way to meet new people is to get involved in activities that you're interested in. This could be joining a club, taking a class, or volunteering for a cause.\n* **Be friendly and approachable.** People are more likely to want to be friends with you if you're friendly and approachable. Make eye contact, smile, and say hello to people. You might be surprised at how many people you meet!\n\nStarting college is a big change, but it's also an opportunity to grow and learn. By following these tips, you can make the most of your college experience and make some lifelong friends."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'll try.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm starting college next week, and I'm worried about making new friends.", "<AI>Starting college can be a daunting experience, but it's also an exciting time to meet new people and make new friends. Here are a few tips to help you get started:\n\n* **Be yourself.** The best way to make friends is to be yourself and let your personality shine through. People are drawn to those who are genuine and authentic.\n* **Be open to meeting new people.** It's easy to get caught up in your own social circle, but it's important to be open to meeting new people from different backgrounds. You never know who you might meet!\n* **Get involved in activities.** A great way to meet new people is to get involved in activities that you're interested in. This could be joining a club, taking a class, or volunteering for a cause.\n* **Be friendly and approachable.** People are more likely to want to be friends with you if you're friendly and approachable. Make eye contact, smile, and say hello to people. You might be surprised at how many people you meet!\n\nStarting college is a big change, but it's also an opportunity to grow and learn. By following these tips, you can make the most of your college experience and make some lifelong friends.", "<USER>I know, but I can't help but worry. I'm not very outgoing, and I'm afraid that I'm going to be alone.", "<AI>I understand that you're worried about making new friends. Starting college can be a daunting experience, especially if you're not very outgoing. But I want to assure you that you're not alone. Many people feel the same way when they first start college.\n\nThe good news is that there are plenty of ways to make friends in college. Here are a few tips:\n\n* **Be yourself.** The best way to make friends is to be yourself and let your personality shine through. People are drawn to those who are genuine and authentic.\n* **Be open to meeting new people.** It's easy to get caught up in your own social circle, but it's important to be open to meeting new people from different backgrounds. You never know who you might meet!\n* **Get involved in activities.** A great way to meet new people is to get involved in activities that you're interested in. This could be joining a club, taking a class, or volunteering for a cause.\n* **Be friendly and approachable.** People are more likely to want to be friends with you if you're friendly and approachable. Make eye contact, smile, and say hello to people. You might be surprised at how many people you meet!\n\nStarting college is a big change, but it's also an opportunity to grow and learn. By following these tips, you can make the most of your college experience and make some lifelong friends."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I can try that.'
+  MEMORY: '['The user is worried about making new friends in college. The AI provides tips on how to make friends in college, such as being yourself, being open to meeting new people, getting involved in activities, and being friendly and approachable.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'That's a good idea.'
+  MEMORY: '['The user is worried about making new friends in college. The AI provides tips on how to make friends in college, such as being yourself, being open to meeting new people, getting involved in activities, and being friendly and approachable.']'
+  CHAT HISTORY: '['<USER>I can try that.', "<AI>That's great! I'm here to help you make new friends in college."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Okay. I'll try my best.'
+  MEMORY: '['The user is worried about making new friends in college. The AI provides tips on how to make friends in college, such as being yourself, being open to meeting new people, getting involved in activities, and being friendly and approachable.']'
+  CHAT HISTORY: '['<USER>I can try that.', "<AI>That's great! I'm here to help you make new friends in college.", "<USER>That's a good idea.", "<AI>I'm glad you think so. Being yourself is the best way to attract genuine friends. When you're trying to make new friends, it's important to be open to meeting new people and getting involved in activities that you're interested in. It's also important to be friendly and approachable, so that people feel comfortable talking to you."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. That means a lot.'
+  MEMORY: '['The user is worried about making new friends in college. The AI provides tips on how to make friends in college, such as being yourself, being open to meeting new people, getting involved in activities, and being friendly and approachable.', 'User agrees to try making new friends and AI provides tips on how to do so.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 

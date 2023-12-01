@@ -1,0 +1,16 @@
+<USER>I'm starting college next week, and I'm worried about making new friends.
+<AI>It's understandable to be nervous about starting college. It's a big change, and making new friends can be tough. But don't worry, I'm here to help.
+<USER>I know, but I can't help but worry. I'm not very outgoing, and I'm afraid that I'm going to be alone.
+<AI>I understand that you're worried about being alone. It's a common fear, and it's one that I can help you with. One thing you can do is to join a club or organization that you're interested in. This is a great way to meet people who share your interests, and it's a great way to get involved on campus. You can also try talking to your classmates in class. Even if you don't become best friends with them, it's still a good way to get to know people and make some connections.
+<USER>I'll try.
+<AI>That's a great attitude! Just remember to be yourself, and you'll be sure to make some great friends.
+<USER>I can try that.
+<AI>I'm glad to hear that you're willing to try. Just remember to be yourself, and you'll be sure to make some great friends.
+<USER>That's a good idea.
+<AI>I'm glad to hear that you're willing to try. Just remember to be yourself, and you'll be sure to make some great friends.
+
+One thing you can do is to join a club or organization that you're interested in. This is a great way to meet people who share your interests, and it's a great way to get involved on campus. You can also try talking to your classmates in class. Even if you don't become best friends with them, it's still a good way to get to know people and make some connections.
+<USER>Okay. I'll try my best.
+<AI>That's a great attitude! Just remember to be yourself, and you'll be sure to make some great friends. One thing you can do is to join a club or organization that you're interested in. This is a great way to meet people who share your interests, and it's a great way to get involved on campus. You can also try talking to your classmates in class. Even if you don't become best friends with them, it's still a good way to get to know people and make some connections.
+<USER>Thank you, JOY. That means a lot.
+<AI>You're welcome. I'm glad I could help.

@@ -1,0 +1,25 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I started painting, but every time I sit down to create something, I feel like my work isnt good enough.'
+     SIMILAR PAST USER INPUT: '['Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Its becoming a source of stress rather than enjoyment.'
+     SIMILAR PAST USER INPUT: '['Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'I started painting, but every time I sit down to create something, I feel like my work isnt good enough.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know I should push through it, but Im not sure how to overcome this creative block. Any advice?'
+     SIMILAR PAST USER INPUT: '['Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'I started painting, but every time I sit down to create something, I feel like my work isnt good enough.', 'Its becoming a source of stress rather than enjoyment.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I really appreciate it.'
+     SIMILAR PAST USER INPUT: '['Its becoming a source of stress rather than enjoyment.', 'Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'I know I should push through it, but Im not sure how to overcome this creative block. Any advice?']'
+     
+     ANSWER: 

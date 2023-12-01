@@ -1,0 +1,25 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im really struggling with an eating disorder right now. Im not sure what to do.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Well, Ive been struggling with anorexia for a few years now. Im constantly restricting my food intake and counting calories. Im also terrified of gaining weight.'
+     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What can I do?'
+     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.', 'Well, Ive been struggling with anorexia for a few years now. Im constantly restricting my food intake and counting calories. Im also terrified of gaining weight.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im not sure if Im ready to develop a meal plan yet. Im really scared of eating more food.'
+     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.', 'Well, Ive been struggling with anorexia for a few years now. Im constantly restricting my food intake and counting calories. Im also terrified of gaining weight.', 'What can I do?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay. Im willing to try.'
+     SIMILAR PAST USER INPUT: '['What can I do?', 'Im not sure if Im ready to develop a meal plan yet. Im really scared of eating more food.', 'Im really struggling with an eating disorder right now. Im not sure what to do.']'
+     
+     ANSWER: 

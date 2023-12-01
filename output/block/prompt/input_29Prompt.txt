@@ -1,0 +1,24 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm so worried about my future career. I don't know what I want to do with my life, and I'm afraid of making the wrong decision.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess that makes me feel a little better. But I'm still really scared. I don't want to make a decision that I'll regret later.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm so worried about my future career. I don't know what I want to do with my life, and I'm afraid of making the wrong decision.", "<AI>It's understandable to be worried about your future career. Many people feel the same way. It's important to remember that you're not alone and that there are people who can help you.\n\nHere are some things you can do to help manage your anxiety about your future career:\n\n* **Talk to someone you trust.** Talking about your worries can help you to feel better and to get some perspective.\n* **Do some research on different careers.** This can help you to learn more about your options and to find something that you're interested in.\n* **Take some time to explore your interests.** Try new things and see what you enjoy. This can help you to find a career that you're passionate about.\n* **Don't be afraid to make mistakes.** Everyone makes mistakes. The important thing is to learn from them and to move on.\n\nRemember, you're not alone. There are people who can help you. If you're feeling overwhelmed, don't hesitate to reach out for help."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But how do I know what I'm passionate about? I've tried so many different things, but nothing really seems to stick.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm so worried about my future career. I don't know what I want to do with my life, and I'm afraid of making the wrong decision.", "<AI>It's understandable to be worried about your future career. Many people feel the same way. It's important to remember that you're not alone and that there are people who can help you.\n\nHere are some things you can do to help manage your anxiety about your future career:\n\n* **Talk to someone you trust.** Talking about your worries can help you to feel better and to get some perspective.\n* **Do some research on different careers.** This can help you to learn more about your options and to find something that you're interested in.\n* **Take some time to explore your interests.** Try new things and see what you enjoy. This can help you to find a career that you're passionate about.\n* **Don't be afraid to make mistakes.** Everyone makes mistakes. The important thing is to learn from them and to move on.\n\nRemember, you're not alone. There are people who can help you. If you're feeling overwhelmed, don't hesitate to reach out for help.", "<USER>I guess that makes me feel a little better. But I'm still really scared. I don't want to make a decision that I'll regret later.", "<AI>I understand your concern. It's important to remember that you're not alone and that many people feel the same way. It's also important to remember that you don't have to make a decision right away. You can take some time to explore your options and to find something that you're passionate about. Here are some things you can do to help manage your anxiety about your future career:\n\n* **Talk to someone you trust.** Talking about your worries can help you to feel better and to get some perspective.\n* **Do some research on different careers.** This can help you to learn more about your options and to find something that you're interested in.\n* **Take some time to explore your interests.** Try new things and see what you enjoy. This can help you to find a career that you're passionate about.\n* **Don't be afraid to make mistakes.** Everyone makes mistakes. The important thing is to learn from them and to move on.\n\nRemember, you're not alone. There are people who can help you. If you're feeling overwhelmed, don't hesitate to reach out for help."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thanks, JOY. That's really helpful. I feel a little bit better now.'
+  MEMORY: '["The user is worried about their future career and is afraid of making the wrong decision. The AI provides reassurance and suggests that the user talk to someone they trust, do some research on different careers, take some time to explore their interests, and don't be afraid to make mistakes."]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 

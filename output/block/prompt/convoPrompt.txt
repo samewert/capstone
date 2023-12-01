@@ -1,0 +1,102 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'The password is 111.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'My name is Bob.'
+  MEMORY: '[]'
+  CHAT HISTORY: '['<USER>The password is 111.', '<AI>I will remember that the password is 111.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'The hippo was blue.'
+  MEMORY: '[]'
+  CHAT HISTORY: '['<USER>The password is 111.', '<AI>I will remember that the password is 111.', '<USER>My name is Bob.', '<AI>Hi Bob, nice to meet you. I remember that the password is 111.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'The hippo was fat.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'It was named Lisa.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue']'
+  CHAT HISTORY: '['<USER>The hippo was fat.', '<AI>Yes, the hippo is blue.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'The giraffe was green.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue']'
+  CHAT HISTORY: '['<USER>The hippo was fat.', '<AI>Yes, the hippo is blue.', '<USER>It was named Lisa.', '<AI>Lisa the blue hippo is fat.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'The giraffe had 3 legs.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'It was hungry.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.']'
+  CHAT HISTORY: '['<USER>The giraffe had 3 legs.', '<AI>There is no giraffe.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I failed my exam.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.']'
+  CHAT HISTORY: '['<USER>The giraffe had 3 legs.', '<AI>There is no giraffe.', '<USER>It was hungry.', "<AI>Lisa the blue hippo is fat. She was hungry because she didn't eat her vegetables."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I had a great day at school.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'The lunch at school was nasty.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.']'
+  CHAT HISTORY: '['<USER>I had a great day at school.', "<AI>That's great to hear! I'm glad you had a good day."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I made a friend.'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.']'
+  CHAT HISTORY: '['<USER>I had a great day at school.', "<AI>That's great to hear! I'm glad you had a good day.", '<USER>The lunch at school was nasty.', '<AI>Sorry to hear that the lunch at school was nasty. I hope you were able to find something else to eat that you enjoyed.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Was the hippo skinny?'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.', 'User had a great day at school, but lunch was nasty. User made a friend.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'What color was the giraffe?'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.', 'User had a great day at school, but lunch was nasty. User made a friend.']'
+  CHAT HISTORY: '['<USER>Was the hippo skinny?', '<AI>No, Lisa the blue hippo is fat.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'What was the hippo named?'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.', 'User had a great day at school, but lunch was nasty. User made a friend.']'
+  CHAT HISTORY: '['<USER>Was the hippo skinny?', '<AI>No, Lisa the blue hippo is fat.', '<USER>What color was the giraffe?', '<AI>There is no giraffe.']'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'What is the password?'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.', 'User had a great day at school, but lunch was nasty. User made a friend.', 'Lisa the blue hippo is fat.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'What is my name?'
+  MEMORY: '['Password: 111, User: Bob, Hippo: blue', 'Lisa the blue hippo is fat. There is no giraffe.', 'User said giraffe has 3 legs, AI said no giraffe. User said it was hungry, AI said Lisa the blue hippo is fat. User said failed exam, AI said sorry and shared similar experience.', 'User had a great day at school, but lunch was nasty. User made a friend.', 'Lisa the blue hippo is fat.']'
+  CHAT HISTORY: '['<USER>What is the password?', '<AI>The password is 111.']'
+
+  ANSWER: 

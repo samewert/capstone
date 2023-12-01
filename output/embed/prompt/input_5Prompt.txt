@@ -1,0 +1,40 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been feeling homesick lately.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Yeah, its just been hard to adjust to my new life here. I miss my family and friends a lot.'
+     SIMILAR PAST USER INPUT: '['Ive been feeling homesick lately.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but its still hard to deal with. I feel like I dont belong here.'
+     SIMILAR PAST USER INPUT: '['Yeah, its just been hard to adjust to my new life here. I miss my family and friends a lot.', 'Ive been feeling homesick lately.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess so. But Im worried that Ill never feel at home here.'
+     SIMILAR PAST USER INPUT: '['I know, but its still hard to deal with. I feel like I dont belong here.', 'Yeah, its just been hard to adjust to my new life here. I miss my family and friends a lot.', 'Ive been feeling homesick lately.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'How can I overcome it?'
+     SIMILAR PAST USER INPUT: '['I know, but its still hard to deal with. I feel like I dont belong here.', 'I guess so. But Im worried that Ill never feel at home here.', 'Yeah, its just been hard to adjust to my new life here. I miss my family and friends a lot.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been thinking about talking to my resident assistant.'
+     SIMILAR PAST USER INPUT: '['Ive been feeling homesick lately.', 'I guess so. But Im worried that Ill never feel at home here.', 'How can I overcome it?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay, Ill talk to her tonight.'
+     SIMILAR PAST USER INPUT: '['Ive been thinking about talking to my resident assistant.', 'I guess so. But Im worried that Ill never feel at home here.', 'Ive been feeling homesick lately.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you for your help, JOY. I really appreciate it.'
+     SIMILAR PAST USER INPUT: '['Ive been thinking about talking to my resident assistant.', 'Okay, Ill talk to her tonight.', 'How can I overcome it?']'
+     
+     ANSWER: 

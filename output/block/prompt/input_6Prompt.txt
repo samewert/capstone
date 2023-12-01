@@ -1,0 +1,66 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Hi, JOY. I'm really stressed out about my GPA. I'm trying to maintain a high GPA, but it's really hard. I feel like I'm always studying, and I'm still not getting the grades I want.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I want to get at least a 4.0 GPA. I know that's really ambitious, but I want to go to a good law school, and I know I need a high GPA to do that.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>Hi, JOY. I'm really stressed out about my GPA. I'm trying to maintain a high GPA, but it's really hard. I feel like I'm always studying, and I'm still not getting the grades I want.", "<AI>Hi there! It sounds like you're feeling stressed about your GPA. I'm here to help you in any way I can. Can you tell me more about what's going on?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but I feel like if I don't get a 4.0 GPA, I won't be successful.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>Hi, JOY. I'm really stressed out about my GPA. I'm trying to maintain a high GPA, but it's really hard. I feel like I'm always studying, and I'm still not getting the grades I want.", "<AI>Hi there! It sounds like you're feeling stressed about your GPA. I'm here to help you in any way I can. Can you tell me more about what's going on?", "<USER>I want to get at least a 4.0 GPA. I know that's really ambitious, but I want to go to a good law school, and I know I need a high GPA to do that.", "<AI>I understand that you're feeling stressed about your GPA. It's important to remember that everyone is different, and what works for one person may not work for another. That said, there are a few things you can do to help improve your GPA.\n\nFirst, **set realistic goals**. Trying to get a 4.0 GPA is ambitious, and it's possible that you may not be able to achieve it. That's okay! Just focus on setting small, achievable goals for yourself, and gradually work your way up. For example, you could start by aiming for a 3.5 GPA this semester.\n\nSecond, **create a study schedule** and stick to it. This will help you stay organized and make sure that you're studying for all of your classes. When you're creating your schedule, be sure to factor in time for breaks and relaxation.\n\nThird, **get help from your professors and TAs**. If you're struggling with a particular class, don't be afraid to ask for help. Your professors and TAs are there to help you succeed, and they can provide you with resources and support.\n\nFinally, **take care of yourself**. Make sure that you're getting enough sleep, eating healthy foods, and exercising regularly. When you're taking care of yourself, you're better able to focus on your studies and perform well in school.\n\nI know that it's not easy to maintain a high GPA, but it's definitely possible. Just remember to stay focused, work hard, and don't be afraid to ask for help when you need it."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but I still feel like my GPA is the most important thing.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know. I just don't know how to do that.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.']'
+  CHAT HISTORY: '['<USER>I know, but I still feel like my GPA is the most important thing.', "<AI>I understand that you feel like your GPA is the most important thing. It's important to remember that there are other things that are important too, like your health, your relationships, and your happiness. It's important to find a balance between your studies and your personal life. Setting realistic goals and creating a study schedule can help you to manage your stress and stay on track. Getting help from your professors and classmates can also be helpful. And finally, it's important to take care of yourself by eating healthy, getting enough sleep, and exercising regularly."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Okay.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.']'
+  CHAT HISTORY: '['<USER>I know, but I still feel like my GPA is the most important thing.', "<AI>I understand that you feel like your GPA is the most important thing. It's important to remember that there are other things that are important too, like your health, your relationships, and your happiness. It's important to find a balance between your studies and your personal life. Setting realistic goals and creating a study schedule can help you to manage your stress and stay on track. Getting help from your professors and classmates can also be helpful. And finally, it's important to take care of yourself by eating healthy, getting enough sleep, and exercising regularly.", "<USER>I know. I just don't know how to do that.", "<AI>I understand that you're feeling stressed about your GPA. It's important to remember that there are other things that are important too, like your health, your relationships, and your happiness. It's important to find a balance between your studies and your personal life. Setting realistic goals and creating a study schedule can help you to manage your stress and stay on track. Getting help from your professors and classmates can also be helpful. And finally, it's important to take care of yourself by eating healthy, getting enough sleep, and exercising regularly.\n\nIf you're still feeling stressed, it might be helpful to talk to a counselor or therapist. They can help you to develop coping mechanisms and strategies for managing your stress."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'That's a good idea. I'll try that.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.', 'The user is feeling stressed about their GPA and is looking for ways to manage their stress. The AI provides tips on how to set realistic goals, create a study schedule, get help from professors and classmates, and take care of yourself.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'll try to find a study buddy.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.', 'The user is feeling stressed about their GPA and is looking for ways to manage their stress. The AI provides tips on how to set realistic goals, create a study schedule, get help from professors and classmates, and take care of yourself.']'
+  CHAT HISTORY: '["<USER>That's a good idea. I'll try that.", "<AI>I'm glad to hear that. Setting realistic goals and creating a study schedule can help you stay on track and reduce stress. Getting help from professors and classmates can also be helpful, as they can provide you with support and resources. And finally, taking care of yourself by eating healthy, getting enough sleep, and exercising can help you stay mentally and physically healthy, which can also help reduce stress."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'll try to do that.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.', 'The user is feeling stressed about their GPA and is looking for ways to manage their stress. The AI provides tips on how to set realistic goals, create a study schedule, get help from professors and classmates, and take care of yourself.']'
+  CHAT HISTORY: '["<USER>That's a good idea. I'll try that.", "<AI>I'm glad to hear that. Setting realistic goals and creating a study schedule can help you stay on track and reduce stress. Getting help from professors and classmates can also be helpful, as they can provide you with support and resources. And finally, taking care of yourself by eating healthy, getting enough sleep, and exercising can help you stay mentally and physically healthy, which can also help reduce stress.", "<USER>I'll try to find a study buddy.", "<AI>That's a great idea! Finding a study buddy can help you stay motivated and accountable, and it can also be a lot of fun. When you're studying with someone else, you can bounce ideas off of each other, help each other understand difficult concepts, and keep each other on track. I'm glad to hear that you're taking steps to manage your stress. Setting realistic goals, creating a study schedule, getting help from professors and classmates, and taking care of yourself are all important steps in reducing stress and achieving your academic goals."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'll try to do that too.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.', 'The user is feeling stressed about their GPA and is looking for ways to manage their stress. The AI provides tips on how to set realistic goals, create a study schedule, get help from professors and classmates, and take care of yourself.', 'The user is trying to manage stress and the AI is providing suggestions.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. I feel better already.'
+  MEMORY: '['JOY is trying to help user manage stress about GPA. JOY suggests setting realistic goals, creating a study schedule, getting help from professors, and taking care of oneself.', 'The user is feeling stressed about their GPA and is looking for ways to manage their stress. The AI provides tips on how to set realistic goals, create a study schedule, get help from professors and classmates, and take care of yourself.', 'The user is trying to manage stress and the AI is providing suggestions.']'
+  CHAT HISTORY: '["<USER>I'll try to do that too.", "<AI>That's great! Setting realistic goals and creating a study schedule can help you stay on track and reduce stress. Getting help from professors and classmates can also be helpful, as they can provide you with support and resources. And finally, taking care of yourself by eating healthy, getting enough sleep, and exercising can help you stay healthy and focused."]'
+
+  ANSWER: 

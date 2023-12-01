@@ -1,0 +1,42 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm feeling a lot of pressure from my leadership roles in clubs and organizations. I'm not sure how to handle it all.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I have to juggle a lot of different deadlines and commitments. I'm also worried about making decisions that will affect other people.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm feeling a lot of pressure from my leadership roles in clubs and organizations. I'm not sure how to handle it all.", "<AI>It sounds like you're feeling overwhelmed by your leadership roles. That's understandable - it can be a lot to take on. What are some of the specific things that are making you feel stressed?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess I could. I've been hesitant to do that in the past, but I'm starting to realize that I can't do everything myself.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm feeling a lot of pressure from my leadership roles in clubs and organizations. I'm not sure how to handle it all.", "<AI>It sounds like you're feeling overwhelmed by your leadership roles. That's understandable - it can be a lot to take on. What are some of the specific things that are making you feel stressed?", "<USER>I have to juggle a lot of different deadlines and commitments. I'm also worried about making decisions that will affect other people.", "<AI>It sounds like you're feeling overwhelmed by your leadership roles. That's understandable - it can be a lot to take on. What are some of the specific things that are making you feel stressed?\n\nYou mentioned that you have to juggle a lot of different deadlines and commitments. This can be a challenge, especially when you're also worried about making decisions that will affect other people. It's important to remember that you can't always please everyone, and that it's okay to make mistakes. Just do your best to make decisions that you think are in the best interests of the group, and don't be afraid to ask for help if you need it.\n\nHere are a few tips that might help you manage your stress:\n\n* **Set priorities.** Make a list of all the things you need to do, and then rank them in order of importance. This will help you focus on the most important tasks and avoid feeling overwhelmed.\n* **Delegate tasks.** If you have too much on your plate, don't be afraid to delegate tasks to others. This can free up your time and allow you to focus on the things that are most important to you.\n* **Take breaks.** It's important to take breaks throughout the day, even if it's just for a few minutes. This will help you stay refreshed and focused.\n* **Get enough sleep.** When you're sleep-deprived, you're more likely to feel stressed and overwhelmed. Make sure you're getting enough sleep each night so that you can function at your best.\n* **Talk to someone.** If you're feeling overwhelmed, talk to a friend, family member, or therapist. Talking about your problems can help you feel better and develop strategies for coping with stress."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Another thing that's causing me stress is making decisions. I'm worried about making the wrong decision and letting people down.'
+  MEMORY: '['User is feeling overwhelmed by leadership roles. AI provides tips to manage stress.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess you're right. I just need to be more confident in my decision-making abilities.'
+  MEMORY: '['User is feeling overwhelmed by leadership roles. AI provides tips to manage stress.']'
+  CHAT HISTORY: '["<USER>Another thing that's causing me stress is making decisions. I'm worried about making the wrong decision and letting people down.", "<AI>I understand that making decisions can be stressful, especially when you're worried about making the wrong one and letting people down. It's important to remember that you can't always make everyone happy, and that it's okay to make mistakes. The best way to deal with decision-making stress is to take your time, gather all the information you need, and weigh the pros and cons of each option. You can also talk to someone you trust for advice, or create a pros and cons list to help you make a decision."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I think that's a good idea. I'm also going to try to delegate more tasks and to trust my team members.'
+  MEMORY: '['User is feeling overwhelmed by leadership roles. AI provides tips to manage stress.']'
+  CHAT HISTORY: '["<USER>Another thing that's causing me stress is making decisions. I'm worried about making the wrong decision and letting people down.", "<AI>I understand that making decisions can be stressful, especially when you're worried about making the wrong one and letting people down. It's important to remember that you can't always make everyone happy, and that it's okay to make mistakes. The best way to deal with decision-making stress is to take your time, gather all the information you need, and weigh the pros and cons of each option. You can also talk to someone you trust for advice, or create a pros and cons list to help you make a decision.", "<USER>I guess you're right. I just need to be more confident in my decision-making abilities.", "<AI>I'm glad you're able to see that. It's important to be confident in your decision-making abilities, even when it's difficult. Remember, you're the best person to make decisions for your team. You have the experience and knowledge to make the best choices. Just take your time, gather all the information you need, and weigh the pros and cons of each option. You can also talk to someone you trust for advice, or create a pros and cons list to help you make a decision."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. I appreciate your support.'
+  MEMORY: '['User is feeling overwhelmed by leadership roles. AI provides tips to manage stress.', 'User is stressed about making decisions and letting people down. AI provides advice on how to deal with decision-making stress.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 

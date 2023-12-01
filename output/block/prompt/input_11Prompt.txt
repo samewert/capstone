@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.", "<AI>It sounds like you're feeling stressed about choosing a major. That's understandable - it's a big decision! But don't worry, you're not alone. Many students feel the same way."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But I don't want to waste time. I want to graduate on time and get a good job.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.", "<AI>It sounds like you're feeling stressed about choosing a major. That's understandable - it's a big decision! But don't worry, you're not alone. Many students feel the same way.", "<USER>But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.", "<AI>I understand that you're feeling stressed about choosing a major. It's a big decision, and it's normal to feel overwhelmed. But don't worry, you're not alone. Many students feel the same way.\n\nOne thing that might help is to think about what you're interested in. What do you enjoy doing? What are you passionate about? Once you have a better idea of what you're interested in, you can start to narrow down your choices of majors.\n\nAnother thing to consider is what you want to do with your life. What kind of career do you want to have? What kind of impact do you want to make on the world? Once you have a better idea of your goals, you can start to choose a major that will help you achieve them.\n\nOf course, choosing a major is not an easy decision. It's okay to change your mind later on. You can always switch majors if you decide that you're not happy with your choice. The most important thing is to find a major that you're passionate about and that will help you achieve your goals."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know. But it's so hard to decide. I feel like I'm lost.'
+  MEMORY: '['User is stressed about choosing a major and worried about making the wrong decision. AI provides advice on how to choose a major that is both interesting and leads to a good job.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. I appreciate your help.'
+  MEMORY: '['User is stressed about choosing a major and worried about making the wrong decision. AI provides advice on how to choose a major that is both interesting and leads to a good job.']'
+  CHAT HISTORY: '["<USER>I know. But it's so hard to decide. I feel like I'm lost.", "<AI>I understand that it can be difficult to choose a major, especially when you're not sure what you want to do with your life. But don't worry, you're not alone. Many students feel the same way. The important thing is to take some time to explore your interests and think about what you're passionate about. Once you have a better idea of what you're interested in, you can start to narrow down your choices of majors."]'
+
+  ANSWER: 

@@ -6,7 +6,8 @@ $ pip install google-generativeai
 
 import google.generativeai as palm
 
-bardKey = 'AIzaSyAD17YvlKd1b0gYirNd7Ta-gTxYok76A3U'
+# bardKey = 'AIzaSyBRD-JtiPLXXPvpH9HPyfFaxxRAbW5B-NE'
+bardKey = 'AIzaSyA9uaKdUY4AIo_2GjR-NTo80WGEXB7kthI'
 
 palm.configure(api_key=bardKey)
 
@@ -31,7 +32,7 @@ def rate1_prompt(user, ai):
     USER: '{user}'
     AI: '{ai}'
     
-    Display each score as category:score and separate each category with a ,
+    Display each of the 4 scores as category:score and separate each one with a comma
     
     """).format(user=user, ai=ai)
 
@@ -54,9 +55,11 @@ def rate2_prompt(query):
 
 def getRating(user, ai):
     prompt = rate1_prompt(user, ai)
+
     # print(prompt)
     answer = palm.generate_text(**defaults, prompt=prompt)
     response = answer.candidates[0]['output']
+
 
     # messages.append('<USER>' + userInput)
     # messages.append('<BOT>' + response)
@@ -65,11 +68,13 @@ def getRating(user, ai):
 
     for stat in stats:
         try:
-            key, value = stat.split(': ')
+            key, value = stat.split(':')
         except Exception as e:
             print(user)
             print(ai)
+            print(response)
             print(stats)
+            print(prompt)
 
         dictionary[key] = int(value)
 
@@ -77,6 +82,7 @@ def getRating(user, ai):
 
 
 
-# stats = getRating(user="Hello. My girlfriend broke up with me", ai="Hi. I'm sorry to hear your girlfriend broke up with you. How are you feeling?")
+# stats = getRating(user="What is the password?", ai="The password is 111")
+#
 #
 # print(stats)

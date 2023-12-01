@@ -1,0 +1,45 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been feeling really guilty about my academic performance lately. Im not getting the grades I want, and I feel like Im letting myself and my family down.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I feel like Im not trying hard enough. Im spending hours studying, but its not paying off.'
+     SIMILAR PAST USER INPUT: '['Ive been feeling really guilty about my academic performance lately. Im not getting the grades I want, and I feel like Im letting myself and my family down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but I still feel guilty. I feel like Im not good enough.'
+     SIMILAR PAST USER INPUT: '['Ive been feeling really guilty about my academic performance lately. Im not getting the grades I want, and I feel like Im letting myself and my family down.', 'But I feel like Im not trying hard enough. Im spending hours studying, but its not paying off.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But what if Im not smart enough? What if I never succeed?'
+     SIMILAR PAST USER INPUT: '['But I feel like Im not trying hard enough. Im spending hours studying, but its not paying off.', 'I know, but I still feel guilty. I feel like Im not good enough.', 'Ive been feeling really guilty about my academic performance lately. Im not getting the grades I want, and I feel like Im letting myself and my family down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you. I needed to hear that.'
+     SIMILAR PAST USER INPUT: '['I know, but I still feel guilty. I feel like Im not good enough.', 'But I feel like Im not trying hard enough. Im spending hours studying, but its not paying off.', 'Ive been feeling really guilty about my academic performance lately. Im not getting the grades I want, and I feel like Im letting myself and my family down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I appreciate that.'
+     SIMILAR PAST USER INPUT: '['Thank you. I needed to hear that.', 'I know, but I still feel guilty. I feel like Im not good enough.', 'But I feel like Im not trying hard enough. Im spending hours studying, but its not paying off.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I dont know. I guess I just need to remind myself that Im doing my best.'
+     SIMILAR PAST USER INPUT: '['But I feel like Im not trying hard enough. Im spending hours studying, but its not paying off.', 'I know, but I still feel guilty. I feel like Im not good enough.', 'Ive been feeling really guilty about my academic performance lately. Im not getting the grades I want, and I feel like Im letting myself and my family down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess I could do that.'
+     SIMILAR PAST USER INPUT: '['I appreciate that.', 'I dont know. I guess I just need to remind myself that Im doing my best.', 'I know, but I still feel guilty. I feel like Im not good enough.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill try.'
+     SIMILAR PAST USER INPUT: '['I guess I could do that.', 'I dont know. I guess I just need to remind myself that Im doing my best.', 'I appreciate that.']'
+     
+     ANSWER: 

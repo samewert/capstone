@@ -1,0 +1,36 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm really stressed about thinking about post-graduation life.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. I'm just kind of lost.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm really stressed about thinking about post-graduation life.", "<AI>It's understandable to be stressed about post-graduation life. It's a big change, and there's a lot to think about. But don't worry, you're not alone. Many people feel the same way."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But I feel so much pressure to have it all figured out.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm really stressed about thinking about post-graduation life.", "<AI>It's understandable to be stressed about post-graduation life. It's a big change, and there's a lot to think about. But don't worry, you're not alone. Many people feel the same way.", "<USER>Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. I'm just kind of lost.", "<AI>I know it can be tough to feel like you're the only one who's not sure what they want to do with their life. But the truth is, most people are in the same boat. It's a big change, and it takes time to figure things out. Just remember that you're not alone, and there are people who can help you along the way."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess so. But it's hard not to worry about the future.'
+  MEMORY: '['User is stressed about post-graduation life and feels like everyone else has their life together. AI assures user that they are not alone and that it is normal to feel lost after graduation.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess I could start by making a list of my goals and then developing a plan to achieve them.'
+  MEMORY: '['User is stressed about post-graduation life and feels like everyone else has their life together. AI assures user that they are not alone and that it is normal to feel lost after graduation.']'
+  CHAT HISTORY: '["<USER>I guess so. But it's hard not to worry about the future.", "<AI>I know it's hard, but try not to worry too much about the future. It's impossible to predict what will happen, so there's no point in stressing about it. Just focus on taking things one step at a time and doing your best."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thanks, JOY. I feel a little better already.'
+  MEMORY: '['User is stressed about post-graduation life and feels like everyone else has their life together. AI assures user that they are not alone and that it is normal to feel lost after graduation.']'
+  CHAT HISTORY: '["<USER>I guess so. But it's hard not to worry about the future.", "<AI>I know it's hard, but try not to worry too much about the future. It's impossible to predict what will happen, so there's no point in stressing about it. Just focus on taking things one step at a time and doing your best.", '<USER>I guess I could start by making a list of my goals and then developing a plan to achieve them.', "<AI>That's a great idea! Making a list of your goals and developing a plan to achieve them can help you stay focused and motivated. It can also help you to feel more in control of your life, which can reduce stress."]'
+
+  ANSWER: 

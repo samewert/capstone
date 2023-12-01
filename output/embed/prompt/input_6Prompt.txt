@@ -1,0 +1,55 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I want to get at least a 4.0 GPA. I know thats really ambitious, but I want to go to a good law school, and I know I need a high GPA to do that.'
+     SIMILAR PAST USER INPUT: '['Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but I feel like if I dont get a 4.0 GPA, I wont be successful.'
+     SIMILAR PAST USER INPUT: '['I want to get at least a 4.0 GPA. I know thats really ambitious, but I want to go to a good law school, and I know I need a high GPA to do that.', 'Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but I still feel like my GPA is the most important thing.'
+     SIMILAR PAST USER INPUT: '['I know, but I feel like if I dont get a 4.0 GPA, I wont be successful.', 'I want to get at least a 4.0 GPA. I know thats really ambitious, but I want to go to a good law school, and I know I need a high GPA to do that.', 'Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know. I just dont know how to do that.'
+     SIMILAR PAST USER INPUT: '['I know, but I feel like if I dont get a 4.0 GPA, I wont be successful.', 'Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.', 'I know, but I still feel like my GPA is the most important thing.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay.'
+     SIMILAR PAST USER INPUT: '['I know. I just dont know how to do that.', 'Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.', 'I know, but I still feel like my GPA is the most important thing.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thats a good idea. Ill try that.'
+     SIMILAR PAST USER INPUT: '['Okay.', 'I know. I just dont know how to do that.', 'I want to get at least a 4.0 GPA. I know thats really ambitious, but I want to go to a good law school, and I know I need a high GPA to do that.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill try to find a study buddy.'
+     SIMILAR PAST USER INPUT: '['Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.', 'Thats a good idea. Ill try that.', 'I know, but I feel like if I dont get a 4.0 GPA, I wont be successful.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill try to do that.'
+     SIMILAR PAST USER INPUT: '['Thats a good idea. Ill try that.', 'Ill try to find a study buddy.', 'I know. I just dont know how to do that.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill try to do that too.'
+     SIMILAR PAST USER INPUT: '['Ill try to do that.', 'Thats a good idea. Ill try that.', 'Ill try to find a study buddy.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I feel better already.'
+     SIMILAR PAST USER INPUT: '['Hi, JOY. Im really stressed out about my GPA. Im trying to maintain a high GPA, but its really hard. I feel like Im always studying, and Im still not getting the grades I want.', 'Okay.', 'Ill try to do that.']'
+     
+     ANSWER: 

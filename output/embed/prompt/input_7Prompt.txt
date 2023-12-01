@@ -1,0 +1,40 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im having a hard time dealing with body image issues. I feel like Im not good enough.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im always comparing myself to other people, and I never feel good enough. I feel like Im too fat, too skinny, too short, too tall.'
+     SIMILAR PAST USER INPUT: '['Im having a hard time dealing with body image issues. I feel like Im not good enough.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but its hard not to. Im constantly seeing images of people who are considered to be beautiful, and I dont feel like I fit in.'
+     SIMILAR PAST USER INPUT: '['Im having a hard time dealing with body image issues. I feel like Im not good enough.', 'Im always comparing myself to other people, and I never feel good enough. I feel like Im too fat, too skinny, too short, too tall.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'So what can I do to feel better about myself?'
+     SIMILAR PAST USER INPUT: '['Im having a hard time dealing with body image issues. I feel like Im not good enough.', 'I know, but its hard not to. Im constantly seeing images of people who are considered to be beautiful, and I dont feel like I fit in.', 'Im always comparing myself to other people, and I never feel good enough. I feel like Im too fat, too skinny, too short, too tall.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im trying to do that, but its hard sometimes.'
+     SIMILAR PAST USER INPUT: '['Im having a hard time dealing with body image issues. I feel like Im not good enough.', 'I know, but its hard not to. Im constantly seeing images of people who are considered to be beautiful, and I dont feel like I fit in.', 'Im always comparing myself to other people, and I never feel good enough. I feel like Im too fat, too skinny, too short, too tall.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im also trying to be more positive about my body. Im making a list of all the things I like about myself.'
+     SIMILAR PAST USER INPUT: '['Im having a hard time dealing with body image issues. I feel like Im not good enough.', 'So what can I do to feel better about myself?', 'Im trying to do that, but its hard sometimes.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im still struggling, but Im trying.'
+     SIMILAR PAST USER INPUT: '['Im trying to do that, but its hard sometimes.', 'Im having a hard time dealing with body image issues. I feel like Im not good enough.', 'I know, but its hard not to. Im constantly seeing images of people who are considered to be beautiful, and I dont feel like I fit in.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you. I appreciate your help.'
+     SIMILAR PAST USER INPUT: '['Im trying to do that, but its hard sometimes.', 'Im still struggling, but Im trying.', 'Im also trying to be more positive about my body. Im making a list of all the things I like about myself.']'
+     
+     ANSWER: 

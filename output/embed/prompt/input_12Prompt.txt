@@ -1,0 +1,35 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you. I feel a little better already.'
+     SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.'
+     SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'Thank you. I feel a little better already.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you. I appreciate that.'
+     SIMILAR PAST USER INPUT: '['Thank you. I feel a little better already.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’m not sure. I guess I just want to feel better. I want to be able to enJOY my life again.'
+     SIMILAR PAST USER INPUT: '['I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'Thank you. I feel a little better already.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay.'
+     SIMILAR PAST USER INPUT: '['Thank you. I appreciate that.', 'Thank you. I feel a little better already.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you.'
+     SIMILAR PAST USER INPUT: '['Thank you. I appreciate that.', 'Thank you. I feel a little better already.', 'Okay.']'
+     
+     ANSWER: 

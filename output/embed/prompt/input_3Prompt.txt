@@ -1,0 +1,40 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im struggling with my sexuality, JOY. Ive always considered myself to be straight, but lately Ive been questioning that. Im attracted to men, but Im also attracted to women. Im not sure what to do.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But Im so confused. I dont know what Im feeling.'
+     SIMILAR PAST USER INPUT: '['Im struggling with my sexuality, JOY. Ive always considered myself to be straight, but lately Ive been questioning that. Im attracted to men, but Im also attracted to women. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I feel like Im the only one whos feeling this way.'
+     SIMILAR PAST USER INPUT: '['But Im so confused. I dont know what Im feeling.', 'Im struggling with my sexuality, JOY. Ive always considered myself to be straight, but lately Ive been questioning that. Im attracted to men, but Im also attracted to women. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But what do I do now?'
+     SIMILAR PAST USER INPUT: '['But Im so confused. I dont know what Im feeling.', 'Im struggling with my sexuality, JOY. Ive always considered myself to be straight, but lately Ive been questioning that. Im attracted to men, but Im also attracted to women. Im not sure what to do.', 'But I feel like Im the only one whos feeling this way.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I dont know if Im ready to talk to anyone about this yet.'
+     SIMILAR PAST USER INPUT: '['But I feel like Im the only one whos feeling this way.', 'But Im so confused. I dont know what Im feeling.', 'Im struggling with my sexuality, JOY. Ive always considered myself to be straight, but lately Ive been questioning that. Im attracted to men, but Im also attracted to women. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I dont know what to do.'
+     SIMILAR PAST USER INPUT: '['But Im so confused. I dont know what Im feeling.', 'But what do I do now?', 'I dont know if Im ready to talk to anyone about this yet.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay.'
+     SIMILAR PAST USER INPUT: '['But I dont know what to do.', 'But Im so confused. I dont know what Im feeling.', 'But what do I do now?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'No, I think thats all. Thank you for listening to me, JOY.'
+     SIMILAR PAST USER INPUT: '['I dont know if Im ready to talk to anyone about this yet.', 'But I dont know what to do.', 'Okay.']'
+     
+     ANSWER: 

@@ -1,0 +1,10 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks for your advice. Im going to start by creating a budget and making some adjustments to my spending. Ill also look into some ways to earn extra money.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.']'
+     
+     ANSWER: 

@@ -1,0 +1,45 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling really stressed about my course schedule. I have so much work to do, and Im not sure how Im going to manage it all.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Well, Im taking six classes this semester, and theyre all really demanding. I have to write a lot of papers and study for exams. Im also involved in a few extracurricular activities, so its hard to find time to do everything.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about my course schedule. I have so much work to do, and Im not sure how Im going to manage it all.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I think its just the overall workload. I feel like Im constantly behind, and Im worried that Im not going to do well in my classes.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about my course schedule. I have so much work to do, and Im not sure how Im going to manage it all.', 'Well, Im taking six classes this semester, and theyre all really demanding. I have to write a lot of papers and study for exams. Im also involved in a few extracurricular activities, so its hard to find time to do everything.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Like what?'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about my course schedule. I have so much work to do, and Im not sure how Im going to manage it all.', 'I think its just the overall workload. I feel like Im constantly behind, and Im worried that Im not going to do well in my classes.', 'Well, Im taking six classes this semester, and theyre all really demanding. I have to write a lot of papers and study for exams. Im also involved in a few extracurricular activities, so its hard to find time to do everything.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thats a good idea. Ill try to do that this weekend.'
+     SIMILAR PAST USER INPUT: '['Well, Im taking six classes this semester, and theyre all really demanding. I have to write a lot of papers and study for exams. Im also involved in a few extracurricular activities, so its hard to find time to do everything.', 'Im feeling really stressed about my course schedule. I have so much work to do, and Im not sure how Im going to manage it all.', 'Like what?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im pretty good at staying organized, but Ill definitely make sure to keep my planner up to date.'
+     SIMILAR PAST USER INPUT: '['I think its just the overall workload. I feel like Im constantly behind, and Im worried that Im not going to do well in my classes.', 'Im feeling really stressed about my course schedule. I have so much work to do, and Im not sure how Im going to manage it all.', 'Thats a good idea. Ill try to do that this weekend.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thats a good point. I tend to procrastinate, so its important for me to set deadlines for myself.'
+     SIMILAR PAST USER INPUT: '['Im pretty good at staying organized, but Ill definitely make sure to keep my planner up to date.', 'I think its just the overall workload. I feel like Im constantly behind, and Im worried that Im not going to do well in my classes.', 'Thats a good idea. Ill try to do that this weekend.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks for the advice, JOY. Ill try to follow your suggestions.'
+     SIMILAR PAST USER INPUT: '['Thats a good idea. Ill try to do that this weekend.', 'Im pretty good at staying organized, but Ill definitely make sure to keep my planner up to date.', 'Thats a good point. I tend to procrastinate, so its important for me to set deadlines for myself.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks, JOY. That means a lot.'
+     SIMILAR PAST USER INPUT: '['Thanks for the advice, JOY. Ill try to follow your suggestions.', 'Thats a good idea. Ill try to do that this weekend.', 'Like what?']'
+     
+     ANSWER: 

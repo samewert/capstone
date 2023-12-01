@@ -1,0 +1,45 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling really inadequate as a college freshman. I feel like I dont belong here. Everyone else seems to have it all figured out.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I feel like Im falling behind. Im struggling in my classes and I dont know how to make friends.'
+     SIMILAR PAST USER INPUT: '['Im feeling really inadequate as a college freshman. I feel like I dont belong here. Everyone else seems to have it all figured out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I dont know how.'
+     SIMILAR PAST USER INPUT: '['But I feel like Im falling behind. Im struggling in my classes and I dont know how to make friends.', 'Im feeling really inadequate as a college freshman. I feel like I dont belong here. Everyone else seems to have it all figured out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I feel like Im not good enough.'
+     SIMILAR PAST USER INPUT: '['Im feeling really inadequate as a college freshman. I feel like I dont belong here. Everyone else seems to have it all figured out.', 'But I feel like Im falling behind. Im struggling in my classes and I dont know how to make friends.', 'But I dont know how.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I dont feel like it.'
+     SIMILAR PAST USER INPUT: '['But I dont know how.', 'But I feel like Im not good enough.', 'But I feel like Im falling behind. Im struggling in my classes and I dont know how to make friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But how do I do that?'
+     SIMILAR PAST USER INPUT: '['But I dont know how.', 'But I dont feel like it.', 'But I feel like Im not good enough.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im good at writing and I like to help people.'
+     SIMILAR PAST USER INPUT: '['But I dont know how.', 'But I feel like Im falling behind. Im struggling in my classes and I dont know how to make friends.', 'But I feel like Im not good enough.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill try that.'
+     SIMILAR PAST USER INPUT: '['But how do I do that?', 'But I dont know how.', 'Im good at writing and I like to help people.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I needed to hear that.'
+     SIMILAR PAST USER INPUT: '['Ill try that.', 'But I dont feel like it.', 'But how do I do that?']'
+     
+     ANSWER: 

@@ -1,0 +1,25 @@
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.'
+     CHAT HISTORY: '[]'
+
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.'
+     CHAT HISTORY: '["<USER> I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.", "<Bot> It sounds like you're feeling stressed about choosing a major. I can understand why - it's a big decision! But don't worry, you're not alone. Many students feel the same way."]'
+
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'But I don't want to waste time. I want to graduate on time and get a good job.'
+     CHAT HISTORY: '["<USER> I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.", "<Bot> It sounds like you're feeling stressed about choosing a major. I can understand why - it's a big decision! But don't worry, you're not alone. Many students feel the same way.", "<USER> But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.", "<Bot> I understand that you're feeling lost and uncertain about your future. It's okay to not know what you want to do with your life. Many people feel the same way. The important thing is to explore your interests and try new things. You may not find your passion right away, but eventually you'll find something that you love."]'
+
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'I know. But it's so hard to decide. I feel like I'm lost.'
+     CHAT HISTORY: '["<Bot> It sounds like you're feeling stressed about choosing a major. I can understand why - it's a big decision! But don't worry, you're not alone. Many students feel the same way.", "<USER> But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.", "<Bot> I understand that you're feeling lost and uncertain about your future. It's okay to not know what you want to do with your life. Many people feel the same way. The important thing is to explore your interests and try new things. You may not find your passion right away, but eventually you'll find something that you love.", "<USER> But I don't want to waste time. I want to graduate on time and get a good job.", "<Bot> I understand that you're worried about wasting time and graduating on time. However, it's important to remember that you don't have to choose a major right away. You can take some time to explore your interests and try new things. Once you find something that you're passionate about, you can start to focus on choosing a major that will help you achieve your goals."]'
+
+     ANSWER: 
+You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I appreciate your help.'
+     CHAT HISTORY: '["<Bot> I understand that you're feeling lost and uncertain about your future. It's okay to not know what you want to do with your life. Many people feel the same way. The important thing is to explore your interests and try new things. You may not find your passion right away, but eventually you'll find something that you love.", "<USER> But I don't want to waste time. I want to graduate on time and get a good job.", "<Bot> I understand that you're worried about wasting time and graduating on time. However, it's important to remember that you don't have to choose a major right away. You can take some time to explore your interests and try new things. Once you find something that you're passionate about, you can start to focus on choosing a major that will help you achieve your goals.", "<USER> I know. But it's so hard to decide. I feel like I'm lost.", "<Bot> I know it's hard to decide. It's a big decision! But don't worry, you're not alone. Many students feel the same way. The important thing is to take your time and explore your interests. You may not find your passion right away, but eventually you'll find something that you love."]'
+
+     ANSWER: 

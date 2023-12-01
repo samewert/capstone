@@ -1,0 +1,35 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im starting college next week, and Im worried about making new friends.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but I cant help but worry. Im not very outgoing, and Im afraid that Im going to be alone.'
+     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill try.'
+     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.', 'I know, but I cant help but worry. Im not very outgoing, and Im afraid that Im going to be alone.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I can try that.'
+     SIMILAR PAST USER INPUT: '['Ill try.', 'Im starting college next week, and Im worried about making new friends.', 'I know, but I cant help but worry. Im not very outgoing, and Im afraid that Im going to be alone.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thats a good idea.'
+     SIMILAR PAST USER INPUT: '['I can try that.', 'Ill try.', 'Im starting college next week, and Im worried about making new friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay. Ill try my best.'
+     SIMILAR PAST USER INPUT: '['Ill try.', 'I can try that.', 'Thats a good idea.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. That means a lot.'
+     SIMILAR PAST USER INPUT: '['Okay. Ill try my best.', 'Ill try.', 'Thats a good idea.']'
+     
+     ANSWER: 

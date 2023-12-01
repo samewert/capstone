@@ -1,0 +1,60 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Like what?'
+     SIMILAR PAST USER INPUT: '['Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess Ive been trying to wing it, which is probably not the best idea.'
+     SIMILAR PAST USER INPUT: '['Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.', 'Like what?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay, Ill try that.'
+     SIMILAR PAST USER INPUT: '['I guess Ive been trying to wing it, which is probably not the best idea.', 'Like what?', 'Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im not sure how to prioritize my tasks.'
+     SIMILAR PAST USER INPUT: '['Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.', 'I guess Ive been trying to wing it, which is probably not the best idea.', 'Okay, Ill try that.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'That makes sense.'
+     SIMILAR PAST USER INPUT: '['Okay, Ill try that.', 'Like what?', 'I guess Ive been trying to wing it, which is probably not the best idea.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been putting off a big research paper because it seems so daunting. But maybe if I break it down into smaller tasks, it wont be so bad.'
+     SIMILAR PAST USER INPUT: '['Im not sure how to prioritize my tasks.', 'Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.', 'I guess Ive been trying to wing it, which is probably not the best idea.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess Ive been trying to do everything myself, which is probably not the best strategy.'
+     SIMILAR PAST USER INPUT: '['I guess Ive been trying to wing it, which is probably not the best idea.', 'Im not sure how to prioritize my tasks.', 'Ive been putting off a big research paper because it seems so daunting. But maybe if I break it down into smaller tasks, it wont be so bad.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay, Ill try to delegate some of my work to my classmates or friends.'
+     SIMILAR PAST USER INPUT: '['Ive been putting off a big research paper because it seems so daunting. But maybe if I break it down into smaller tasks, it wont be so bad.', 'Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.', 'Im not sure how to prioritize my tasks.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im definitely not good at taking breaks. But I know its important.'
+     SIMILAR PAST USER INPUT: '['I guess Ive been trying to do everything myself, which is probably not the best strategy.', 'I guess Ive been trying to wing it, which is probably not the best idea.', 'Im not sure how to prioritize my tasks.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks for the advice, JOY. Ill try to follow your tips.'
+     SIMILAR PAST USER INPUT: '['Okay, Ill try that.', 'Okay, Ill try to delegate some of my work to my classmates or friends.', 'Hi, JOY. Im feeling really stressed about managing my time in college. I have so much to do, and Im not sure how to keep up.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay, I will. Thanks again.'
+     SIMILAR PAST USER INPUT: '['Okay, Ill try that.', 'Thanks for the advice, JOY. Ill try to follow your tips.', 'That makes sense.']'
+     
+     ANSWER: 

@@ -1,0 +1,54 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm feeling really stressed about my course schedule. I have so much work to do, and I'm not sure how I'm going to manage it all.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Well, I'm taking six classes this semester, and they're all really demanding. I have to write a lot of papers and study for exams. I'm also involved in a few extracurricular activities, so it's hard to find time to do everything.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm feeling really stressed about my course schedule. I have so much work to do, and I'm not sure how I'm going to manage it all.", "<AI>It sounds like you're feeling overwhelmed.  I'm here to help you manage your stress and stay on top of your work."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I think it's just the overall workload. I feel like I'm constantly behind, and I'm worried that I'm not going to do well in my classes.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I'm feeling really stressed about my course schedule. I have so much work to do, and I'm not sure how I'm going to manage it all.", "<AI>It sounds like you're feeling overwhelmed.  I'm here to help you manage your stress and stay on top of your work.", "<USER>Well, I'm taking six classes this semester, and they're all really demanding. I have to write a lot of papers and study for exams. I'm also involved in a few extracurricular activities, so it's hard to find time to do everything.", "<AI>I understand that you're feeling overwhelmed. It sounds like you have a lot on your plate. I'm here to help you manage your stress and stay on top of your work.\n\nCan you tell me more about your course schedule? What classes are you taking?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Like what?'
+  MEMORY: '['The user is feeling stressed about their course schedule. They are taking six classes this semester, all of which are demanding. They have to write a lot of papers and study for exams. They are also involved in a few extracurricular activities, which makes it hard to find time to do everything. They are worried that they are going to fall behind and not do well in their classes.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'That's a good idea. I'll try to do that this weekend.'
+  MEMORY: '['The user is feeling stressed about their course schedule. They are taking six classes this semester, all of which are demanding. They have to write a lot of papers and study for exams. They are also involved in a few extracurricular activities, which makes it hard to find time to do everything. They are worried that they are going to fall behind and not do well in their classes.']'
+  CHAT HISTORY: '['<USER>Like what?', "<AI>Well, you mentioned that you are feeling stressed about your course schedule. You are taking six classes this semester, all of which are demanding. You have to write a lot of papers and study for exams. You are also involved in a few extracurricular activities, which makes it hard to find time to do everything. You are worried that you are going to fall behind and not do well in your classes.\n\nHere are some things that you can do to help manage your stress:\n\n* **Set priorities.** Decide which classes and activities are most important to you and focus your attention on those.\n* **Create a schedule and stick to it.** This will help you stay organized and make sure that you are not overcommitting yourself.\n* **Take breaks.** It is important to take breaks throughout the day, especially if you are feeling overwhelmed. Get up and move around, go for a walk, or spend some time doing something you enjoy.\n* **Delegate tasks.** If you have too much on your plate, don't be afraid to ask for help from friends, family, or classmates.\n* **Seek professional help.** If your stress is becoming too much to handle, talk to a therapist or counselor.\n\nI hope this helps!"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm pretty good at staying organized, but I'll definitely make sure to keep my planner up to date.'
+  MEMORY: '['The user is feeling stressed about their course schedule. They are taking six classes this semester, all of which are demanding. They have to write a lot of papers and study for exams. They are also involved in a few extracurricular activities, which makes it hard to find time to do everything. They are worried that they are going to fall behind and not do well in their classes.']'
+  CHAT HISTORY: '['<USER>Like what?', "<AI>Well, you mentioned that you are feeling stressed about your course schedule. You are taking six classes this semester, all of which are demanding. You have to write a lot of papers and study for exams. You are also involved in a few extracurricular activities, which makes it hard to find time to do everything. You are worried that you are going to fall behind and not do well in your classes.\n\nHere are some things that you can do to help manage your stress:\n\n* **Set priorities.** Decide which classes and activities are most important to you and focus your attention on those.\n* **Create a schedule and stick to it.** This will help you stay organized and make sure that you are not overcommitting yourself.\n* **Take breaks.** It is important to take breaks throughout the day, especially if you are feeling overwhelmed. Get up and move around, go for a walk, or spend some time doing something you enjoy.\n* **Delegate tasks.** If you have too much on your plate, don't be afraid to ask for help from friends, family, or classmates.\n* **Seek professional help.** If your stress is becoming too much to handle, talk to a therapist or counselor.\n\nI hope this helps!", "<USER>That's a good idea. I'll try to do that this weekend.", "<AI>That's great! I'm glad to hear that you're taking steps to manage your stress. I hope that you find these tips helpful."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'That's a good point. I tend to procrastinate, so it's important for me to set deadlines for myself.'
+  MEMORY: '['The user is feeling stressed about their course schedule. They are taking six classes this semester, all of which are demanding. They have to write a lot of papers and study for exams. They are also involved in a few extracurricular activities, which makes it hard to find time to do everything. They are worried that they are going to fall behind and not do well in their classes.', 'The AI provided tips to help manage stress, including setting priorities, creating a schedule, taking breaks, delegating tasks, and seeking professional help. The user agreed to try the tips and the AI was glad to hear that.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thanks for the advice, JOY. I'll try to follow your suggestions.'
+  MEMORY: '['The user is feeling stressed about their course schedule. They are taking six classes this semester, all of which are demanding. They have to write a lot of papers and study for exams. They are also involved in a few extracurricular activities, which makes it hard to find time to do everything. They are worried that they are going to fall behind and not do well in their classes.', 'The AI provided tips to help manage stress, including setting priorities, creating a schedule, taking breaks, delegating tasks, and seeking professional help. The user agreed to try the tips and the AI was glad to hear that.']'
+  CHAT HISTORY: '["<USER>That's a good point. I tend to procrastinate, so it's important for me to set deadlines for myself.", "<AI>I'm glad you're willing to try the tips I gave you. Setting deadlines for yourself is a great way to stay on track and avoid procrastination. When you know what you need to do and when you need to do it, it's easier to stay motivated and focused."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thanks, JOY. That means a lot.'
+  MEMORY: '['The user is feeling stressed about their course schedule. They are taking six classes this semester, all of which are demanding. They have to write a lot of papers and study for exams. They are also involved in a few extracurricular activities, which makes it hard to find time to do everything. They are worried that they are going to fall behind and not do well in their classes.', 'The AI provided tips to help manage stress, including setting priorities, creating a schedule, taking breaks, delegating tasks, and seeking professional help. The user agreed to try the tips and the AI was glad to hear that.']'
+  CHAT HISTORY: '["<USER>That's a good point. I tend to procrastinate, so it's important for me to set deadlines for myself.", "<AI>I'm glad you're willing to try the tips I gave you. Setting deadlines for yourself is a great way to stay on track and avoid procrastination. When you know what you need to do and when you need to do it, it's easier to stay motivated and focused.", "<USER>Thanks for the advice, JOY. I'll try to follow your suggestions.", "<AI>I'm glad to hear that you're willing to try the tips I gave you. Setting deadlines for yourself is a great way to stay on track and avoid procrastination. When you know what you need to do and when you need to do it, it's easier to stay motivated and focused.\n\nI also encourage you to create a schedule for yourself and stick to it as much as possible. This will help you manage your time effectively and make sure that you're not overcommitting yourself.\n\nFinally, don't be afraid to take breaks when you need them. It's important to take care of yourself and make sure that you're not burning yourself out.\n\nIf you're still feeling stressed, don't hesitate to seek professional help. A therapist can help you develop coping mechanisms and strategies for managing stress in a healthy way."]'
+
+  ANSWER: 

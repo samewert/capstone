@@ -23,8 +23,11 @@ inputFileNames = [f.split('.')[0] for f in os.listdir(inputPath)]
 
 
 responseTypes = {'all': getAllResponse, 'queue': getQueueResponse, 'block': getBlockResponse, 'embed': getEmbeddingResponse}
+# responseTypes = {'embed': getEmbeddingResponse}
 
 performanceTable = pd.DataFrame([])
+
+# inputFileNames = ['input_16']
 
 for filename in inputFileNames:
 

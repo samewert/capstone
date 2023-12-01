@@ -1,0 +1,5 @@
+Number of inputs: 5
+Average Response Time: 1.064978790283203
+Average Total Score: 12.2 of 20
+Total Ratings: {'mirroring': 17, 'specificity': 19, 'response-relatedness': 25, 'question-asking': 0}
+Average Ratings: {'mirroring': 3.4, 'specificity': 3.8, 'response-relatedness': 5.0, 'question-asking': 0.0}

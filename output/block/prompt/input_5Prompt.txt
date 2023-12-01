@@ -1,0 +1,48 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I've been feeling homesick lately.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Yeah, it's just been hard to adjust to my new life here. I miss my family and friends a lot.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I've been feeling homesick lately.", "<AI>I'm sorry to hear that. Homesickness can be a tough feeling. What about home makes you feel this way?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but it's still hard to deal with. I feel like I don't belong here.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>I've been feeling homesick lately.", "<AI>I'm sorry to hear that. Homesickness can be a tough feeling. What about home makes you feel this way?", "<USER>Yeah, it's just been hard to adjust to my new life here. I miss my family and friends a lot.", "<AI>It sounds like you're really missing your family and friends. That's understandable. Moving to a new place can be tough, and it can take some time to adjust. It's important to give yourself time to grieve the loss of your old life, and to find new ways to connect with people in your new community. There are lots of ways to stay connected with your family and friends back home, like social media, phone calls, and video chats. You can also find new ways to meet people in your new community, like joining a club or taking a class. It might take some time, but you'll eventually find your place here."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I guess so. But I'm worried that I'll never feel at home here.'
+  MEMORY: '['USER is feeling homesick because they miss their family and friends. AI provides comfort and suggests ways to cope.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'How can I overcome it?'
+  MEMORY: '['USER is feeling homesick because they miss their family and friends. AI provides comfort and suggests ways to cope.']'
+  CHAT HISTORY: '["<USER>I guess so. But I'm worried that I'll never feel at home here.", "<AI>I understand that you're feeling homesick. It's normal to miss your family and friends when you're away from them. But you can still feel at home here, even if it's not the same as being back home. Here are a few things you can do to help you feel more at home:\n\n* **Make new friends.** One of the best ways to feel at home in a new place is to make new friends. There are lots of ways to meet new people, like joining a club or taking a class.\n* **Find activities you enjoy.** When you're feeling homesick, it's important to find things to do that you enjoy. This will help you to stay busy and distracted from your homesickness.\n* **Spend time in familiar places.** If you have a favorite restaurant or park, try to visit it as often as you can. This will help you to feel more connected to your new home.\n* **Remember that you're not alone.** Many people feel homesick when they move to a new place. It's important to remember that you're not alone and that you'll eventually adjust to your new home."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I've been thinking about talking to my resident assistant.'
+  MEMORY: '['USER is feeling homesick because they miss their family and friends. AI provides comfort and suggests ways to cope.']'
+  CHAT HISTORY: '["<USER>I guess so. But I'm worried that I'll never feel at home here.", "<AI>I understand that you're feeling homesick. It's normal to miss your family and friends when you're away from them. But you can still feel at home here, even if it's not the same as being back home. Here are a few things you can do to help you feel more at home:\n\n* **Make new friends.** One of the best ways to feel at home in a new place is to make new friends. There are lots of ways to meet new people, like joining a club or taking a class.\n* **Find activities you enjoy.** When you're feeling homesick, it's important to find things to do that you enjoy. This will help you to stay busy and distracted from your homesickness.\n* **Spend time in familiar places.** If you have a favorite restaurant or park, try to visit it as often as you can. This will help you to feel more connected to your new home.\n* **Remember that you're not alone.** Many people feel homesick when they move to a new place. It's important to remember that you're not alone and that you'll eventually adjust to your new home.", '<USER>How can I overcome it?', "<AI>There are a few things you can do to help you overcome your homesickness.\n\n* **Make new friends.** One of the best ways to feel at home in a new place is to make new friends. There are lots of ways to meet new people, like joining a club or taking a class.\n* **Find activities you enjoy.** When you're feeling homesick, it's important to find things to do that you enjoy. This will help you to stay busy and distracted from your homesickness.\n* **Spend time in familiar places.** If you have a favorite restaurant or park, try to visit it as often as you can. This will help you to feel more connected to your new home.\n* **Remember that you're not alone.** Many people feel homesick when they move to a new place. It's important to remember that you're not alone and that you'll eventually adjust to your new home.\n\nHere are some additional tips:\n\n* **Talk to your family and friends about how you're feeling.** It can be helpful to talk about your homesickness with someone who understands what you're going through.\n* **Give yourself time to adjust.** It takes time to adjust to a new place. Don't expect to feel at home right away.\n* **Be patient with yourself.** It's okay to feel homesick. Just remember that you'll eventually adjust to your new home.\n\nI hope this helps!"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Okay, I'll talk to her tonight.'
+  MEMORY: '['USER is feeling homesick because they miss their family and friends. AI provides comfort and suggests ways to cope.', 'The user is feeling homesick and asks for advice on how to overcome it. The AI provides a list of tips, including making new friends, finding activities you enjoy, spending time in familiar places, and talking to your family and friends. The AI also suggests that the user talk to their resident assistant for support and advice.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you for your help, JOY. I really appreciate it.'
+  MEMORY: '['USER is feeling homesick because they miss their family and friends. AI provides comfort and suggests ways to cope.', 'The user is feeling homesick and asks for advice on how to overcome it. The AI provides a list of tips, including making new friends, finding activities you enjoy, spending time in familiar places, and talking to your family and friends. The AI also suggests that the user talk to their resident assistant for support and advice.']'
+  CHAT HISTORY: '["<USER>Okay, I'll talk to her tonight.", "<AI>That's a great idea! I'm sure your RA will be able to help you feel more at home and make the most of your time here."]'
+
+  ANSWER: 

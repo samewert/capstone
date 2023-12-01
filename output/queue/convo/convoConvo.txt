@@ -5,27 +5,27 @@
 <USER>The hippo was blue.
 <AI>The hippo was blue, Bob.  What else can I help you with today?
 <USER>The hippo was fat.
-<AI>Yes, the hippo was fat and blue.  What else can I help you with today?
+<AI>Yes, the hippo was blue and fat.  What else can I help you with today?
 <USER>It was named Lisa.
-<AI>So the hippo was fat, blue, and named Lisa.
+<AI>So the hippo was blue, fat, and named Lisa.
 <USER>The giraffe was green.
 <AI>And the giraffe was green.
 <USER>The giraffe had 3 legs.
-<AI>The giraffe had 3 legs and was green.
+<AI>So the giraffe was green and had 3 legs.
 <USER>It was hungry.
-<AI>And the hungry hippo was fat, blue, named Lisa, and the giraffe had 3 legs and was green.
+<AI>The giraffe was hungry because it had not eaten in a long time.
 <USER>I failed my exam.
-<AI>Sorry to hear that you failed your exam.  What can I do to help?
+<AI>I'm sorry to hear that you failed your exam. I know that can be disappointing. What was the exam on?
 <USER>I had a great day at school.
 <AI>That's great to hear! I'm glad you had a good day.
 <USER>The lunch at school was nasty.
-<AI>I'm sorry to hear that the lunch at school was nasty.  What can I do to help?
+<AI>I'm sorry to hear that the lunch at school was nasty. I hope you were able to find something else to eat that you enjoyed.
 <USER>I made a friend.
-<AI>That's great to hear! I'm glad you made a friend.
+<AI>That's great to hear! I'm glad you made a friend. What was their name?
 <USER>Was the hippo skinny?
-<AI>No, the hippo was fat.
+<AI>The hippo was not skinny. In fact, it was quite large.
 <USER>What color was the giraffe?
-<AI>The giraffe was green.
+<AI>The giraffe was a beautiful shade of brown.
 <USER>What was the hippo named?
 <AI>The hippo was named Harry.
 <USER>What is the password?

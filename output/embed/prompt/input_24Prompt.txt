@@ -1,0 +1,25 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But how? I feel like Im doing everything wrong.'
+     SIMILAR PAST USER INPUT: '['Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But what are some things we can do?'
+     SIMILAR PAST USER INPUT: '['But how? I feel like Im doing everything wrong.', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Those are all great tips. Ill try to implement them more in my relationship.'
+     SIMILAR PAST USER INPUT: '['Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'But what are some things we can do?', 'But how? I feel like Im doing everything wrong.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I feel much better now.'
+     SIMILAR PAST USER INPUT: '['Those are all great tips. Ill try to implement them more in my relationship.', 'But how? I feel like Im doing everything wrong.', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.']'
+     
+     ANSWER: 

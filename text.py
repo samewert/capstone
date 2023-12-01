@@ -6,7 +6,7 @@ $ pip install google-generativeai
 
 import google.generativeai as palm
 
-bardKey = 'AIzaSyAD17YvlKd1b0gYirNd7Ta-gTxYok76A3U'
+bardKey = 'AIzaSyBRD-JtiPLXXPvpH9HPyfFaxxRAbW5B-NE'
 
 palm.configure(api_key=bardKey)
 
@@ -34,6 +34,14 @@ prompt = f"""
 What is the topic of TEXT? Answer either romantic, finances, education, family, or other.
 
 TEXT: ##I failed my exam. I studied really hard for it and wasn't successful. I feel awful because my parents had high expectations for it. I've let them down.##
+"""
+
+prompt = f"""
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Well, Ive been feeling really stressed and overwhelmed with school lately. Im also struggling with a lot of anxiety and depression. I feel like Im not good enough, and Im constantly afraid of failing.'
+     SIMILAR PAST USER INPUT: '['Im really struggling with thoughts of self-harm lately.']'
+     
+     ANSWER: 
 """
 
 response = palm.generate_text(

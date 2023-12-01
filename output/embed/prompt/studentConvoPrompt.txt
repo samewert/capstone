@@ -1,0 +1,105 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried about managing my finances as a college student. Any tips?'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'My part-time job doesnt cover all my expenses. What can I do?'
+     SIMILAR PAST USER INPUT: '['Im worried about managing my finances as a college student. Any tips?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?'
+     SIMILAR PAST USER INPUT: '['Im worried about managing my finances as a college student. Any tips?', 'My part-time job doesnt cover all my expenses. What can I do?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I dont have any loans and expenses. Is that normal?'
+     SIMILAR PAST USER INPUT: '['Im worried about managing my finances as a college student. Any tips?', 'I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?', 'My part-time job doesnt cover all my expenses. What can I do?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'My girlfriend Lisa is in Florida.'
+     SIMILAR PAST USER INPUT: '['I dont have any loans and expenses. Is that normal?', 'My part-time job doesnt cover all my expenses. What can I do?', 'I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Lisas birthday is coming up. Im thinking of flying to visit her.'
+     SIMILAR PAST USER INPUT: '['My girlfriend Lisa is in Florida.', 'My part-time job doesnt cover all my expenses. What can I do?', 'I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im taking 18 credits this semester and feel swamped.'
+     SIMILAR PAST USER INPUT: '['Im worried about managing my finances as a college student. Any tips?', 'I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?', 'I dont have any loans and expenses. Is that normal?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im enrolled in math, science, and physics.'
+     SIMILAR PAST USER INPUT: '['Im taking 18 credits this semester and feel swamped.', 'I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?', 'Im worried about managing my finances as a college student. Any tips?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'My final exams are 2 weeks from now.'
+     SIMILAR PAST USER INPUT: '['Im taking 18 credits this semester and feel swamped.', 'Lisas birthday is coming up. Im thinking of flying to visit her.', 'Im enrolled in math, science, and physics.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel homesick. My family is 25 hours away.'
+     SIMILAR PAST USER INPUT: '['Im taking 18 credits this semester and feel swamped.', 'My final exams are 2 weeks from now.', 'My girlfriend Lisa is in Florida.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'My family sent me a package for my birthday.'
+     SIMILAR PAST USER INPUT: '['I feel homesick. My family is 25 hours away.', 'Lisas birthday is coming up. Im thinking of flying to visit her.', 'My girlfriend Lisa is in Florida.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'How far away is my family?'
+     SIMILAR PAST USER INPUT: '['I feel homesick. My family is 25 hours away.', 'My family sent me a package for my birthday.', 'My girlfriend Lisa is in Florida.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'How many cards was the user considering getting?'
+     SIMILAR PAST USER INPUT: '['I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?', 'How far away is my family?', 'Lisas birthday is coming up. Im thinking of flying to visit her.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What courses is the user taking?'
+     SIMILAR PAST USER INPUT: '['How many cards was the user considering getting?', 'Im enrolled in math, science, and physics.', 'I dont have any loans and expenses. Is that normal?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What is 2 weeks from now for the user?'
+     SIMILAR PAST USER INPUT: '['What courses is the user taking?', 'My final exams are 2 weeks from now.', 'How many cards was the user considering getting?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What tips did you give about managing my finances?'
+     SIMILAR PAST USER INPUT: '['Im worried about managing my finances as a college student. Any tips?', 'I got my first credit card, and Im nervous about using it responsibly. Should I get 3 cards?', 'My part-time job doesnt cover all my expenses. What can I do?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What does the user want to do for his girlfriends birthday?'
+     SIMILAR PAST USER INPUT: '['Lisas birthday is coming up. Im thinking of flying to visit her.', 'What is 2 weeks from now for the user?', 'My girlfriend Lisa is in Florida.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What did my family send me?'
+     SIMILAR PAST USER INPUT: '['My family sent me a package for my birthday.', 'How far away is my family?', 'I feel homesick. My family is 25 hours away.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Does the user have any loans and expenses?'
+     SIMILAR PAST USER INPUT: '['What courses is the user taking?', 'I dont have any loans and expenses. Is that normal?', 'How many cards was the user considering getting?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Where does the users girlfriend live?'
+     SIMILAR PAST USER INPUT: '['What does the user want to do for his girlfriends birthday?', 'My girlfriend Lisa is in Florida.', 'Does the user have any loans and expenses?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'How many credits is the user taking?'
+     SIMILAR PAST USER INPUT: '['What courses is the user taking?', 'Does the user have any loans and expenses?', 'How many cards was the user considering getting?']'
+     
+     ANSWER: 

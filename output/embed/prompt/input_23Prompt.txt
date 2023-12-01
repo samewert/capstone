@@ -1,0 +1,35 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im struggling with feelings of self-doubt. I feel like Im not good enough and that Im going to fail.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I feel like my self-doubt is holding me back. Im afraid to try new things because Im scared of failing.'
+     SIMILAR PAST USER INPUT: '['Im struggling with feelings of self-doubt. I feel like Im not good enough and that Im going to fail.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But how do I do that? How do I overcome my self-doubt?'
+     SIMILAR PAST USER INPUT: '['But I feel like my self-doubt is holding me back. Im afraid to try new things because Im scared of failing.', 'Im struggling with feelings of self-doubt. I feel like Im not good enough and that Im going to fail.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I think my biggest trigger is when I compare myself to other people. I always feel like everyone else is smarter and more talented than me.'
+     SIMILAR PAST USER INPUT: '['Im struggling with feelings of self-doubt. I feel like Im not good enough and that Im going to fail.', 'But I feel like my self-doubt is holding me back. Im afraid to try new things because Im scared of failing.', 'But how do I do that? How do I overcome my self-doubt?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But its hard not to compare myself to others. Everyone else seems to have their lives together, and Im just struggling to keep up.'
+     SIMILAR PAST USER INPUT: '['I think my biggest trigger is when I compare myself to other people. I always feel like everyone else is smarter and more talented than me.', 'Im struggling with feelings of self-doubt. I feel like Im not good enough and that Im going to fail.', 'But I feel like my self-doubt is holding me back. Im afraid to try new things because Im scared of failing.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im trying, but its not easy.'
+     SIMILAR PAST USER INPUT: '['But its hard not to compare myself to others. Everyone else seems to have their lives together, and Im just struggling to keep up.', 'Im struggling with feelings of self-doubt. I feel like Im not good enough and that Im going to fail.', 'But how do I do that? How do I overcome my self-doubt?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you. I appreciate that.'
+     SIMILAR PAST USER INPUT: '['Im trying, but its not easy.', 'But how do I do that? How do I overcome my self-doubt?', 'But I feel like my self-doubt is holding me back. Im afraid to try new things because Im scared of failing.']'
+     
+     ANSWER: 

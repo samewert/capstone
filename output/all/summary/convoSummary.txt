@@ -1,5 +1,5 @@
 Number of inputs: 17
-Average Response Time: 0.5202580480014577
-Average Total Score: 14.705882352941176 of 20
-Total Ratings: {'mirroring': 67, 'specificity': 71, 'response-relatedness': 78, 'question-asking': 34}
-Average Ratings: {'mirroring': 3.9411764705882355, 'specificity': 4.176470588235294, 'response-relatedness': 4.588235294117647, 'question-asking': 2.0}
+Average Response Time: 0.7449019095476936
+Average Total Score: 14.764705882352942 of 20
+Total Ratings: {'mirroring': 67, 'specificity': 72, 'response-relatedness': 78, 'question-asking': 34}
+Average Ratings: {'mirroring': 3.9411764705882355, 'specificity': 4.235294117647059, 'response-relatedness': 4.588235294117647, 'question-asking': 2.0}

@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'JOY, I'm feeling really stressed and overwhelmed. I'm struggling to keep up with my schoolwork, and I'm not enJOYing myself as much as I used to. I'm worried that I'm burning out.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I think my main stressors are my class workload and my extracurricular activities. I'm involved in a lot of clubs and organizations, and I'm also trying to get good grades in my classes. It's hard to balance everything.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>JOY, I'm feeling really stressed and overwhelmed. I'm struggling to keep up with my schoolwork, and I'm not enJOYing myself as much as I used to. I'm worried that I'm burning out.", "<AI>It sounds like you're feeling a lot of stress right now. I'm here to listen and help you in any way I can. Can you tell me more about what's going on?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm worried that if I cut back on my extracurricular activities, I won't be as competitive when I apply for jobs and graduate school.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>JOY, I'm feeling really stressed and overwhelmed. I'm struggling to keep up with my schoolwork, and I'm not enJOYing myself as much as I used to. I'm worried that I'm burning out.", "<AI>It sounds like you're feeling a lot of stress right now. I'm here to listen and help you in any way I can. Can you tell me more about what's going on?", "<USER>I think my main stressors are my class workload and my extracurricular activities. I'm involved in a lot of clubs and organizations, and I'm also trying to get good grades in my classes. It's hard to balance everything.", "<AI>I understand that you're feeling stressed about your class workload and extracurricular activities. It's important to remember that you don't have to do everything perfectly. It's okay to take breaks and prioritize your mental health. It sounds like you're feeling overwhelmed, and I'm here to help you in any way I can. Can you tell me more about what you're struggling with?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'You're right. I need to focus on the activities that are most important to me. I'm also going to try to set some better boundaries between my schoolwork and my personal life.'
+  MEMORY: '['User is feeling stressed and overwhelmed due to heavy workload and extracurricular activities. AI provides emotional support and suggests to prioritize mental health.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. Your advice is very helpful. I'm going to start implementing some of these techniques today.'
+  MEMORY: '['User is feeling stressed and overwhelmed due to heavy workload and extracurricular activities. AI provides emotional support and suggests to prioritize mental health.']'
+  CHAT HISTORY: '["<USER>You're right. I need to focus on the activities that are most important to me. I'm also going to try to set some better boundaries between my schoolwork and my personal life.", "<AI>I'm glad to hear that you're taking steps to take care of yourself. It's important to remember that you can't do everything, and it's okay to say no to some things. Setting boundaries between your schoolwork and personal life is also a great way to reduce stress."]'
+
+  ANSWER: 

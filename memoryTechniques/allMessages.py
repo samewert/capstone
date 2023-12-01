@@ -1,6 +1,6 @@
 import google.generativeai as palm
 
-bardKey = 'AIzaSyAD17YvlKd1b0gYirNd7Ta-gTxYok76A3U'
+bardKey = 'AIzaSyAF6LVMpw0h-g5aTdG35geTZ1RfptxyF2k'
 
 palm.configure(api_key=bardKey)
 

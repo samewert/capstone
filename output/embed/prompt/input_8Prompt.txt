@@ -1,0 +1,25 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but its just so hard. I feel like Im all alone.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I know, but its just so hard. I feel like Im all alone.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Maybe Ill talk to my resident advisor.'
+     SIMILAR PAST USER INPUT: '['I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I know, but its just so hard. I feel like Im all alone.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks, JOY. I feel a little better already just talking to you.'
+     SIMILAR PAST USER INPUT: '['I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.', 'Maybe Ill talk to my resident advisor.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.']'
+     
+     ANSWER: 

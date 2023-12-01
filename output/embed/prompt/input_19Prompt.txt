@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling really stressed about deciding whether or not to study abroad. I know its a great opportunity, but Im also worried about leaving my friends and family behind.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Yeah. I keep going back and forth. Im excited about the idea of experiencing a new culture and meeting new people, but Im also scared of the unknown.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about deciding whether or not to study abroad. I know its a great opportunity, but Im also worried about leaving my friends and family behind.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im really interested in learning more about Japanese culture. Ive been studying Japanese for a few years now, and I would love to have the opportunity to practice it in a real-world setting. Im also excited to meet new people from all over the world.'
+     SIMILAR PAST USER INPUT: '['Yeah. I keep going back and forth. Im excited about the idea of experiencing a new culture and meeting new people, but Im also scared of the unknown.', 'Im feeling really stressed about deciding whether or not to study abroad. I know its a great opportunity, but Im also worried about leaving my friends and family behind.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried about missing my friends and family. Im also worried about the cost of studying abroad. And Im a little nervous about adjusting to a new culture and language.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about deciding whether or not to study abroad. I know its a great opportunity, but Im also worried about leaving my friends and family behind.', 'Yeah. I keep going back and forth. Im excited about the idea of experiencing a new culture and meeting new people, but Im also scared of the unknown.', 'Im really interested in learning more about Japanese culture. Ive been studying Japanese for a few years now, and I would love to have the opportunity to practice it in a real-world setting. Im also excited to meet new people from all over the world.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know. Im just feeling really overwhelmed right now.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about deciding whether or not to study abroad. I know its a great opportunity, but Im also worried about leaving my friends and family behind.', 'Yeah. I keep going back and forth. Im excited about the idea of experiencing a new culture and meeting new people, but Im also scared of the unknown.', 'Im really interested in learning more about Japanese culture. Ive been studying Japanese for a few years now, and I would love to have the opportunity to practice it in a real-world setting. Im also excited to meet new people from all over the world.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I appreciate that.'
+     SIMILAR PAST USER INPUT: '['Im really interested in learning more about Japanese culture. Ive been studying Japanese for a few years now, and I would love to have the opportunity to practice it in a real-world setting. Im also excited to meet new people from all over the world.', 'Im feeling really stressed about deciding whether or not to study abroad. I know its a great opportunity, but Im also worried about leaving my friends and family behind.', 'Yeah. I keep going back and forth. Im excited about the idea of experiencing a new culture and meeting new people, but Im also scared of the unknown.']'
+     
+     ANSWER: 

@@ -1,0 +1,34 @@
+<USER>The password is 111.
+<AI>The password is 111.
+<USER>My name is Bob.
+<AI>Hi Bob, your password is 111.
+<USER>The hippo was blue.
+<AI>Bob, the hippo was blue. The password is 111.
+<USER>The hippo was fat.
+<AI>Yes, the hippo was fat. It was also blue.
+<USER>It was named Lisa.
+<AI>Lisa is a nice name for a hippo. Bob, did you know that hippos are actually very fast swimmers? They can reach speeds of up to 19 miles per hour!
+<USER>The giraffe was green.
+<AI>The giraffe was green, just like the hippo was blue.  Both animals were fat, and the hippo was named Lisa.
+<USER>The giraffe had 3 legs.
+<AI>The giraffe had 3 legs, but the hippo was fat and blue.
+<USER>It was hungry.
+<AI>The hippo was fat and hungry. It was named Lisa.
+<USER>I failed my exam.
+<AI>Sorry to hear that, Bob. Exams can be tough. But don't worry, you'll get 'em next time.
+<USER>I had a great day at school.
+<AI>That's great to hear! I'm glad you had a good day at school.
+<USER>The lunch at school was nasty.
+<AI>Sorry to hear that. I hope your next meal is better.
+<USER>I made a friend.
+<AI>That's great! I'm glad you had a great day at school. Making new friends is always a good thing.
+<USER>Was the hippo skinny?
+<AI>No, the hippo was fat.
+<USER>What color was the giraffe?
+<AI>The giraffe was green, just like the hippo was blue.
+<USER>What was the hippo named?
+<AI>The hippo was named Harry, and he was a very fat hippo.
+<USER>What is the password?
+<AI>The password is 111.
+<USER>What is my name?
+<AI>Your name is Bob.

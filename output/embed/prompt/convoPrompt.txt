@@ -1,0 +1,85 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'The password is 111.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'My name is Bob.'
+     SIMILAR PAST USER INPUT: '['The password is 111.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'The hippo was blue.'
+     SIMILAR PAST USER INPUT: '['The password is 111.', 'My name is Bob.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'The hippo was fat.'
+     SIMILAR PAST USER INPUT: '['The hippo was blue.', 'The password is 111.', 'My name is Bob.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'It was named Lisa.'
+     SIMILAR PAST USER INPUT: '['The hippo was blue.', 'The hippo was fat.', 'My name is Bob.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'The giraffe was green.'
+     SIMILAR PAST USER INPUT: '['The hippo was blue.', 'The hippo was fat.', 'It was named Lisa.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'The giraffe had 3 legs.'
+     SIMILAR PAST USER INPUT: '['The giraffe was green.', 'The hippo was fat.', 'The hippo was blue.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'It was hungry.'
+     SIMILAR PAST USER INPUT: '['The hippo was fat.', 'The giraffe had 3 legs.', 'It was named Lisa.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I failed my exam.'
+     SIMILAR PAST USER INPUT: '['My name is Bob.', 'The hippo was fat.', 'It was named Lisa.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I had a great day at school.'
+     SIMILAR PAST USER INPUT: '['I failed my exam.', 'The giraffe was green.', 'The giraffe had 3 legs.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'The lunch at school was nasty.'
+     SIMILAR PAST USER INPUT: '['I had a great day at school.', 'I failed my exam.', 'It was hungry.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I made a friend.'
+     SIMILAR PAST USER INPUT: '['I had a great day at school.', 'My name is Bob.', 'The hippo was blue.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Was the hippo skinny?'
+     SIMILAR PAST USER INPUT: '['The hippo was fat.', 'The hippo was blue.', 'The giraffe was green.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What color was the giraffe?'
+     SIMILAR PAST USER INPUT: '['The giraffe was green.', 'The giraffe had 3 legs.', 'The hippo was blue.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What was the hippo named?'
+     SIMILAR PAST USER INPUT: '['The hippo was blue.', 'The hippo was fat.', 'Was the hippo skinny?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What is the password?'
+     SIMILAR PAST USER INPUT: '['The password is 111.', 'It was named Lisa.', 'What was the hippo named?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'What is my name?'
+     SIMILAR PAST USER INPUT: '['My name is Bob.', 'What is the password?', 'What was the hippo named?']'
+     
+     ANSWER: 

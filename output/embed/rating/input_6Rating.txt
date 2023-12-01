@@ -1,0 +1,11 @@
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 4, 'specificity': 4, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 0, 'specificity': 0, 'response-relatedness': 0, 'question-asking': 0}
+{'mirroring': 0, 'specificity': 0, 'response-relatedness': 0, 'question-asking': 0}
+{'mirroring': 3, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 3, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 2, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 3, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}
+{'mirroring': 1, 'specificity': 3, 'response-relatedness': 5, 'question-asking': 0}

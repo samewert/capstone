@@ -1,7 +1,7 @@
 import numpy as np
 import google.generativeai as palm
 
-bardKey = 'AIzaSyAD17YvlKd1b0gYirNd7Ta-gTxYok76A3U'
+bardKey = 'AIzaSyBRD-JtiPLXXPvpH9HPyfFaxxRAbW5B-NE'
 
 palm.configure(api_key=bardKey)
 

@@ -1,0 +1,35 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'JOY, Im feeling really stressed about my future career path. Im going to graduate in a few months, and I still dont know what I want to do with my life.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but its starting to feel like everyone else knows what theyre doing except for me. All of my friends have job offers already, and Im still lost.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed about my future career path. Im going to graduate in a few months, and I still dont know what I want to do with my life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But how do I know what Im passionate about?'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed about my future career path. Im going to graduate in a few months, and I still dont know what I want to do with my life.', 'I know, but its starting to feel like everyone else knows what theyre doing except for me. All of my friends have job offers already, and Im still lost.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im not sure if I have any real passions. I like a lot of different things, but I dont know if Im passionate enough about any of them to make a career out of them.'
+     SIMILAR PAST USER INPUT: '['But how do I know what Im passionate about?', 'JOY, Im feeling really stressed about my future career path. Im going to graduate in a few months, and I still dont know what I want to do with my life.', 'I know, but its starting to feel like everyone else knows what theyre doing except for me. All of my friends have job offers already, and Im still lost.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im thinking about going to graduate school, but Im not sure if thats the right decision. Im worried about getting into debt and not being able to find a job afterwards.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed about my future career path. Im going to graduate in a few months, and I still dont know what I want to do with my life.', 'Im not sure if I have any real passions. I like a lot of different things, but I dont know if Im passionate enough about any of them to make a career out of them.', 'I know, but its starting to feel like everyone else knows what theyre doing except for me. All of my friends have job offers already, and Im still lost.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling really overwhelmed. I dont know what to do.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed about my future career path. Im going to graduate in a few months, and I still dont know what I want to do with my life.', 'I know, but its starting to feel like everyone else knows what theyre doing except for me. All of my friends have job offers already, and Im still lost.', 'Im thinking about going to graduate school, but Im not sure if thats the right decision. Im worried about getting into debt and not being able to find a job afterwards.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I feel a little bit better already.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed about my future career path. Im going to graduate in a few months, and I still dont know what I want to do with my life.', 'I know, but its starting to feel like everyone else knows what theyre doing except for me. All of my friends have job offers already, and Im still lost.', 'Im feeling really overwhelmed. I dont know what to do.']'
+     
+     ANSWER: 

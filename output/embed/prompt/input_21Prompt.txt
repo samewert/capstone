@@ -1,0 +1,25 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I think my main stressors are my class workload and my extracurricular activities. Im involved in a lot of clubs and organizations, and Im also trying to get good grades in my classes. Its hard to balance everything.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried that if I cut back on my extracurricular activities, I wont be as competitive when I apply for jobs and graduate school.'
+     SIMILAR PAST USER INPUT: '['I think my main stressors are my class workload and my extracurricular activities. Im involved in a lot of clubs and organizations, and Im also trying to get good grades in my classes. Its hard to balance everything.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Youre right. I need to focus on the activities that are most important to me. Im also going to try to set some better boundaries between my schoolwork and my personal life.'
+     SIMILAR PAST USER INPUT: '['I think my main stressors are my class workload and my extracurricular activities. Im involved in a lot of clubs and organizations, and Im also trying to get good grades in my classes. Its hard to balance everything.', 'Im worried that if I cut back on my extracurricular activities, I wont be as competitive when I apply for jobs and graduate school.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. Your advice is very helpful. Im going to start implementing some of these techniques today.'
+     SIMILAR PAST USER INPUT: '['Youre right. I need to focus on the activities that are most important to me. Im also going to try to set some better boundaries between my schoolwork and my personal life.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.', 'Im worried that if I cut back on my extracurricular activities, I wont be as competitive when I apply for jobs and graduate school.']'
+     
+     ANSWER: 

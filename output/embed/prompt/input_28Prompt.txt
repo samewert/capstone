@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im really stressed about studying abroad. Im worried about adjusting to a new culture, taking classes in a new language, and making new friends.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried about not being able to understand the language or the culture. Im also worried about making friends and feeling lonely.'
+     SIMILAR PAST USER INPUT: '['Im really stressed about studying abroad. Im worried about adjusting to a new culture, taking classes in a new language, and making new friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But what if I dont adjust? What if I dont make friends? What if Im miserable?'
+     SIMILAR PAST USER INPUT: '['Im worried about not being able to understand the language or the culture. Im also worried about making friends and feeling lonely.', 'Im really stressed about studying abroad. Im worried about adjusting to a new culture, taking classes in a new language, and making new friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know, but Im still scared.'
+     SIMILAR PAST USER INPUT: '['Im worried about not being able to understand the language or the culture. Im also worried about making friends and feeling lonely.', 'But what if I dont adjust? What if I dont make friends? What if Im miserable?', 'Im really stressed about studying abroad. Im worried about adjusting to a new culture, taking classes in a new language, and making new friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But what can I do to manage my stress?'
+     SIMILAR PAST USER INPUT: '['But what if I dont adjust? What if I dont make friends? What if Im miserable?', 'Im really stressed about studying abroad. Im worried about adjusting to a new culture, taking classes in a new language, and making new friends.', 'I know, but Im still scared.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you for your advice, JOY. I feel a little better now.'
+     SIMILAR PAST USER INPUT: '['I know, but Im still scared.', 'But what can I do to manage my stress?', 'Im worried about not being able to understand the language or the culture. Im also worried about making friends and feeling lonely.']'
+     
+     ANSWER: 

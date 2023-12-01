@@ -1,0 +1,42 @@
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'JOY, I'm feeling really stressed about my future career path. I'm going to graduate in a few months, and I still don't know what I want to do with my life.'
+  MEMORY: '[]'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I know, but it's starting to feel like everyone else knows what they're doing except for me. All of my friends have job offers already, and I'm still lost.'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>JOY, I'm feeling really stressed about my future career path. I'm going to graduate in a few months, and I still don't know what I want to do with my life.", "<AI>It sounds like you're feeling a lot of pressure right now. That's understandable - graduating from college is a big milestone, and it's normal to feel uncertain about what the future holds.\n\nI'm here to help you in any way I can. Can you tell me more about what you're feeling?"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'But how do I know what I'm passionate about?'
+  MEMORY: '[]'
+  CHAT HISTORY: '["<USER>JOY, I'm feeling really stressed about my future career path. I'm going to graduate in a few months, and I still don't know what I want to do with my life.", "<AI>It sounds like you're feeling a lot of pressure right now. That's understandable - graduating from college is a big milestone, and it's normal to feel uncertain about what the future holds.\n\nI'm here to help you in any way I can. Can you tell me more about what you're feeling?", "<USER>I know, but it's starting to feel like everyone else knows what they're doing except for me. All of my friends have job offers already, and I'm still lost.", "<AI>I understand that you're feeling stressed about your future career path. It's normal to feel uncertain about what the future holds, especially when you're about to graduate from college. It sounds like you're comparing yourself to your friends who have already found jobs, and that's making you feel even more lost. It's important to remember that everyone is on their own journey, and there's no right or wrong way to figure out your career path. Just because your friends have job offers doesn't mean that you're behind. You're still early in your career, and you have plenty of time to figure things out.\n\nHere are some things that you can do to help you feel more confident about your future career path:\n\n* **Do some research.** Take some time to research different career paths and find out what interests you. There are a lot of resources available online, such as job boards, career websites, and informational interviews.\n* **Talk to your friends and family.** They can provide you with support and guidance as you're trying to figure out your career path. They may also be able to connect you with people who can help you find a job.\n* **Get involved in your community.** Volunteering or getting involved in extracurricular activities can help you meet new people and learn new skills. It can also give you a sense of purpose and accomplishment.\n* **Don't be afraid to ask for help.** If you're feeling lost or overwhelmed, don't be afraid to reach out for help. There are a lot of people who are willing to help you figure out your career path."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm not sure if I have any real passions. I like a lot of different things, but I don't know if I'm passionate enough about any of them to make a career out of them.'
+  MEMORY: '['JOY provides career advice to user who is feeling stressed about their future career path.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm thinking about going to graduate school, but I'm not sure if that's the right decision. I'm worried about getting into debt and not being able to find a job afterwards.'
+  MEMORY: '['JOY provides career advice to user who is feeling stressed about their future career path.']'
+  CHAT HISTORY: '["<USER>I'm not sure if I have any real passions. I like a lot of different things, but I don't know if I'm passionate enough about any of them to make a career out of them.", "<AI>It's okay to not have a clear passion right now. Many people don't find their passion until they're older. In the meantime, you can focus on developing your skills and interests. You might also want to try out different jobs or volunteer opportunities to see what you enjoy."]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'I'm feeling really overwhelmed. I don't know what to do.'
+  MEMORY: '['JOY provides career advice to user who is feeling stressed about their future career path.']'
+  CHAT HISTORY: '["<USER>I'm not sure if I have any real passions. I like a lot of different things, but I don't know if I'm passionate enough about any of them to make a career out of them.", "<AI>It's okay to not have a clear passion right now. Many people don't find their passion until they're older. In the meantime, you can focus on developing your skills and interests. You might also want to try out different jobs or volunteer opportunities to see what you enjoy.", "<USER>I'm thinking about going to graduate school, but I'm not sure if that's the right decision. I'm worried about getting into debt and not being able to find a job afterwards.", "<AI>I understand that you're feeling stressed about your future career path. It's a big decision to go to graduate school, and it's important to weigh the pros and cons carefully before making a decision.\n\nOne of the things you mentioned is that you're worried about getting into debt. This is a valid concern, as graduate school can be expensive. However, there are many ways to finance your education, such as scholarships, grants, and loans. You can also work part-time or full-time while you're in school to help pay for your expenses.\n\nAnother thing you mentioned is that you're worried about not being able to find a job afterwards. This is also a valid concern, as the job market can be competitive. However, if you choose a graduate program that is in high demand, you'll be more likely to find a job after you graduate.\n\nUltimately, the decision of whether or not to go to graduate school is a personal one. There is no right or wrong answer. However, I encourage you to do your research and weigh the pros and cons carefully before making a decision.\n\nHere are some additional resources that you may find helpful:\n\n* [The Pros and Cons of Going to Graduate School](https://www.usnews.com/education/blogs/the-grad-school-spotlight/articles/the-pros-and-cons-of-going-to-graduate-school)\n* [How to Finance Your Graduate Education](https://www.nerdwallet.com/article/loans/student-loans/how-to-finance-graduate-school)\n* [How to Choose a Graduate Program](https://www.gradschoolhub.com/how-to-choose-a-graduate-program/)"]'
+
+  ANSWER: 
+You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
+  USER INPUT: 'Thank you, JOY. I feel a little bit better already.'
+  MEMORY: '['JOY provides career advice to user who is feeling stressed about their future career path.', 'The AI provides advice on career path, including finding passion, graduate school, and dealing with stress.']'
+  CHAT HISTORY: '[]'
+
+  ANSWER: 

@@ -1,0 +1,30 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im really stressed about thinking about post-graduation life.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. Im just kind of lost.'
+     SIMILAR PAST USER INPUT: '['Im really stressed about thinking about post-graduation life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I feel so much pressure to have it all figured out.'
+     SIMILAR PAST USER INPUT: '['Im really stressed about thinking about post-graduation life.', 'Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. Im just kind of lost.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess so. But its hard not to worry about the future.'
+     SIMILAR PAST USER INPUT: '['Im really stressed about thinking about post-graduation life.', 'But I feel so much pressure to have it all figured out.', 'Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. Im just kind of lost.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess I could start by making a list of my goals and then developing a plan to achieve them.'
+     SIMILAR PAST USER INPUT: '['Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. Im just kind of lost.', 'I guess so. But its hard not to worry about the future.', 'Im really stressed about thinking about post-graduation life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks, JOY. I feel a little better already.'
+     SIMILAR PAST USER INPUT: '['I guess so. But its hard not to worry about the future.', 'Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. Im just kind of lost.', 'But I feel so much pressure to have it all figured out.']'
+     
+     ANSWER: 

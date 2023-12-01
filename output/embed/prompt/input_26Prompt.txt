@@ -1,0 +1,35 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling a lot of pressure from my leadership roles in clubs and organizations. Im not sure how to handle it all.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I have to juggle a lot of different deadlines and commitments. Im also worried about making decisions that will affect other people.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure from my leadership roles in clubs and organizations. Im not sure how to handle it all.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess I could. Ive been hesitant to do that in the past, but Im starting to realize that I cant do everything myself.'
+     SIMILAR PAST USER INPUT: '['I have to juggle a lot of different deadlines and commitments. Im also worried about making decisions that will affect other people.', 'Im feeling a lot of pressure from my leadership roles in clubs and organizations. Im not sure how to handle it all.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Another thing thats causing me stress is making decisions. Im worried about making the wrong decision and letting people down.'
+     SIMILAR PAST USER INPUT: '['I have to juggle a lot of different deadlines and commitments. Im also worried about making decisions that will affect other people.', 'Im feeling a lot of pressure from my leadership roles in clubs and organizations. Im not sure how to handle it all.', 'I guess I could. Ive been hesitant to do that in the past, but Im starting to realize that I cant do everything myself.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I guess youre right. I just need to be more confident in my decision-making abilities.'
+     SIMILAR PAST USER INPUT: '['Another thing thats causing me stress is making decisions. Im worried about making the wrong decision and letting people down.', 'I guess I could. Ive been hesitant to do that in the past, but Im starting to realize that I cant do everything myself.', 'I have to juggle a lot of different deadlines and commitments. Im also worried about making decisions that will affect other people.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I think thats a good idea. Im also going to try to delegate more tasks and to trust my team members.'
+     SIMILAR PAST USER INPUT: '['I guess I could. Ive been hesitant to do that in the past, but Im starting to realize that I cant do everything myself.', 'I have to juggle a lot of different deadlines and commitments. Im also worried about making decisions that will affect other people.', 'Another thing thats causing me stress is making decisions. Im worried about making the wrong decision and letting people down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I appreciate your support.'
+     SIMILAR PAST USER INPUT: '['Another thing thats causing me stress is making decisions. Im worried about making the wrong decision and letting people down.', 'I guess I could. Ive been hesitant to do that in the past, but Im starting to realize that I cant do everything myself.', 'I think thats a good idea. Im also going to try to delegate more tasks and to trust my team members.']'
+     
+     ANSWER: 

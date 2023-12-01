@@ -1,7 +1,7 @@
 import google.generativeai as palm
 from collections import deque
 
-bardKey = 'AIzaSyAD17YvlKd1b0gYirNd7Ta-gTxYok76A3U'
+bardKey = 'AIzaSyA44l27TAC60NpOM04q4NCfpXg2wE5sBrk'
 
 palm.configure(api_key=bardKey)
 
@@ -22,7 +22,7 @@ defaults = {
   'safety_settings': [{"category":"HARM_CATEGORY_DEROGATORY","threshold":4},{"category":"HARM_CATEGORY_TOXICITY","threshold":4},{"category":"HARM_CATEGORY_VIOLENCE","threshold":4},{"category":"HARM_CATEGORY_SEXUAL","threshold":4},{"category":"HARM_CATEGORY_MEDICAL","threshold":4},{"category":"HARM_CATEGORY_DANGEROUS","threshold":4}],
 }
 
-queueLen = 10
+queueLen = 5
 queue = deque(maxlen=queueLen)
 
 def initializeQueue():

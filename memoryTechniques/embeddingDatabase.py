@@ -4,7 +4,7 @@ import pandas as pd
 import chromadb
 from chromadb.api.types import Documents, Embeddings
 
-bardKey = 'AIzaSyAD17YvlKd1b0gYirNd7Ta-gTxYok76A3U'
+bardKey = 'AIzaSyB9-wKyvfUssCE5_qVLz22lWBDbFwKz6as'
 
 palm.configure(api_key=bardKey)
 
@@ -23,6 +23,7 @@ defaults = {
   'max_output_tokens': 1024,
   'stop_sequences': [],
   'safety_settings': [{"category":"HARM_CATEGORY_DEROGATORY","threshold":4},{"category":"HARM_CATEGORY_TOXICITY","threshold":4},{"category":"HARM_CATEGORY_VIOLENCE","threshold":4},{"category":"HARM_CATEGORY_SEXUAL","threshold":4},{"category":"HARM_CATEGORY_MEDICAL","threshold":4},{"category":"HARM_CATEGORY_DANGEROUS","threshold":4}],
+# 'safety_settings': [{"category":"HARM_CATEGORY_DEROGATORY","threshold":"BLOCK_NONE"},{"category":"HARM_CATEGORY_TOXICITY","threshold":"BLOCK_NONE"},{"category":"HARM_CATEGORY_VIOLENCE","threshold":"BLOCK_NONE"},{"category":"HARM_CATEGORY_SEXUAL","threshold":"BLOCK_NONE"},{"category":"HARM_CATEGORY_MEDICAL","threshold":"BLOCK_NONE"},{"category":"HARM_CATEGORY_DANGEROUS","threshold":"BLOCK_NONE"}],
 }
 
 # DOCUMENT1 = "Bob is 6' tall"
@@ -53,9 +54,8 @@ if len(chromaClient.list_collections()) < 1:
     chromaClient.create_collection(name=user, embedding_function=embedFunction)
 
 def initializeEmbed():
-    global chromaClient
-    chromaClient = chromadb.Client()
-    if len(chromaClient.list_collections()) < 1:
+    if len(chromaClient.list_collections()) > 0:
+        chromaClient.delete_collection(name=user)
         chromaClient.create_collection(name=user, embedding_function=embedFunction)
 
 # id = 0
@@ -78,9 +78,9 @@ def get_relevant_passage(query, collectionName):
     # return passage[0][0]
 
 def make_prompt(query, relevant_passage):
-    prompt = ("""You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
+    prompt = ("""You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
      USER INPUT: '{query}'
-     CHAT HISTORY: '{relevant_passage}'
+     SIMILAR PAST USER INPUT: '{relevant_passage}'
      
      ANSWER: """).format(query=query, relevant_passage=relevant_passage)
 
@@ -92,7 +92,12 @@ def getEmbeddingResponse(query):
     prompt = make_prompt(cleanedQuery, passage)
     # print(prompt)
     # print(textModel)
+
     answer = palm.generate_text(**defaults, prompt=prompt, model=textModel)
+    if len(answer.candidates) == 0:
+        print(prompt)
+        print(answer)
+        print(answer.filters)
     response = answer.candidates[0]['output']
 
     addDocument(cleanedQuery, user)

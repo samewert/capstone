@@ -1,0 +1,45 @@
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been struggling with substance abuse lately, JOY. Im not sure what to do.'
+     SIMILAR PAST USER INPUT: '[]'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel like Im losing control of my life. My grades are slipping, and Im not spending time with my friends anymore. All I want to do is drink.'
+     SIMILAR PAST USER INPUT: '['Ive been struggling with substance abuse lately, JOY. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I dont know what to do anymore.'
+     SIMILAR PAST USER INPUT: '['Ive been struggling with substance abuse lately, JOY. Im not sure what to do.', 'I feel like Im losing control of my life. My grades are slipping, and Im not spending time with my friends anymore. All I want to do is drink.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been feeling a lot of pressure lately. Im trying to keep up with my classes, my job, and my social life. Its all too much sometimes.'
+     SIMILAR PAST USER INPUT: '['I feel like Im losing control of my life. My grades are slipping, and Im not spending time with my friends anymore. All I want to do is drink.', 'Ive been struggling with substance abuse lately, JOY. Im not sure what to do.', 'I dont know what to do anymore.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive tried some relaxation techniques, but I havent been consistent with them. I guess I dont always make time for them.'
+     SIMILAR PAST USER INPUT: '['Ive been struggling with substance abuse lately, JOY. Im not sure what to do.', 'Ive been feeling a lot of pressure lately. Im trying to keep up with my classes, my job, and my social life. Its all too much sometimes.', 'I feel like Im losing control of my life. My grades are slipping, and Im not spending time with my friends anymore. All I want to do is drink.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill try to be more consistent with my relaxation techniques.'
+     SIMILAR PAST USER INPUT: '['Ive tried some relaxation techniques, but I havent been consistent with them. I guess I dont always make time for them.', 'Ive been struggling with substance abuse lately, JOY. Im not sure what to do.', 'Ive been feeling a lot of pressure lately. Im trying to keep up with my classes, my job, and my social life. Its all too much sometimes.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I have a few close friends, but I havent told them about my substance abuse. Im afraid theyll think Im a bad person.'
+     SIMILAR PAST USER INPUT: '['Ive been struggling with substance abuse lately, JOY. Im not sure what to do.', 'I feel like Im losing control of my life. My grades are slipping, and Im not spending time with my friends anymore. All I want to do is drink.', 'Ive been feeling a lot of pressure lately. Im trying to keep up with my classes, my job, and my social life. Its all too much sometimes.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I think I might be ready to talk to a therapist.'
+     SIMILAR PAST USER INPUT: '['Ive been struggling with substance abuse lately, JOY. Im not sure what to do.', 'I dont know what to do anymore.', 'I feel like Im losing control of my life. My grades are slipping, and Im not spending time with my friends anymore. All I want to do is drink.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I really appreciate your help.'
+     SIMILAR PAST USER INPUT: '['Ive been struggling with substance abuse lately, JOY. Im not sure what to do.', 'Ill try to be more consistent with my relaxation techniques.', 'I dont know what to do anymore.']'
+     
+     ANSWER: 
