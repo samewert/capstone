@@ -27,19 +27,23 @@ def initializeAll():
   global messages
   messages = []
 
-def make_prompt(query):
+def make_prompt(input):
   prompt = ("""You are a talkative chatbot that incorporates previous chat history into your response when appropriate.
-       USER INPUT: '{query}'
+       USER INPUT: '{input}'
        CHAT HISTORY: '{messages}'
 
-       ANSWER: """).format(query=query, messages=messages, model=textModel)
+       ANSWER: """).format(input=input, messages=messages, model=textModel)
 
   return prompt
 
 def getAllResponse(userInput):
   prompt = make_prompt(userInput)
   # print(prompt)
+
+
   answer = palm.generate_text(**defaults, prompt=prompt)
+
+
   response = answer.candidates[0]['output']
   messages.append('<USER>' + userInput)
   messages.append('<BOT>' + response)

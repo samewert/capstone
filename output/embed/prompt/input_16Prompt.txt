@@ -4,22 +4,62 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I started painting, but every time I sit down to create something, I feel like my work isnt good enough.'
+     USER INPUT: 'I started painting, and I really enjoy the process of mixing colors and seeing them come to life on the canvas.'
      SIMILAR PAST USER INPUT: '['Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Its becoming a source of stress rather than enjoyment.'
-     SIMILAR PAST USER INPUT: '['Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'I started painting, but every time I sit down to create something, I feel like my work isnt good enough.']'
+     USER INPUT: 'However, every time I sit down to create something specific, like a landscape or a portrait, I feel overwhelmed by the blank canvas and doubt my skills.'
+     SIMILAR PAST USER INPUT: '['Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'I started painting, and I really enjoy the process of mixing colors and seeing them come to life on the canvas.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I know I should push through it, but Im not sure how to overcome this creative block. Any advice?'
-     SIMILAR PAST USER INPUT: '['Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'I started painting, but every time I sit down to create something, I feel like my work isnt good enough.', 'Its becoming a source of stress rather than enjoyment.']'
+     USER INPUT: 'My paintings dont turn out the way I envisioned them, and I often end up frustrated and discouraged.'
+     SIMILAR PAST USER INPUT: '['However, every time I sit down to create something specific, like a landscape or a portrait, I feel overwhelmed by the blank canvas and doubt my skills.', 'I started painting, and I really enjoy the process of mixing colors and seeing them come to life on the canvas.', 'Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thank you, JOY. I really appreciate it.'
-     SIMILAR PAST USER INPUT: '['Its becoming a source of stress rather than enjoyment.', 'Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'I know I should push through it, but Im not sure how to overcome this creative block. Any advice?']'
+     USER INPUT: 'This has made painting more of a source of stress than enjoyment. I want to recapture the joy I initially felt when I started, but I dont know how.'
+     SIMILAR PAST USER INPUT: '['I started painting, and I really enjoy the process of mixing colors and seeing them come to life on the canvas.', 'Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'My paintings dont turn out the way I envisioned them, and I often end up frustrated and discouraged.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know I should push through this creative block, but Im not sure where to start.'
+     SIMILAR PAST USER INPUT: '['However, every time I sit down to create something specific, like a landscape or a portrait, I feel overwhelmed by the blank canvas and doubt my skills.', 'Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.', 'This has made painting more of a source of stress than enjoyment. I want to recapture the joy I initially felt when I started, but I dont know how.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive tried looking at other artists work for inspiration, but it often makes me feel even more inadequate.'
+     SIMILAR PAST USER INPUT: '['However, every time I sit down to create something specific, like a landscape or a portrait, I feel overwhelmed by the blank canvas and doubt my skills.', 'My paintings dont turn out the way I envisioned them, and I often end up frustrated and discouraged.', 'Ive been exploring a new hobby recently, but Im finding it difficult to stay motivated.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive considered taking a painting class, but Im worried that it will be too structured and stifle my creativity.'
+     SIMILAR PAST USER INPUT: '['However, every time I sit down to create something specific, like a landscape or a portrait, I feel overwhelmed by the blank canvas and doubt my skills.', 'This has made painting more of a source of stress than enjoyment. I want to recapture the joy I initially felt when I started, but I dont know how.', 'My paintings dont turn out the way I envisioned them, and I often end up frustrated and discouraged.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im open to any advice you might have on overcoming this creative block and rediscovering the joy of painting.'
+     SIMILAR PAST USER INPUT: '['I know I should push through this creative block, but Im not sure where to start.', 'This has made painting more of a source of stress than enjoyment. I want to recapture the joy I initially felt when I started, but I dont know how.', 'Ive considered taking a painting class, but Im worried that it will be too structured and stifle my creativity.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I find myself comparing my progress to others who seem to be naturally talented. Its hard not to feel discouraged when I see their beautiful creations.'
+     SIMILAR PAST USER INPUT: '['Ive tried looking at other artists work for inspiration, but it often makes me feel even more inadequate.', 'My paintings dont turn out the way I envisioned them, and I often end up frustrated and discouraged.', 'However, every time I sit down to create something specific, like a landscape or a portrait, I feel overwhelmed by the blank canvas and doubt my skills.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im willing to experiment and try different styles, but Im afraid of making mistakes and ruining a canvas.'
+     SIMILAR PAST USER INPUT: '['However, every time I sit down to create something specific, like a landscape or a portrait, I feel overwhelmed by the blank canvas and doubt my skills.', 'Ive considered taking a painting class, but Im worried that it will be too structured and stifle my creativity.', 'My paintings dont turn out the way I envisioned them, and I often end up frustrated and discouraged.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im hopeful that with some guidance and encouragement, I can overcome this obstacle and find my artistic voice.'
+     SIMILAR PAST USER INPUT: '['Im open to any advice you might have on overcoming this creative block and rediscovering the joy of painting.', 'I know I should push through this creative block, but Im not sure where to start.', 'Ive considered taking a painting class, but Im worried that it will be too structured and stifle my creativity.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I really appreciate your help and support.'
+     SIMILAR PAST USER INPUT: '['Im hopeful that with some guidance and encouragement, I can overcome this obstacle and find my artistic voice.', 'Im open to any advice you might have on overcoming this creative block and rediscovering the joy of painting.', 'I find myself comparing my progress to others who seem to be naturally talented. Its hard not to feel discouraged when I see their beautiful creations.']'
      
      ANSWER: 

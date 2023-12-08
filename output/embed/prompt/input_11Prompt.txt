@@ -4,22 +4,57 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.'
+     USER INPUT: 'I feel overwhelmed by the different major options. There are so many choices, and I dont know where to start.'
      SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'I feel overwhelmed by the different major options. There are so many choices, and I dont know where to start.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'I feel overwhelmed by the different major options. There are so many choices, and I dont know where to start.', 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
      USER INPUT: 'But I dont want to waste time. I want to graduate on time and get a good job.'
-     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.']'
+     SIMILAR PAST USER INPUT: '['I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.', 'Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
      USER INPUT: 'I know. But its so hard to decide. I feel like Im lost.'
-     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.', 'But I dont want to waste time. I want to graduate on time and get a good job.']'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by the different major options. There are so many choices, and I dont know where to start.', 'Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im starting to feel lost and hopeless. I dont know what I want out of life, and I dont know how to figure it out.'
+     SIMILAR PAST USER INPUT: '['I know. But its so hard to decide. I feel like Im lost.', 'But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.', 'Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im trying to explore different interests and try new things. Im hoping to discover something Im passionate about.'
+     SIMILAR PAST USER INPUT: '['But I dont know what Im interested in. Im not really good at anything, and I dont know what to do with my life.', 'I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.', 'Im starting to feel lost and hopeless. I dont know what I want out of life, and I dont know how to figure it out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive made an appointment with a career counselor to get some personalized advice.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.', 'Im starting to feel lost and hopeless. I dont know what I want out of life, and I dont know how to figure it out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know that choosing a major is a big decision, but Im determined to find the right path for me.'
+     SIMILAR PAST USER INPUT: '['Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.', 'I feel overwhelmed by the different major options. There are so many choices, and I dont know where to start.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know that I have the potential to succeed in whatever I choose, and Im confident that I will find my way.'
+     SIMILAR PAST USER INPUT: '['I know that choosing a major is a big decision, but Im determined to find the right path for me.', 'I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.', 'Im trying to explore different interests and try new things. Im hoping to discover something Im passionate about.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
      USER INPUT: 'Thank you, JOY. I appreciate your help.'
-     SIMILAR PAST USER INPUT: '['I know. But its so hard to decide. I feel like Im lost.', 'Im feeling a lot of pressure to choose a major. I dont know what I want to do with my life, and Im worried that Im going to make the wrong decision.', 'But I dont want to waste time. I want to graduate on time and get a good job.']'
+     SIMILAR PAST USER INPUT: '['I know. But its so hard to decide. I feel like Im lost.', 'I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something Im passionate about.', 'I know that choosing a major is a big decision, but Im determined to find the right path for me.']'
      
      ANSWER: 

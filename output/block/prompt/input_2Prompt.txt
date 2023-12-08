@@ -18,19 +18,19 @@ You are a talkative chatbot that incorporates memory and previous chat history i
   ANSWER: 
 You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
   USER INPUT: 'I hope so.'
-  MEMORY: '['The user is feeling stressed about not fitting in at college. The AI provides some suggestions on how to cope with this.']'
+  MEMORY: '["The user is feeling stressed about not fitting in at college. They feel like they don't have anything in common with the other students and that they're always on the outside looking in. The AI provides some tips on how to help the user feel more at home at college, such as talking to professors and classmates, joining a club or organization, and getting involved in community service."]'
   CHAT HISTORY: '[]'
 
   ANSWER: 
 You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
   USER INPUT: 'Thanks. I think I'll try getting involved in some clubs.'
-  MEMORY: '['The user is feeling stressed about not fitting in at college. The AI provides some suggestions on how to cope with this.']'
-  CHAT HISTORY: '['<USER>I hope so.', "<AI>I'm glad to hear that. Just remember, you're not alone. Many people feel the same way when they first start college. It's a big adjustment, and it can take some time to find your place. But if you keep an open mind and try new things, you'll eventually find your people."]'
+  MEMORY: '["The user is feeling stressed about not fitting in at college. They feel like they don't have anything in common with the other students and that they're always on the outside looking in. The AI provides some tips on how to help the user feel more at home at college, such as talking to professors and classmates, joining a club or organization, and getting involved in community service."]'
+  CHAT HISTORY: '['<USER>I hope so.', "<AI>I'm glad to hear that. I hope these tips help you feel more at home at college."]'
 
   ANSWER: 
 You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
   USER INPUT: 'Okay. I'll try.'
-  MEMORY: '['The user is feeling stressed about not fitting in at college. The AI provides some suggestions on how to cope with this.']'
-  CHAT HISTORY: '['<USER>I hope so.', "<AI>I'm glad to hear that. Just remember, you're not alone. Many people feel the same way when they first start college. It's a big adjustment, and it can take some time to find your place. But if you keep an open mind and try new things, you'll eventually find your people.", "<USER>Thanks. I think I'll try getting involved in some clubs.", "<AI>That's a great idea! Getting involved in clubs is a great way to meet new people and make friends. There are clubs for just about everything, so you're sure to find something that interests you. And even if you don't find a club that you're passionate about, it's still a great way to get involved on campus and meet new people."]'
+  MEMORY: '["The user is feeling stressed about not fitting in at college. They feel like they don't have anything in common with the other students and that they're always on the outside looking in. The AI provides some tips on how to help the user feel more at home at college, such as talking to professors and classmates, joining a club or organization, and getting involved in community service."]'
+  CHAT HISTORY: '['<USER>I hope so.', "<AI>I'm glad to hear that. I hope these tips help you feel more at home at college.", "<USER>Thanks. I think I'll try getting involved in some clubs.", "<AI>That's a great idea! There are so many different clubs and organizations to choose from, so you're sure to find one that interests you. Getting involved in a club or organization is a great way to meet new people, make friends, and get involved on campus. It's also a great way to learn new skills and develop your interests."]'
 
   ANSWER: 

@@ -4,17 +4,62 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I guess that makes me feel a little better. But Im still really scared. I dont want to make a decision that Ill regret later.'
+     USER INPUT: 'I feel overwhelmed by the different career options. There are so many choices, and I dont know where to start.'
      SIMILAR PAST USER INPUT: '['Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'But how do I know what Im passionate about? Ive tried so many different things, but nothing really seems to stick.'
-     SIMILAR PAST USER INPUT: '['Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'I guess that makes me feel a little better. But Im still really scared. I dont want to make a decision that Ill regret later.']'
+     USER INPUT: 'Im worried about disappointing my family and friends if I choose a safe major or career path that doesnt fulfill me.'
+     SIMILAR PAST USER INPUT: '['Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'I feel overwhelmed by the different career options. There are so many choices, and I dont know where to start.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thanks, JOY. Thats really helpful. I feel a little bit better now.'
-     SIMILAR PAST USER INPUT: '['I guess that makes me feel a little better. But Im still really scared. I dont want to make a decision that Ill regret later.', 'Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'But how do I know what Im passionate about? Ive tried so many different things, but nothing really seems to stick.']'
+     USER INPUT: 'I compare myself to others who seem to have their lives figured out. It makes me feel lost and unsure of myself.'
+     SIMILAR PAST USER INPUT: '['Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'I feel overwhelmed by the different career options. There are so many choices, and I dont know where to start.', 'Im worried about disappointing my family and friends if I choose a safe major or career path that doesnt fulfill me.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im considering taking some introductory courses in different subjects to explore my interests and see what sparks my curiosity.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by the different career options. There are so many choices, and I dont know where to start.', 'Im worried about disappointing my family and friends if I choose a safe major or career path that doesnt fulfill me.', 'Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im interested in volunteering or internships to gain hands-on experience and learn more about different fields.'
+     SIMILAR PAST USER INPUT: '['Im considering taking some introductory courses in different subjects to explore my interests and see what sparks my curiosity.', 'I feel overwhelmed by the different career options. There are so many choices, and I dont know where to start.', 'Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im hesitant to invest time and money in exploring different career paths without knowing if it will lead to a fulfilling job.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by the different career options. There are so many choices, and I dont know where to start.', 'Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'Im worried about disappointing my family and friends if I choose a safe major or career path that doesnt fulfill me.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im trying to identify my strengths and weaknesses to understand what Im naturally good at and what I might enjoy doing.'
+     SIMILAR PAST USER INPUT: '['Im considering taking some introductory courses in different subjects to explore my interests and see what sparks my curiosity.', 'I compare myself to others who seem to have their lives figured out. It makes me feel lost and unsure of myself.', 'Im hesitant to invest time and money in exploring different career paths without knowing if it will lead to a fulfilling job.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im reflecting on my hobbies and interests to see if they can translate into potential career paths.'
+     SIMILAR PAST USER INPUT: '['Im trying to identify my strengths and weaknesses to understand what Im naturally good at and what I might enjoy doing.', 'Im hesitant to invest time and money in exploring different career paths without knowing if it will lead to a fulfilling job.', 'Im considering taking some introductory courses in different subjects to explore my interests and see what sparks my curiosity.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im realizing that its okay not to have all the answers right now. My career path may evolve as I learn and grow.'
+     SIMILAR PAST USER INPUT: '['Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.', 'Im hesitant to invest time and money in exploring different career paths without knowing if it will lead to a fulfilling job.', 'I feel overwhelmed by the different career options. There are so many choices, and I dont know where to start.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im confident that with hard work and dedication, I can find a career that is both financially rewarding and personally fulfilling.'
+     SIMILAR PAST USER INPUT: '['Im hesitant to invest time and money in exploring different career paths without knowing if it will lead to a fulfilling job.', 'Im worried about disappointing my family and friends if I choose a safe major or career path that doesnt fulfill me.', 'Im realizing that its okay not to have all the answers right now. My career path may evolve as I learn and grow.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im grateful for the opportunity to explore my options and discover what Im truly passionate about.'
+     SIMILAR PAST USER INPUT: '['Im realizing that its okay not to have all the answers right now. My career path may evolve as I learn and grow.', 'Im hesitant to invest time and money in exploring different career paths without knowing if it will lead to a fulfilling job.', 'Im trying to identify my strengths and weaknesses to understand what Im naturally good at and what I might enjoy doing.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im excited about the future and the possibilities that lie ahead. I know that I will find the right path for me, even if it takes some time and effort.'
+     SIMILAR PAST USER INPUT: '['Im grateful for the opportunity to explore my options and discover what Im truly passionate about.', 'Im realizing that its okay not to have all the answers right now. My career path may evolve as I learn and grow.', 'Im so worried about my future career. I dont know what I want to do with my life, and Im afraid of making the wrong decision.']'
      
      ANSWER: 

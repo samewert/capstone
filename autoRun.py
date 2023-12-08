@@ -5,7 +5,7 @@ from memoryTechniques.allMessages import getAllResponse, initializeAll
 from memoryTechniques.queueMemory import getQueueResponse, initializeQueue
 from memoryTechniques.blockSummary import getBlockResponse, initializeBlock
 from memoryTechniques.embeddingDatabase import getEmbeddingResponse, initializeEmbed
-from ratePairs import getRating
+from ratePairs import getRating, getConvoRating
 from createDirectories import createDirectories
 
 # Define the function to get a response for a given input
@@ -27,7 +27,9 @@ responseTypes = {'all': getAllResponse, 'queue': getQueueResponse, 'block': getB
 
 performanceTable = pd.DataFrame([])
 
-# inputFileNames = ['input_16']
+# inputFileNames = ['input_27']
+
+# inputFileNames = inputFileNames[19:]
 
 for filename in inputFileNames:
 
@@ -66,30 +68,35 @@ for filename in inputFileNames:
             startTime = time.time()
             response, prompt = getResponse(inputText)
             endTime = time.time()
-            conversations.extend(["<USER>" + inputText, "<AI>" + response])
+            conversations.extend(["\n<USER>\n" + inputText, "\n<AI>\n" + response])
 
-            rating = getRating(user=inputText, ai=response)
-            ratings.append(rating)
-
-            for k in rating:
-                if k in addedRatings:
-                    addedRatings[k] += rating[k]
-                else:
-                    addedRatings[k] = rating[k]
+            # rating = getRating(user=inputText, ai=response)
+            # ratings.append(rating)
+            #
+            # for k in rating:
+            #     if k in addedRatings:
+            #         addedRatings[k] += rating[k]
+            #     else:
+            #         addedRatings[k] = rating[k]
 
             prompts.append(prompt)
 
-            totalScore += sum(rating.values())
+            # totalScore += sum(rating.values())
+
             totalTime += (endTime - startTime)
+
+
+        convoRating = getConvoRating(conversations)
+        totalScore = sum(convoRating.values())
 
         # Write the input and response pairs to 'convoOutput.txt'
         with open('output/' + folder + 'convo/' + filename + 'Convo.txt', 'w') as outputFile:
             for line in conversations:
                 outputFile.write(line + '\n')
 
-        with open('output/' + folder + 'rating/' + filename + 'Rating.txt', 'w') as ratingFile:
-            for r in ratings:
-                ratingFile.write(str(r) + '\n')
+        # with open('output/' + folder + 'rating/' + filename + 'Rating.txt', 'w') as ratingFile:
+        #     for r in ratings:
+        #         ratingFile.write(str(r) + '\n')
 
         with open('output/' + folder + 'prompt/' + filename + 'Prompt.txt', 'w') as promptFile:
             for p in prompts:
@@ -98,7 +105,8 @@ for filename in inputFileNames:
         with open('output/' + folder + 'summary/' + filename + 'Summary.txt', 'w') as summaryFile:
             summaryFile.write('Number of inputs: {}\n'.format(len(inputList)))
             summaryFile.write('Average Response Time: {}\n'.format(totalTime / len(inputList)))
-            summaryFile.write('Average Total Score: {} of 20\n'.format(totalScore / len(inputList)))
+            # summaryFile.write('Average Total Score: {} of 20\n'.format(totalScore / len(inputList)))
+            summaryFile.write('Total Score: {} of 20\n'.format(totalScore))
 
             summaryFile.write('Total Ratings: {}\n'.format(str(addedRatings)))
             for criteria in addedRatings:
@@ -109,8 +117,9 @@ for filename in inputFileNames:
 
         # technique, 'topic', len(inputList), 'average length of each input', totalTime/len(inputList), key value for addedRatings
 
-        run = {'technique': technique, 'topic': filename, 'dialog length': len(inputList), 'average input size': averageInputLength, 'average response time': totalTime / len(inputList), 'average total score': totalScore / len(inputList)}
-        run.update(addedRatings)
+        run = {'technique': technique, 'topic': filename, 'dialog length': len(inputList), 'average input size': averageInputLength, 'average response time': totalTime / len(inputList), 'average total score': totalScore}
+        # run.update(addedRatings)
+        run.update(convoRating)
 
         runPanda = pd.DataFrame([run])
 
@@ -130,7 +139,8 @@ for filename in inputFileNames:
 
         # print("Conversations saved")
         print('Average Response Time: {}'.format(totalTime / len(inputList)))
-        print('Average Response Score: {} of 20'.format(totalScore / len(inputList)))
+        # print('Average Response Score: {} of 20'.format(totalScore / len(inputList)))
+        print('Average Response Score: {} of 20'.format(totalScore))
         print()
 
 

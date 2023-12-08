@@ -4,22 +4,97 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Well, Ive been struggling with anorexia for a few years now. Im constantly restricting my food intake and counting calories. Im also terrified of gaining weight.'
+     USER INPUT: 'I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.'
      SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'What can I do?'
-     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.', 'Well, Ive been struggling with anorexia for a few years now. Im constantly restricting my food intake and counting calories. Im also terrified of gaining weight.']'
+     USER INPUT: 'Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?'
+     SIMILAR PAST USER INPUT: '['I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.', 'Im really struggling with an eating disorder right now. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ive been restricting my food intake and counting calories obsessively.'
+     SIMILAR PAST USER INPUT: '['I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.', 'Im really struggling with an eating disorder right now. Im not sure what to do.', 'Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I avoid social situations that involve food because Im afraid of being judged or pressured to eat.'
+     SIMILAR PAST USER INPUT: '['Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?', 'I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.', 'Ive been restricting my food intake and counting calories obsessively.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im constantly preoccupied with my body image and weight. I spend hours looking in the mirror and analyzing every flaw.'
+     SIMILAR PAST USER INPUT: '['Ive been restricting my food intake and counting calories obsessively.', 'I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.', 'Im really struggling with an eating disorder right now. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know I need help, but Im afraid to reach out for fear of judgment or rejection.'
+     SIMILAR PAST USER INPUT: '['I avoid social situations that involve food because Im afraid of being judged or pressured to eat.', 'Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?', 'Im really struggling with an eating disorder right now. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im open to trying new things, but I need someone to guide me and support me through this process.'
+     SIMILAR PAST USER INPUT: '['Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?', 'I know I need help, but Im afraid to reach out for fear of judgment or rejection.', 'I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im willing to consider different treatment options, such as therapy, support groups, or nutritional counseling.'
+     SIMILAR PAST USER INPUT: '['Im open to trying new things, but I need someone to guide me and support me through this process.', 'I know I need help, but Im afraid to reach out for fear of judgment or rejection.', 'Im really struggling with an eating disorder right now. Im not sure what to do.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
      USER INPUT: 'Im not sure if Im ready to develop a meal plan yet. Im really scared of eating more food.'
-     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.', 'Well, Ive been struggling with anorexia for a few years now. Im constantly restricting my food intake and counting calories. Im also terrified of gaining weight.', 'What can I do?']'
+     SIMILAR PAST USER INPUT: '['Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?', 'Im really struggling with an eating disorder right now. Im not sure what to do.', 'I avoid social situations that involve food because Im afraid of being judged or pressured to eat.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Okay. Im willing to try.'
-     SIMILAR PAST USER INPUT: '['What can I do?', 'Im not sure if Im ready to develop a meal plan yet. Im really scared of eating more food.', 'Im really struggling with an eating disorder right now. Im not sure what to do.']'
+     USER INPUT: 'Okay, Im willing to try. Maybe we can start with small steps, like adding one healthy snack to my daily routine.'
+     SIMILAR PAST USER INPUT: '['Im willing to consider different treatment options, such as therapy, support groups, or nutritional counseling.', 'Im open to trying new things, but I need someone to guide me and support me through this process.', 'Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know it will be a long and challenging journey, but Im determined to recover and live a healthy life.'
+     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.', 'Okay, Im willing to try. Maybe we can start with small steps, like adding one healthy snack to my daily routine.', 'Im not sure if Im ready to develop a meal plan yet. Im really scared of eating more food.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel isolated and alone in this struggle. I dont know anyone else who understands what Im going through.'
+     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.', 'I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.', 'I know I need help, but Im afraid to reach out for fear of judgment or rejection.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I miss the simple things in life, like enjoying a meal with friends or family without feeling anxious or guilty.'
+     SIMILAR PAST USER INPUT: '['I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.', 'I avoid social situations that involve food because Im afraid of being judged or pressured to eat.', 'Im scared of the unknown. What will happen if I start eating more? Will I gain weight? What if I lose control?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im starting to realize that my eating disorder is controlling my life. I want to take back control and reclaim my happiness.'
+     SIMILAR PAST USER INPUT: '['Im really struggling with an eating disorder right now. Im not sure what to do.', 'I feel trapped in this cycle of restriction and guilt. I want to be free from this obsession with food and weight.', 'I know it will be a long and challenging journey, but Im determined to recover and live a healthy life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I believe that with the right support and resources, I can overcome this eating disorder and build a healthier future for myself.'
+     SIMILAR PAST USER INPUT: '['I know it will be a long and challenging journey, but Im determined to recover and live a healthy life.', 'Im starting to realize that my eating disorder is controlling my life. I want to take back control and reclaim my happiness.', 'Im really struggling with an eating disorder right now. Im not sure what to do.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im grateful for your support and understanding. It means the world to me to know that someone cares about my well-being.'
+     SIMILAR PAST USER INPUT: '['Im open to trying new things, but I need someone to guide me and support me through this process.', 'I feel isolated and alone in this struggle. I dont know anyone else who understands what Im going through.', 'I believe that with the right support and resources, I can overcome this eating disorder and build a healthier future for myself.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im hopeful that I can find my way back to a healthy relationship with food and my body.'
+     SIMILAR PAST USER INPUT: '['I believe that with the right support and resources, I can overcome this eating disorder and build a healthier future for myself.', 'I know it will be a long and challenging journey, but Im determined to recover and live a healthy life.', 'Im starting to realize that my eating disorder is controlling my life. I want to take back control and reclaim my happiness.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im taking things one day at a time, and Im determined to keep moving forward on my path to recovery.'
+     SIMILAR PAST USER INPUT: '['I know it will be a long and challenging journey, but Im determined to recover and live a healthy life.', 'Im hopeful that I can find my way back to a healthy relationship with food and my body.', 'I believe that with the right support and resources, I can overcome this eating disorder and build a healthier future for myself.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know that there will be setbacks along the way, but Im not giving up. Im committed to my recovery and I will never stop fighting for my health and happiness.'
+     SIMILAR PAST USER INPUT: '['I know it will be a long and challenging journey, but Im determined to recover and live a healthy life.', 'Im taking things one day at a time, and Im determined to keep moving forward on my path to recovery.', 'I believe that with the right support and resources, I can overcome this eating disorder and build a healthier future for myself.']'
      
      ANSWER: 

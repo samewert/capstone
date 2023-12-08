@@ -1,16 +1,44 @@
-<USER>I'm really stressed about thinking about post-graduation life.
-<AI>It's understandable to be stressed about post-graduation life. It's a big change, and there's a lot to think about. But don't worry, you're not alone. Many people feel the same way.
-<USER>Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. I'm just kind of lost.
-<AI>I understand how you feel. It can be really daunting to think about post-graduation life, especially when it seems like everyone else has their life together. But remember, you're not alone. Many people feel the same way. It's important to be patient with yourself and to take things one step at a time. You'll figure it out eventually.
-<USER>But I feel so much pressure to have it all figured out.
-<AI>I understand how you feel. It can be really daunting to think about post-graduation life, especially when it seems like everyone else has their life together. But remember, you're not alone. Many people feel the same way. It's important to be patient with yourself and to take things one step at a time. You'll figure it out eventually.
 
-In the meantime, try to focus on what you can control. What are your interests? What are you passionate about? What do you want to do with your life? Once you have a better understanding of yourself and what you want, you can start to make plans for the future. It won't be easy, but it will be worth it.
-<USER>I guess so. But it's hard not to worry about the future.
-<AI>It's understandable to feel stressed about the future. It's a big change, and there's a lot to think about. But don't worry, you're not alone. Many people feel the same way.
+<USER>
+I'm really stressed about thinking about post-graduation life.
 
-In the meantime, try to focus on what you can control. What are your interests? What are you passionate about? What do you want to do with your life? Once you have a better understanding of yourself and what you want, you can start to make plans for the future. It won't be easy, but it will be worth it.
-<USER>I guess I could start by making a list of my goals and then developing a plan to achieve them.
-<AI>That's a great idea! Making a list of your goals and developing a plan to achieve them can help you to feel more in control of your future and less stressed. It's also important to remember that you don't have to have everything figured out right away. Just take things one step at a time and you'll eventually get to where you want to be.
-<USER>Thanks, JOY. I feel a little better already.
-<AI>I'm glad to hear that. It sounds like you're on the right track. Just remember to be patient with yourself and to take things one step at a time. You'll figure it out eventually.
+<AI>
+It's understandable to be stressed about post-graduation life. It's a big change, and there's a lot to think about. But don't worry, you're not alone. Many people feel the same way.
+
+<USER>
+Yeah, but I feel like everyone else has their life together. They know what they want to do and where they want to go. I'm just kind of lost.
+
+<AI>
+I understand how you feel. It can be really daunting to think about post-graduation life, especially when it seems like everyone else has their life together. But the truth is, most people are just as lost as you are. They might not be showing it, but they're all figuring things out as they go along.
+
+<USER>
+But I feel so much pressure to have it all figured out.
+
+<AI>
+I know it can be tough to feel like you're the only one who's not sure what they want to do with their life. But the truth is, most people are just as lost as you are. They might not be showing it, but they're all figuring things out as they go along.
+
+It's important to remember that you don't have to have everything figured out right away. It's okay to take some time to explore your options and figure out what you're passionate about. There's no rush.
+
+<USER>
+I guess so. But it's hard not to worry about the future.
+
+<AI>
+It's understandable to feel stressed about the future. It's a big change, and there's a lot to think about. But don't worry, you're not alone. Many people feel the same way.
+
+It's important to remember that you don't have to have everything figured out right away. It's okay to take some time to explore your options and figure out what you're passionate about. There's no rush.
+
+In the meantime, try to focus on the present moment. What can you do today to make yourself feel better? Can you spend some time with friends or family? Can you do something you enjoy?
+
+It's also important to remember that you're not alone. There are people who can help you through this transition. Talk to your friends, family, or a therapist. They can provide support and guidance as you figure out what you want to do with your life.
+
+<USER>
+I guess I could start by making a list of my goals and then developing a plan to achieve them.
+
+<AI>
+That's a great idea! Making a list of your goals and developing a plan to achieve them can help you to feel more organized and in control of your life. It can also help you to stay motivated and focused on your goals.
+
+<USER>
+Thanks, JOY. I feel a little better already.
+
+<AI>
+I'm glad to hear that. It sounds like you're on the right track. Just remember to take things one step at a time, and don't be afraid to ask for help if you need it.

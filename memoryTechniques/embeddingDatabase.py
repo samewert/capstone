@@ -69,7 +69,7 @@ def addDocument(query, collectionName):
     id = chromaClient.get_collection(collectionName).count()
     chromaClient.get_collection(collectionName).add(ids=str(id), embeddings=embedding, documents=query)
 
-def get_relevant_passage(query, collectionName):
+def get_similar_messages(query, collectionName):
     embedding = palm.generate_embeddings(model=embedModel, text=query)['embedding']
     passage = chromaClient.get_collection(collectionName).query(query_embeddings=embedding, n_results=3)['documents']
     return passage[0]
@@ -77,18 +77,18 @@ def get_relevant_passage(query, collectionName):
     #     return ''
     # return passage[0][0]
 
-def make_prompt(query, relevant_passage):
+def make_prompt(input, similarMessages):
     prompt = ("""You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: '{query}'
-     SIMILAR PAST USER INPUT: '{relevant_passage}'
+     USER INPUT: '{input}'
+     SIMILAR PAST USER INPUT: '{similarMessages}'
      
-     ANSWER: """).format(query=query, relevant_passage=relevant_passage)
+     ANSWER: """).format(input=input, similarMessages=similarMessages)
 
     return prompt
 
 def getEmbeddingResponse(query):
     cleanedQuery = query.replace("'", "").replace('"', "").replace("\n", " ")
-    passage = get_relevant_passage(cleanedQuery, user)
+    passage = get_similar_messages(cleanedQuery, user)
     prompt = make_prompt(cleanedQuery, passage)
     # print(prompt)
     # print(textModel)

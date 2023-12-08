@@ -14,7 +14,37 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I see my classmates studying constantly and effortlessly achieving high grades, and it makes me feel insecure about my own abilities.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about my academic performance. My parents have really high expectations for me, and Im afraid of letting them down.', 'I know, but its hard. My parents are always asking me about my grades and my classes. They want me to go to a top law school, and Im not sure if Im good enough.', 'I guess I can try that. But Im still worried about letting my parents down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I compare myself to others all the time, and its a recipe for disaster. Its hard to focus on my own journey when Im constantly looking at everyone elses.'
+     SIMILAR PAST USER INPUT: '['I see my classmates studying constantly and effortlessly achieving high grades, and it makes me feel insecure about my own abilities.', 'I know, but its hard. My parents are always asking me about my grades and my classes. They want me to go to a top law school, and Im not sure if Im good enough.', 'Im feeling really stressed about my academic performance. My parents have really high expectations for me, and Im afraid of letting them down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I try to cope with the pressure by studying long hours, but its starting to take a toll on my mental and physical health.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about my academic performance. My parents have really high expectations for me, and Im afraid of letting them down.', 'I know, but its hard. My parents are always asking me about my grades and my classes. They want me to go to a top law school, and Im not sure if Im good enough.', 'I see my classmates studying constantly and effortlessly achieving high grades, and it makes me feel insecure about my own abilities.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I have a hard time talking about my feelings with my parents, so I usually bottle them up inside.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about my academic performance. My parents have really high expectations for me, and Im afraid of letting them down.', 'I guess I can try that. But Im still worried about letting my parents down.', 'I try to cope with the pressure by studying long hours, but its starting to take a toll on my mental and physical health.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried that if I dont get into a top law school, theyll be disappointed in me and think Im a failure.'
+     SIMILAR PAST USER INPUT: '['I know, but its hard. My parents are always asking me about my grades and my classes. They want me to go to a top law school, and Im not sure if Im good enough.', 'Im feeling really stressed about my academic performance. My parents have really high expectations for me, and Im afraid of letting them down.', 'I guess I can try that. But Im still worried about letting my parents down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im going to talk to my parents about their expectations and how theyre affecting me. I need to set some boundaries and have an honest conversation.'
+     SIMILAR PAST USER INPUT: '['Im feeling really stressed about my academic performance. My parents have really high expectations for me, and Im afraid of letting them down.', 'I have a hard time talking about my feelings with my parents, so I usually bottle them up inside.', 'I guess I can try that. But Im still worried about letting my parents down.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
      USER INPUT: 'Thank you, JOY. I really appreciate your advice.'
-     SIMILAR PAST USER INPUT: '['I guess I can try that. But Im still worried about letting my parents down.', 'I know, but its hard. My parents are always asking me about my grades and my classes. They want me to go to a top law school, and Im not sure if Im good enough.', 'Im feeling really stressed about my academic performance. My parents have really high expectations for me, and Im afraid of letting them down.']'
+     SIMILAR PAST USER INPUT: '['I guess I can try that. But Im still worried about letting my parents down.', 'I compare myself to others all the time, and its a recipe for disaster. Its hard to focus on my own journey when Im constantly looking at everyone elses.', 'I know, but its hard. My parents are always asking me about my grades and my classes. They want me to go to a top law school, and Im not sure if Im good enough.']'
      
      ANSWER: 

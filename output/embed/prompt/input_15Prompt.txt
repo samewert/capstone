@@ -4,7 +4,72 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thanks for your advice. Im going to start by creating a budget and making some adjustments to my spending. Ill also look into some ways to earn extra money.'
+     USER INPUT: 'I havent yet. Im not sure where to start.'
      SIMILAR PAST USER INPUT: '['Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Okay, Ill look into some budgeting tools and create a budget this weekend.'
+     SIMILAR PAST USER INPUT: '['I havent yet. Im not sure where to start.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I think I could cut back on eating out and buying coffee. I could also try to find cheaper textbooks and other school supplies.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'Okay, Ill look into some budgeting tools and create a budget this weekend.', 'I havent yet. Im not sure where to start.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks for your advice, JOY. I feel more optimistic now about managing my finances.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'Okay, Ill look into some budgeting tools and create a budget this weekend.', 'I think I could cut back on eating out and buying coffee. I could also try to find cheaper textbooks and other school supplies.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I appreciate that. I may come back to you later for more specific advice on saving money on groceries and textbooks.'
+     SIMILAR PAST USER INPUT: '['Thanks for your advice, JOY. I feel more optimistic now about managing my finances.', 'I think I could cut back on eating out and buying coffee. I could also try to find cheaper textbooks and other school supplies.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im not sure which budgeting app I should use. There are so many options available.'
+     SIMILAR PAST USER INPUT: '['Okay, Ill look into some budgeting tools and create a budget this weekend.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'I havent yet. Im not sure where to start.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im also worried about affording all of my textbooks. Ive heard there are ways to get them cheaper, but Im not sure how.'
+     SIMILAR PAST USER INPUT: '['I think I could cut back on eating out and buying coffee. I could also try to find cheaper textbooks and other school supplies.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'I appreciate that. I may come back to you later for more specific advice on saving money on groceries and textbooks.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'My roommates are also struggling financially. Weve been talking about ways to save money on groceries and other household expenses.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'I think I could cut back on eating out and buying coffee. I could also try to find cheaper textbooks and other school supplies.', 'Im also worried about affording all of my textbooks. Ive heard there are ways to get them cheaper, but Im not sure how.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im wondering if there are any scholarships or grants available to help me with my tuition costs.'
+     SIMILAR PAST USER INPUT: '['Im also worried about affording all of my textbooks. Ive heard there are ways to get them cheaper, but Im not sure how.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'I think I could cut back on eating out and buying coffee. I could also try to find cheaper textbooks and other school supplies.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried about telling my family about my financial difficulties. I dont want to burden them.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'My roommates are also struggling financially. Weve been talking about ways to save money on groceries and other household expenses.', 'Im also worried about affording all of my textbooks. Ive heard there are ways to get them cheaper, but Im not sure how.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im wondering if there are any financial literacy workshops or resources available on campus.'
+     SIMILAR PAST USER INPUT: '['Im wondering if there are any scholarships or grants available to help me with my tuition costs.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'Im also worried about affording all of my textbooks. Ive heard there are ways to get them cheaper, but Im not sure how.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling lost and unsure about my financial future. I need some guidance and support.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'Thanks for your advice, JOY. I feel more optimistic now about managing my finances.', 'Im worried about telling my family about my financial difficulties. I dont want to burden them.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im grateful for the opportunity to talk to you about my finances, JOY. I feel like Im starting to get a handle on things.'
+     SIMILAR PAST USER INPUT: '['Thanks for your advice, JOY. I feel more optimistic now about managing my finances.', 'Im feeling lost and unsure about my financial future. I need some guidance and support.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im determined to achieve financial stability and create a better future for myself.'
+     SIMILAR PAST USER INPUT: '['Im feeling lost and unsure about my financial future. I need some guidance and support.', 'Hi JOY, Im really stressed about my finances. Im a college student and I dont have a lot of money coming in, but I have a lot of expenses. Im worried about making ends meet and I dont know how to manage my money better.', 'Im grateful for the opportunity to talk to you about my finances, JOY. I feel like Im starting to get a handle on things.']'
      
      ANSWER: 

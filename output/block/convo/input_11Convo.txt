@@ -1,26 +1,124 @@
-<USER>I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.
-<AI>It sounds like you're feeling stressed about choosing a major. That's understandable - it's a big decision! But don't worry, you're not alone. Many students feel the same way.
-<USER>But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.
-<AI>I understand that you're feeling stressed about choosing a major. It's a big decision, and it's normal to feel overwhelmed. But don't worry, you're not alone. Many students feel the same way.
 
-One thing that might help is to think about what you're interested in. What do you enjoy doing? What are you passionate about? Once you have a better idea of what you're interested in, you can start to narrow down your choices of majors.
+<USER>
+I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.
 
-Another thing to consider is what you want to do with your life. What kind of career do you want to have? What kind of impact do you want to make on the world? Once you have a better idea of your goals, you can start to choose a major that will help you achieve them.
+<AI>
+It sounds like you're feeling stressed about choosing a major. That's understandable - it's a big decision! But don't worry, you're not alone. Many students feel the same way.
 
-Of course, choosing a major is not an easy decision. It's okay to change your mind later on. You can always switch majors if you decide that you're not happy with your choice. The most important thing is to find a major that you're passionate about and that will help you achieve your goals.
-<USER>But I don't want to waste time. I want to graduate on time and get a good job.
-<AI>I understand that you're worried about wasting time and graduating on time. It's important to find a major that you're interested in and that you're passionate about, but it's also important to make sure that you're choosing a major that will lead to a good job.
+<USER>
+I feel overwhelmed by the different major options. There are so many choices, and I don't know where to start.
 
-There are a few things you can do to make sure that you're choosing a major that will lead to a good job. First, you can talk to your academic advisor. They can help you explore different majors and career paths, and they can give you advice on how to choose a major that will be a good fit for you.
+<AI>
+I understand how you feel. It can be really overwhelming to try to choose a major when there are so many options. But don't worry, you're not alone. Many students feel the same way.
 
-Second, you can research different majors and career paths online. There are many resources available that can help you learn about different majors and the job prospects that they offer.
+Here are a few things you can do to help narrow down your choices:
 
-Third, you can shadow professionals in different fields. This can give you a firsthand look at what different jobs are like and help you decide if they're a good fit for you.
+* **Think about your interests.** What are you passionate about? What do you enjoy doing? What are you good at? Your interests can help you narrow down your choices of majors.
+* **Talk to your advisor.** Your advisor can help you explore different majors and career paths. They can also give you advice on how to make the best decision for you.
+* **Do some research.** Learn more about different majors by reading about them online, talking to people who work in those fields, or visiting your school's career center. The more you know about different majors, the easier it will be to make a decision.
 
-Finally, you can take some time to explore your interests and passions. What do you enjoy doing? What are you passionate about? Once you have a better idea of what you're interested in, you can start to narrow down your choices of majors.
+Remember, there is no right or wrong major. The most important thing is to choose a major that you're interested in and that you're passionate about.
 
-Choosing a major is a big decision, but it's one that you don't have to make alone. There are many resources available to help you make the right choice.
-<USER>I know. But it's so hard to decide. I feel like I'm lost.
-<AI>I understand that it can be difficult to choose a major, especially when you're not sure what you want to do with your life. But don't worry, you're not alone. Many students feel the same way. The important thing is to take some time to explore your interests and think about what you're passionate about. Once you have a better idea of what you're interested in, you can start to narrow down your choices of majors.
-<USER>Thank you, JOY. I appreciate your help.
-<AI>You're welcome. I'm glad I could help.
+<USER>
+But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.
+
+<AI>
+I understand how you feel. It can be really tough to figure out what you want to do with your life. But don't worry, you're not alone. Many students feel the same way.
+
+Here are a few things you can do to help you figure out your interests:
+
+* **Think about your hobbies.** What do you enjoy doing in your free time? What activities do you find yourself drawn to? Your hobbies can give you clues about your interests.
+* **Talk to your friends and family.** Ask them what they think you're good at. They may be able to give you some insights into your strengths and talents.
+* **Take some personality tests.** There are a number of online personality tests that can help you identify your interests and strengths.
+* **Explore different career paths.** Learn more about different careers by reading about them online, talking to people who work in those fields, or visiting your school's career center. The more you know about different careers, the easier it will be to find one that you're interested in.
+
+Remember, there is no right or wrong answer. The most important thing is to choose a major that you're interested in and that you're passionate about.
+
+<USER>
+I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something I'm passionate about.
+
+<AI>
+I understand that you're feeling stressed about choosing a major. It's a big decision, and there are a lot of factors to consider. It's important to find a major that you're passionate about, but it's also important to choose something that will lead to a good job.
+
+One way to narrow down your choices is to think about what you're interested in. What are your hobbies? What do you like to do in your free time? What are you good at? Once you have a few ideas, you can start researching different majors to see which ones are a good fit.
+
+You can also talk to your advisor or other students who are majoring in different subjects. They can give you advice on what to expect from different majors and how they can lead to different careers.
+
+It's important to remember that you don't have to make a final decision right away. You can always change your major later on if you decide that it's not a good fit. The most important thing is to find a major that you're passionate about and that will lead to a career that you're interested in.
+
+<USER>
+But I don't want to waste time. I want to graduate on time and get a good job.
+
+<AI>
+I understand that you're concerned about wasting time and graduating on time. It's important to find a major that you're passionate about, but it's also important to choose something that will lead to a good job. You can find a balance between the two by choosing a major that is both interesting and practical.
+
+Here are some tips for choosing a major that will lead to a good job:
+
+* **Consider your interests.** What are you passionate about? What do you like to do in your free time? What are you good at? Once you have a few ideas, you can start researching different majors to see which ones are a good fit.
+* **Talk to your advisor.** Your advisor can help you explore different majors and career paths. They can also give you advice on how to choose a major that will lead to a good job.
+* **Do your research.** Once you have a few majors in mind, start researching them online. Read about the different courses that are required, the job prospects for graduates, and the salary potential.
+* **Shadow a professional.** If you're not sure what a particular job entails, shadow a professional in that field. This will give you a first-hand look at the work and help you decide if it's something you're interested in.
+
+It's important to remember that you don't have to make a final decision right away. You can always change your major later on if you decide that it's not a good fit. The most important thing is to find a major that you're passionate about and that will lead to a career that you're interested in.
+
+<USER>
+I know. But it's so hard to decide. I feel like I'm lost.
+
+<AI>
+I know it's hard. Choosing a major is a big decision, and it's easy to feel overwhelmed by all the different options. But don't worry, you're not alone. Many students feel the same way. The important thing is to take your time and make the decision that's right for you.
+
+Here are a few things you can do to help you narrow down your choices:
+
+* **Consider your interests.** What are you passionate about? What do you like to do in your free time? What are you good at? Once you have a few ideas, you can start researching different majors to see which ones are a good fit.
+* **Talk to your advisor.** Your advisor can help you explore different majors and career paths. They can also give you advice on how to choose a major that will lead to a good job.
+* **Do your research.** Once you have a few majors in mind, start researching them online. Read about the different courses that are required, the job prospects for graduates, and the salary potential.
+* **Shadow a professional.** If you're not sure what a particular job entails, shadow a professional in that field. This will give you a first-hand look at the work and help you decide if it's something you're interested in.
+
+It's important to remember that you don't have to make a final decision right away. You can always change your major later on if you decide that it's not a good fit. The most important thing is to find a major that you're passionate about and that will lead to a career that you're interested in.
+
+<USER>
+I'm starting to feel lost and hopeless. I don't know what I want out of life, and I don't know how to figure it out.
+
+<AI>
+I'm sorry to hear that you're feeling lost and hopeless. I know that feeling well. It can be really tough when you don't know what you want out of life. But I'm here to help you figure it out.
+
+First, let's talk about what you're feeling. What exactly is making you feel lost and hopeless?
+
+
+<USER>
+I'm trying to explore different interests and try new things. I'm hoping to discover something I'm passionate about.
+
+<AI>
+It sounds like you're on the right track. Exploring different interests and trying new things is a great way to discover something you're passionate about. Just keep in mind that it might take some time to find what you're looking for. Don't get discouraged if you don't find it right away. Just keep exploring and trying new things. Eventually, you'll find something that you love.
+
+<USER>
+I've made an appointment with a career counselor to get some personalized advice.
+
+<AI>
+That's great! A career counselor can be a great resource for help with choosing a major. They can provide you with personalized advice and help you narrow down your choices. I'm glad to hear that you're taking steps to make a decision that's right for you.
+
+<USER>
+I know that choosing a major is a big decision, but I'm determined to find the right path for me.
+
+<AI>
+I'm glad to hear that you're determined to find the right path for you. Choosing a major is a big decision, but it's one that you can make with careful thought and consideration. Here are a few things to keep in mind as you start your search:
+
+* **What are your interests?** What do you enjoy doing? What are you passionate about? Your interests can help you narrow down your choices and find a major that you'll be excited about.
+* **What are your career goals?** What do you want to do with your life? What kind of job do you want to have? Your career goals can also help you narrow down your choices and find a major that will prepare you for the career you want.
+* **What are your strengths and weaknesses?** What are you good at? What are you not so good at? Your strengths and weaknesses can also help you narrow down your choices and find a major that you'll be able to succeed in.
+
+Once you've considered your interests, career goals, and strengths and weaknesses, you can start to research different majors. Talk to your academic advisor, read about different majors, and visit your school's career center. You can also shadow people who work in different fields to get a better idea of what their jobs are like.
+
+Choosing a major is a big decision, but it's one that you can make with careful thought and consideration. By taking the time to explore your interests, career goals, and strengths and weaknesses, you can find a major that's right for you and that will help you achieve your goals.
+
+<USER>
+I know that I have the potential to succeed in whatever I choose, and I'm confident that I will find my way.
+
+<AI>
+I'm glad to hear that you're confident in your ability to succeed. Choosing a major is a big decision, but it's one that you can make with careful thought and consideration. By taking the time to explore your interests, career goals, and strengths and weaknesses, you can find a major that's right for you and that will help you achieve your goals.
+
+<USER>
+Thank you, JOY. I appreciate your help.
+
+<AI>
+You're welcome. I'm glad I could help.

@@ -4,32 +4,62 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I know, but I cant help but worry. Im not very outgoing, and Im afraid that Im going to be alone.'
+     USER INPUT: 'What if I dont fit in? What if everyone already has their friend groups?'
      SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Ill try.'
-     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.', 'I know, but I cant help but worry. Im not very outgoing, and Im afraid that Im going to be alone.']'
+     USER INPUT: 'Im not very outgoing, and Im afraid that Im going to be alone.'
+     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.', 'What if I dont fit in? What if everyone already has their friend groups?']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I can try that.'
-     SIMILAR PAST USER INPUT: '['Ill try.', 'Im starting college next week, and Im worried about making new friends.', 'I know, but I cant help but worry. Im not very outgoing, and Im afraid that Im going to be alone.']'
+     USER INPUT: 'Im worried about missing out on all the fun and experiences that come with having a good group of friends.'
+     SIMILAR PAST USER INPUT: '['Im not very outgoing, and Im afraid that Im going to be alone.', 'Im starting college next week, and Im worried about making new friends.', 'What if I dont fit in? What if everyone already has their friend groups?']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thats a good idea.'
-     SIMILAR PAST USER INPUT: '['I can try that.', 'Ill try.', 'Im starting college next week, and Im worried about making new friends.']'
+     USER INPUT: 'I feel overwhelmed by the thought of having to meet so many new people all at once.'
+     SIMILAR PAST USER INPUT: '['Im not very outgoing, and Im afraid that Im going to be alone.', 'Im starting college next week, and Im worried about making new friends.', 'Im worried about missing out on all the fun and experiences that come with having a good group of friends.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Okay. Ill try my best.'
-     SIMILAR PAST USER INPUT: '['Ill try.', 'I can try that.', 'Thats a good idea.']'
+     USER INPUT: 'I know Im not the only one feeling this way, but it still doesnt make it any easier.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by the thought of having to meet so many new people all at once.', 'Im not very outgoing, and Im afraid that Im going to be alone.', 'Im worried about missing out on all the fun and experiences that come with having a good group of friends.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thank you, JOY. That means a lot.'
-     SIMILAR PAST USER INPUT: '['Okay. Ill try my best.', 'Ill try.', 'Thats a good idea.']'
+     USER INPUT: 'Im looking for some advice on how to overcome my social anxiety and make friends in college.'
+     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.', 'Im not very outgoing, and Im afraid that Im going to be alone.', 'Im worried about missing out on all the fun and experiences that come with having a good group of friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im open to trying new things and putting myself out there, but I need some guidance.'
+     SIMILAR PAST USER INPUT: '['Im looking for some advice on how to overcome my social anxiety and make friends in college.', 'Im not very outgoing, and Im afraid that Im going to be alone.', 'I feel overwhelmed by the thought of having to meet so many new people all at once.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill take advantage of online resources and social media groups to connect with other new students.'
+     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.', 'Im looking for some advice on how to overcome my social anxiety and make friends in college.', 'I feel overwhelmed by the thought of having to meet so many new people all at once.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Ill remember that everyone else is probably feeling nervous too, and that making friends takes time and effort.'
+     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.', 'I feel overwhelmed by the thought of having to meet so many new people all at once.', 'Im not very outgoing, and Im afraid that Im going to be alone.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im going to be patient with myself and not get discouraged if things dont happen overnight.'
+     SIMILAR PAST USER INPUT: '['Ill remember that everyone else is probably feeling nervous too, and that making friends takes time and effort.', 'Im open to trying new things and putting myself out there, but I need some guidance.', 'Im not very outgoing, and Im afraid that Im going to be alone.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im going to remember that college is a time for exploration and self-discovery. Ill have the opportunity to meet people from all walks of life and expand my horizons.'
+     SIMILAR PAST USER INPUT: '['Im starting college next week, and Im worried about making new friends.', 'Ill take advantage of online resources and social media groups to connect with other new students.', 'Ill remember that everyone else is probably feeling nervous too, and that making friends takes time and effort.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. That means a lot. Your support and encouragement are very helpful.'
+     SIMILAR PAST USER INPUT: '['Im open to trying new things and putting myself out there, but I need some guidance.', 'Im going to be patient with myself and not get discouraged if things dont happen overnight.', 'I know Im not the only one feeling this way, but it still doesnt make it any easier.']'
      
      ANSWER: 

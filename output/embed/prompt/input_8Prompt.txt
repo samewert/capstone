@@ -4,22 +4,72 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I know, but its just so hard. I feel like Im all alone.'
+     USER INPUT: 'I feel lonely and isolated. I dont know anyone here, and I havent made any friends yet.'
      SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.'
-     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I know, but its just so hard. I feel like Im all alone.']'
+     USER INPUT: 'I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I feel lonely and isolated. I dont know anyone here, and I havent made any friends yet.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Maybe Ill talk to my resident advisor.'
-     SIMILAR PAST USER INPUT: '['I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I know, but its just so hard. I feel like Im all alone.']'
+     USER INPUT: 'I miss the familiar routines and comforts of home. Im having a hard time adjusting to the new environment and independence.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I feel lonely and isolated. I dont know anyone here, and I havent made any friends yet.', 'I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thanks, JOY. I feel a little better already just talking to you.'
-     SIMILAR PAST USER INPUT: '['I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.', 'Maybe Ill talk to my resident advisor.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.']'
+     USER INPUT: 'Im worried about letting my family down. They had high hopes for me when I came to college, and Im afraid Im not going to live up to their expectations.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.', 'I miss the familiar routines and comforts of home. Im having a hard time adjusting to the new environment and independence.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im struggling to find my place on campus. I havent found any clubs or activities that interest me, and I feel like I dont fit in anywhere.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.', 'I feel lonely and isolated. I dont know anyone here, and I havent made any friends yet.', 'Im worried about letting my family down. They had high hopes for me when I came to college, and Im afraid Im not going to live up to their expectations.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im not sure how to manage my time effectively. Im taking a lot of classes, and Im having trouble balancing my studies with my social life and extracurricular activities.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.', 'Im struggling to find my place on campus. I havent found any clubs or activities that interest me, and I feel like I dont fit in anywhere.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling financially stressed. College is expensive, and Im worried about how Im going to afford everything.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'Im worried about letting my family down. They had high hopes for me when I came to college, and Im afraid Im not going to live up to their expectations.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im concerned about my academic performance. Im not used to the college workload, and Im worried about failing my classes.'
+     SIMILAR PAST USER INPUT: '['Im worried about letting my family down. They had high hopes for me when I came to college, and Im afraid Im not going to live up to their expectations.', 'I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.', 'Im not sure how to manage my time effectively. Im taking a lot of classes, and Im having trouble balancing my studies with my social life and extracurricular activities.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im experiencing physical symptoms of stress, such as headaches, stomachaches, and difficulty sleeping.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'Im feeling financially stressed. College is expensive, and Im worried about how Im going to afford everything.', 'I miss the familiar routines and comforts of home. Im having a hard time adjusting to the new environment and independence.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know I need to talk to someone about how Im feeling. I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.'
+     SIMILAR PAST USER INPUT: '['I feel lonely and isolated. I dont know anyone here, and I havent made any friends yet.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I feel overwhelmed by everything. The classes are challenging, the campus is big, and Im just trying to adjust to this new life.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Maybe Ill talk to my resident advisor. Ive heard theyre there to support students who are struggling.'
+     SIMILAR PAST USER INPUT: '['I know I need to talk to someone about how Im feeling. I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.', 'Im worried about letting my family down. They had high hopes for me when I came to college, and Im afraid Im not going to live up to their expectations.', 'Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I could also try calling my family or friends back home. Talking to them might help me feel better.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I miss the familiar routines and comforts of home. Im having a hard time adjusting to the new environment and independence.', 'I know I need to talk to someone about how Im feeling. I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im not sure if I should seek professional help. Im worried about the stigma of therapy, but I know I need some guidance and support.'
+     SIMILAR PAST USER INPUT: '['I know I need to talk to someone about how Im feeling. I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.', 'Maybe Ill talk to my resident advisor. Ive heard theyre there to support students who are struggling.', 'Im feeling financially stressed. College is expensive, and Im worried about how Im going to afford everything.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im glad our conversation is providing some comfort. Remember, adjusting to a new environment takes time, and its okay to seek support from various sources. Youre not alone in feeling this way.'
+     SIMILAR PAST USER INPUT: '['Im just feeling really stressed out about being away from home for the first time. I miss my family and friends, and Im not sure if Im going to make it here.', 'I know I need to talk to someone about how Im feeling. I guess I could talk to my roommate, but she seems to be doing fine. I dont want to burden her with my problems.', 'I miss the familiar routines and comforts of home. Im having a hard time adjusting to the new environment and independence.']'
      
      ANSWER: 

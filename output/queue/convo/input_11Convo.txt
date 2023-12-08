@@ -1,10 +1,117 @@
-<USER>I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.
-<AI>It sounds like you're feeling stressed about choosing a major. I can understand why - it's a big decision! But don't worry, you're not alone. Many students feel the same way.
-<USER>But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.
-<AI>I understand that you're feeling lost and uncertain about your future. It's okay to not know what you want to do with your life. Many people feel the same way. The important thing is to explore your interests and try new things. You may not find your passion right away, but eventually you'll find something that you love.
-<USER>But I don't want to waste time. I want to graduate on time and get a good job.
-<AI>I understand that you're worried about wasting time and graduating on time. However, it's important to remember that you don't have to choose a major right away. You can take some time to explore your interests and try new things. Once you find something that you're passionate about, you can start to focus on choosing a major that will help you achieve your goals.
-<USER>I know. But it's so hard to decide. I feel like I'm lost.
-<AI>I know it's hard to decide. It's a big decision! But don't worry, you're not alone. Many students feel the same way. The important thing is to take your time and explore your interests. You may not find your passion right away, but eventually you'll find something that you love.
-<USER>Thank you, JOY. I appreciate your help.
-<AI>You're welcome. I'm glad I could help.
+
+<USER>
+I'm feeling a lot of pressure to choose a major. I don't know what I want to do with my life, and I'm worried that I'm going to make the wrong decision.
+
+<AI>
+It sounds like you're feeling stressed about choosing a major. I can understand why - it's a big decision! But don't worry, you're not alone. Many students feel the same way.
+
+<USER>
+I feel overwhelmed by the different major options. There are so many choices, and I don't know where to start.
+
+<AI>
+I understand that you're feeling overwhelmed by the different major options. There are a lot of choices, and it can be hard to know where to start. But don't worry, you're not alone. Many students feel the same way.
+
+Here are a few things you can do to help narrow down your choices:
+
+* **Think about your interests.** What are you passionate about? What do you enjoy doing? What are you good at? Your interests can help you narrow down your choices of majors.
+* **Talk to your advisor.** Your advisor can help you explore different majors and career paths. They can also give you advice on how to make the best decision for you.
+* **Do some research.** Learn more about different majors by reading about them online, talking to people who work in those fields, or visiting your school's career center. The more you know about different majors, the easier it will be to make a decision.
+
+Remember, choosing a major is not a decision that you have to make overnight. You can always change your mind later on if you decide that you're not happy with your choice. So take your time, explore your options, and make the decision that's best for you.
+
+<USER>
+But I don't know what I'm interested in. I'm not really good at anything, and I don't know what to do with my life.
+
+<AI>
+It's okay to not know what you're interested in or what you're good at. Many people feel the same way. The important thing is to explore your options and try new things. You might be surprised at what you find you enjoy.
+
+Here are a few things you can do to help you figure out what you're interested in:\n\n* **Take some personality tests.** There are a number of online personality tests that can help you identify your strengths and weaknesses. This can give you a starting point for exploring different majors and career paths.\n* **Talk to your friends and family.** Ask them what they think you're good at and what you enjoy doing. They may be able to give you some insights that you haven't considered.\n* **Volunteer your time.** Volunteering is a great way to explore your interests and meet new people. You might find that you enjoy working with children, animals, or the environment.\n* **Take some classes.** Taking some classes can help you learn more about different subjects and see if you enjoy them. You might find that you enjoy learning about history, math, or science.\n\nRemember, choosing a major is not a decision that you have to make overnight. You can always change your mind later on if you decide that you're not happy with your choice. So take your time, explore your options, and make the decision that's best for you.
+
+<USER>
+I feel pressured to choose something practical, something that will lead to a good job. But I also want to choose something I'm passionate about.
+
+<AI>
+I understand that you're feeling pressured to choose a major that will lead to a good job. However, it's also important to choose a major that you're passionate about. If you're not passionate about your major, you're less likely to succeed in your studies and you're more likely to burn out.
+
+Here are a few things to consider when choosing a major:
+
+* **Your interests.** What are you passionate about? What do you enjoy doing? What are you good at? Your interests can help you narrow down your choices of majors.
+* **Your career goals.** What do you want to do with your life? What kind of job do you want to have? Your career goals can help you choose a major that will prepare you for the workforce.
+* **Your personality.** What kind of person are you? Are you more of a creative type? Are you more of a logical type? Your personality can help you choose a major that fits your strengths and weaknesses.
+
+It's important to remember that choosing a major is not a decision that you have to make overnight. You can always change your mind later on if you decide that you're not happy with your choice. So take your time, explore your options, and make the decision that's best for you.
+
+<USER>
+But I don't want to waste time. I want to graduate on time and get a good job.
+
+<AI>
+I understand that you're concerned about wasting time and graduating on time. However, it's important to remember that choosing a major that you're passionate about is more likely to lead to a successful career. If you're not passionate about your major, you're less likely to succeed in your studies and you're more likely to burn out.
+
+Here are a few tips for choosing a major that will help you graduate on time and get a good job:
+
+* **Start early.** The sooner you start thinking about your major, the more time you'll have to explore your options and make a decision that's right for you.
+* **Do your research.** Talk to your academic advisor, professors, and friends and family about different majors. Read about different majors online and visit your school's career center.
+* **Take some classes.** Taking some classes in different subjects can help you learn more about your interests and see if you enjoy them.
+* **Set realistic goals.** Don't expect to graduate with a perfect GPA and a job offer in hand. It takes time to build a successful career.
+
+Remember, choosing a major is a big decision. But it's also an important decision. Take your time, explore your options, and make the decision that's best for you.
+
+<USER>
+I know. But it's so hard to decide. I feel like I'm lost.
+
+<AI>
+I know it's hard to decide. It's a big decision that can have a big impact on your future. But don't worry, you're not alone. Many students feel the same way.
+
+Here are a few things that might help you make a decision:
+
+* **Start by thinking about your interests.** What are you passionate about? What do you enjoy doing? What are you good at? Your interests can help you narrow down your choices of majors.
+* **Consider your career goals.** What do you want to do with your life? What kind of job do you want to have? Your career goals can help you choose a major that will prepare you for the workforce.
+* **Talk to your academic advisor.** Your academic advisor can help you explore your options and make a decision that's right for you.
+* **Take some classes.** Taking some classes in different subjects can help you learn more about your interests and see if you enjoy them.
+
+Remember, choosing a major is not a decision that you have to make overnight. You can always change your mind later on if you decide that you're not happy with your choice. So take your time, explore your options, and make the decision that's best for you.
+
+<USER>
+I'm starting to feel lost and hopeless. I don't know what I want out of life, and I don't know how to figure it out.
+
+<AI>
+I understand that you're feeling lost and hopeless. It's a common feeling for many students, especially when they're trying to figure out what they want to do with their lives. But don't worry, you're not alone. I'm here to help you through this.
+
+Here are a few things that might help you figure out what you want out of life:
+
+* **Start by thinking about your interests.** What are you passionate about? What do you enjoy doing? What are you good at? Your interests can help you narrow down your choices of majors and careers.
+* **Consider your values.** What are important to you? What do you believe in? Your values can help you make decisions about your future.
+* **Talk to your friends, family, and teachers.** They can offer you support and guidance as you explore your options.
+* **Take some time to explore.** Try new things, meet new people, and learn new things. The more you explore, the more you'll learn about yourself and what you want out of life.
+
+Remember, there is no right or wrong answer. The only thing that matters is that you find something that you're passionate about and that makes you happy. So take your time, explore your options, and don't be afraid to change your mind along the way.
+
+<USER>
+I'm trying to explore different interests and try new things. I'm hoping to discover something I'm passionate about.
+
+<AI>
+That's a great idea! Exploring different interests and trying new things is a great way to discover something you're passionate about. It sounds like you're on the right track.
+
+<USER>
+I've made an appointment with a career counselor to get some personalized advice.
+
+<AI>
+That's great! I'm glad to hear that you're taking steps to figure out what you want to do with your life. A career counselor can be a great resource for help with this. They can provide you with personalized advice and guidance, and help you explore your interests and values. I'm confident that you'll find the right path for you.
+
+<USER>
+I know that choosing a major is a big decision, but I'm determined to find the right path for me.
+
+<AI>
+I'm glad to hear that you're so determined to find the right path for you. Choosing a major is a big decision, but it's one that you can make with confidence if you take the time to explore your interests and values. It sounds like you're already on the right track by exploring different interests and trying new things. I'm also glad to hear that you've made an appointment with a career counselor to get some personalized advice. A career counselor can be a great resource for help with this. They can provide you with personalized advice and guidance, and help you explore your interests and values. I'm confident that you'll find the right path for you.
+
+<USER>
+I know that I have the potential to succeed in whatever I choose, and I'm confident that I will find my way.
+
+<AI>
+I'm glad to hear that you're so confident in your ability to succeed. Choosing a major is a big decision, but it's one that you can make with confidence if you take the time to explore your interests and values. It sounds like you're already on the right track by exploring different interests and trying new things. I'm also glad to hear that you've made an appointment with a career counselor to get some personalized advice. A career counselor can be a great resource for help with this. They can provide you with personalized advice and guidance, and help you explore your interests and values. I'm confident that you'll find the right path for you.
+
+<USER>
+Thank you, JOY. I appreciate your help.
+
+<AI>
+You're welcome. I'm glad I could help. It sounds like you're on the right track to finding the right path for you. Just remember to keep exploring your interests and values, and don't be afraid to try new things. With a little effort, I'm sure you'll find your way.

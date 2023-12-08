@@ -4,22 +4,67 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'But how? I feel like Im doing everything wrong.'
+     USER INPUT: 'I feel lonely and isolated, especially when surrounded by other couples on campus.'
      SIMILAR PAST USER INPUT: '['Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'But what are some things we can do?'
-     SIMILAR PAST USER INPUT: '['But how? I feel like Im doing everything wrong.', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.']'
+     USER INPUT: 'The time difference makes it difficult to communicate effectively and schedule video calls.'
+     SIMILAR PAST USER INPUT: '['Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'I feel lonely and isolated, especially when surrounded by other couples on campus.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Those are all great tips. Ill try to implement them more in my relationship.'
-     SIMILAR PAST USER INPUT: '['Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'But what are some things we can do?', 'But how? I feel like Im doing everything wrong.']'
+     USER INPUT: 'I constantly compare my relationship to others and feel like mine is somehow less valid.'
+     SIMILAR PAST USER INPUT: '['I feel lonely and isolated, especially when surrounded by other couples on campus.', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'The time difference makes it difficult to communicate effectively and schedule video calls.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thank you, JOY. I feel much better now.'
-     SIMILAR PAST USER INPUT: '['Those are all great tips. Ill try to implement them more in my relationship.', 'But how? I feel like Im doing everything wrong.', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.']'
+     USER INPUT: 'I feel like Im doing everything wrong. I try to communicate often, send thoughtful messages, and plan virtual dates, but it still feels insufficient.'
+     SIMILAR PAST USER INPUT: '['Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'I constantly compare my relationship to others and feel like mine is somehow less valid.', 'The time difference makes it difficult to communicate effectively and schedule video calls.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im constantly doubting myself and our relationship. What if the distance is too much to overcome?'
+     SIMILAR PAST USER INPUT: '['Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'I constantly compare my relationship to others and feel like mine is somehow less valid.', 'I feel like Im doing everything wrong. I try to communicate often, send thoughtful messages, and plan virtual dates, but it still feels insufficient.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried about losing trust and intimacy due to the lack of physical interaction.'
+     SIMILAR PAST USER INPUT: '['Im constantly doubting myself and our relationship. What if the distance is too much to overcome?', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'I feel like Im doing everything wrong. I try to communicate often, send thoughtful messages, and plan virtual dates, but it still feels insufficient.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Can we set realistic expectations and develop a plan for maintaining our relationship long-distance?'
+     SIMILAR PAST USER INPUT: '['Im constantly doubting myself and our relationship. What if the distance is too much to overcome?', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'The time difference makes it difficult to communicate effectively and schedule video calls.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Is there anything else I can do to feel more secure and confident in our relationship?'
+     SIMILAR PAST USER INPUT: '['Im constantly doubting myself and our relationship. What if the distance is too much to overcome?', 'I feel like Im doing everything wrong. I try to communicate often, send thoughtful messages, and plan virtual dates, but it still feels insufficient.', 'I constantly compare my relationship to others and feel like mine is somehow less valid.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Those are all great tips, JOY. Ill try to implement them more in my relationship.'
+     SIMILAR PAST USER INPUT: '['Is there anything else I can do to feel more secure and confident in our relationship?', 'I feel like Im doing everything wrong. I try to communicate often, send thoughtful messages, and plan virtual dates, but it still feels insufficient.', 'Can we set realistic expectations and develop a plan for maintaining our relationship long-distance?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im feeling more optimistic now. Knowing there are things we can do to make things better gives me hope.'
+     SIMILAR PAST USER INPUT: '['Those are all great tips, JOY. Ill try to implement them more in my relationship.', 'Is there anything else I can do to feel more secure and confident in our relationship?', 'I feel like Im doing everything wrong. I try to communicate often, send thoughtful messages, and plan virtual dates, but it still feels insufficient.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im committed to putting in the effort and making our relationship work, despite the challenges.'
+     SIMILAR PAST USER INPUT: '['Im constantly doubting myself and our relationship. What if the distance is too much to overcome?', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'Those are all great tips, JOY. Ill try to implement them more in my relationship.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I understand that long-distance relationships require additional effort and communication, but the reward of being together is worth it.'
+     SIMILAR PAST USER INPUT: '['Im committed to putting in the effort and making our relationship work, despite the challenges.', 'Im having trouble managing my long-distance relationship while in college. I miss my boyfriend so much, and its hard to feel connected to him when were so far apart.', 'Can we set realistic expectations and develop a plan for maintaining our relationship long-distance?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY. I feel much better now, knowing I have resources and support to navigate this challenging situation.'
+     SIMILAR PAST USER INPUT: '['Im feeling more optimistic now. Knowing there are things we can do to make things better gives me hope.', 'Those are all great tips, JOY. Ill try to implement them more in my relationship.', 'Is there anything else I can do to feel more secure and confident in our relationship?']'
      
      ANSWER: 

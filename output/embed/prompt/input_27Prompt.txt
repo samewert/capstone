@@ -4,17 +4,72 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I know, but its hard not to compare myself. Hes always getting attention from other girls, and Im always worried that hes going to leave me for someone else.'
+     USER INPUT: 'I constantly compare myself to him and other women. I feel inferior and inadequate.'
      SIMILAR PAST USER INPUT: '['Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I guess Im just not used to being in a relationship where someone actually likes me. Ive been hurt in the past, so its hard for me to trust people.'
-     SIMILAR PAST USER INPUT: '['Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.', 'I know, but its hard not to compare myself. Hes always getting attention from other girls, and Im always worried that hes going to leave me for someone else.']'
+     USER INPUT: 'My insecurity manifests as jealousy and possessiveness. I get upset when he talks to other women or spends time with his friends.'
+     SIMILAR PAST USER INPUT: '['I constantly compare myself to him and other women. I feel inferior and inadequate.', 'Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thanks, JOY. I feel a little better already.'
-     SIMILAR PAST USER INPUT: '['Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.', 'I guess Im just not used to being in a relationship where someone actually likes me. Ive been hurt in the past, so its hard for me to trust people.', 'I know, but its hard not to compare myself. Hes always getting attention from other girls, and Im always worried that hes going to leave me for someone else.']'
+     USER INPUT: 'I constantly seek reassurance and validation from him, which can be exhausting for both of us.'
+     SIMILAR PAST USER INPUT: '['I constantly compare myself to him and other women. I feel inferior and inadequate.', 'My insecurity manifests as jealousy and possessiveness. I get upset when he talks to other women or spends time with his friends.', 'Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel like Im constantly walking on eggshells, afraid to make him upset or lose him.'
+     SIMILAR PAST USER INPUT: '['I constantly seek reassurance and validation from him, which can be exhausting for both of us.', 'My insecurity manifests as jealousy and possessiveness. I get upset when he talks to other women or spends time with his friends.', 'Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I know I shouldnt compare myself, but its hard not to. Im constantly bombarded with unrealistic standards of beauty and perfection.'
+     SIMILAR PAST USER INPUT: '['I constantly compare myself to him and other women. I feel inferior and inadequate.', 'Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.', 'I constantly seek reassurance and validation from him, which can be exhausting for both of us.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im afraid to talk to my boyfriend about my insecurities because I dont want to burden him or seem needy.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.', 'I feel like Im constantly walking on eggshells, afraid to make him upset or lose him.', 'My insecurity manifests as jealousy and possessiveness. I get upset when he talks to other women or spends time with his friends.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im worried that if I tell him how I feel, hell think Im insecure and unattractive.'
+     SIMILAR PAST USER INPUT: '['Im afraid to talk to my boyfriend about my insecurities because I dont want to burden him or seem needy.', 'Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.', 'I feel like Im constantly walking on eggshells, afraid to make him upset or lose him.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'My past experiences have left me with low self-esteem and a fear of abandonment.'
+     SIMILAR PAST USER INPUT: '['Im afraid to talk to my boyfriend about my insecurities because I dont want to burden him or seem needy.', 'Im worried that if I tell him how I feel, hell think Im insecure and unattractive.', 'I constantly compare myself to him and other women. I feel inferior and inadequate.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im afraid to open up and be vulnerable because Im scared of getting hurt again.'
+     SIMILAR PAST USER INPUT: '['My past experiences have left me with low self-esteem and a fear of abandonment.', 'Im afraid to talk to my boyfriend about my insecurities because I dont want to burden him or seem needy.', 'Im worried that if I tell him how I feel, hell think Im insecure and unattractive.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I need to learn to trust myself and my partner, and to believe that I am worthy of love and acceptance.'
+     SIMILAR PAST USER INPUT: '['My past experiences have left me with low self-esteem and a fear of abandonment.', 'Im afraid to open up and be vulnerable because Im scared of getting hurt again.', 'Im afraid to talk to my boyfriend about my insecurities because I dont want to burden him or seem needy.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thanks, JOY. I feel a little better already just talking to you. Its helpful to know that Im not alone in this.'
+     SIMILAR PAST USER INPUT: '['Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.', 'I need to learn to trust myself and my partner, and to believe that I am worthy of love and acceptance.', 'I constantly seek reassurance and validation from him, which can be exhausting for both of us.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im going to talk to my boyfriend about my insecurities and work on building trust and communication in our relationship.'
+     SIMILAR PAST USER INPUT: '['Im afraid to talk to my boyfriend about my insecurities because I dont want to burden him or seem needy.', 'I need to learn to trust myself and my partner, and to believe that I am worthy of love and acceptance.', 'Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im grateful for your support and understanding, JOY. I know that with hard work and self-love, I can overcome my insecurities and build a strong and fulfilling relationship.'
+     SIMILAR PAST USER INPUT: '['I need to learn to trust myself and my partner, and to believe that I am worthy of love and acceptance.', 'Hi JOY, Im feeling really insecure about my relationship. I feel like my boyfriend is better than me in every way. Hes smarter, more popular, and more athletic. Im always afraid that hes going to find someone better.', 'Thanks, JOY. I feel a little better already just talking to you. Its helpful to know that Im not alone in this.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im determined to learn from my past experiences and create a better future for myself and my partner.'
+     SIMILAR PAST USER INPUT: '['I need to learn to trust myself and my partner, and to believe that I am worthy of love and acceptance.', 'Im grateful for your support and understanding, JOY. I know that with hard work and self-love, I can overcome my insecurities and build a strong and fulfilling relationship.', 'Im going to talk to my boyfriend about my insecurities and work on building trust and communication in our relationship.']'
      
      ANSWER: 

@@ -4,32 +4,67 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thank you. I feel a little better already.'
+     USER INPUT: 'I feel overwhelmed by sadness and hopelessness. Everything feels pointless and difficult.'
      SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.'
-     SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'Thank you. I feel a little better already.']'
+     USER INPUT: 'I have lost interest in activities I used to enjoy and find it hard to concentrate or make decisions.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by sadness and hopelessness. Everything feels pointless and difficult.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thank you. I appreciate that.'
-     SIMILAR PAST USER INPUT: '['Thank you. I feel a little better already.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.']'
+     USER INPUT: 'I feel isolated and alone, even when surrounded by people.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by sadness and hopelessness. Everything feels pointless and difficult.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I have lost interest in activities I used to enjoy and find it hard to concentrate or make decisions.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I’m not sure. I guess I just want to feel better. I want to be able to enJOY my life again.'
-     SIMILAR PAST USER INPUT: '['I’ve been feeling really down lately. I don’t have any motivation to do anything. I’m not sleeping well, and I don’t enJOY the things I used to.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'Thank you. I feel a little better already.']'
+     USER INPUT: 'Is there anything I can do to help myself feel better?'
+     SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I feel overwhelmed by sadness and hopelessness. Everything feels pointless and difficult.', 'I have lost interest in activities I used to enjoy and find it hard to concentrate or make decisions.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Okay.'
-     SIMILAR PAST USER INPUT: '['Thank you. I appreciate that.', 'Thank you. I feel a little better already.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.']'
+     USER INPUT: 'I’ve heard about therapy and medication, but I’m not sure if they’re right for me.'
+     SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'Is there anything I can do to help myself feel better?', 'I have lost interest in activities I used to enjoy and find it hard to concentrate or make decisions.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Thank you.'
-     SIMILAR PAST USER INPUT: '['Thank you. I appreciate that.', 'Thank you. I feel a little better already.', 'Okay.']'
+     USER INPUT: 'What are some other things I can try to manage my depression and improve my mood?'
+     SIMILAR PAST USER INPUT: '['Is there anything I can do to help myself feel better?', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I’ve heard about therapy and medication, but I’m not sure if they’re right for me.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’m worried about the impact this is having on my relationships and work.'
+     SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I have lost interest in activities I used to enjoy and find it hard to concentrate or make decisions.', 'I’ve heard about therapy and medication, but I’m not sure if they’re right for me.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’m starting to feel hopeless and wonder if things will ever get better.'
+     SIMILAR PAST USER INPUT: '['I feel overwhelmed by sadness and hopelessness. Everything feels pointless and difficult.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I have lost interest in activities I used to enjoy and find it hard to concentrate or make decisions.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’m surrounded by people who care about me and want to help.'
+     SIMILAR PAST USER INPUT: '['I feel isolated and alone, even when surrounded by people.', 'I feel overwhelmed by sadness and hopelessness. Everything feels pointless and difficult.', 'I’m worried about the impact this is having on my relationships and work.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’m grateful for the resources available to me, including therapy and medication.'
+     SIMILAR PAST USER INPUT: '['I’ve heard about therapy and medication, but I’m not sure if they’re right for me.', 'I’m surrounded by people who care about me and want to help.', 'What are some other things I can try to manage my depression and improve my mood?']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’m not sure what the future holds, but I’m determined to keep fighting for my well-being.'
+     SIMILAR PAST USER INPUT: '['I’m starting to feel hopeless and wonder if things will ever get better.', 'Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I feel overwhelmed by sadness and hopelessness. Everything feels pointless and difficult.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I’m hopeful that with the right support and treatment, I can reclaim my life and find joy again.'
+     SIMILAR PAST USER INPUT: '['I’ve heard about therapy and medication, but I’m not sure if they’re right for me.', 'I’m not sure what the future holds, but I’m determined to keep fighting for my well-being.', 'I’m grateful for the resources available to me, including therapy and medication.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Thank you, JOY, for your support and understanding. It means the world to me.'
+     SIMILAR PAST USER INPUT: '['Hi JOY. I’m struggling with feelings of depression. I’m not sure what to do.', 'I’m hopeful that with the right support and treatment, I can reclaim my life and find joy again.', 'I’m surrounded by people who care about me and want to help.']'
      
      ANSWER: 

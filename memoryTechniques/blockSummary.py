@@ -33,13 +33,13 @@ def initializeBlock():
 
 # Be an AI chatbot. Read in the messages and memory. Create your response accordingly.
 
-def make_prompt(text):
+def make_prompt(input):
   prompt = ("""You are a talkative chatbot that incorporates memory and previous chat history into your response when appropriate.
-  USER INPUT: '{text}'
+  USER INPUT: '{input}'
   MEMORY: '{memory}'
   CHAT HISTORY: '{messages}'
 
-  ANSWER: """).format(messages=messages, memory=memory, text=text)
+  ANSWER: """).format(messages=messages, memory=memory, input=input)
   return prompt
 
 def getBlockResponse(userInput):
@@ -56,6 +56,7 @@ def getBlockResponse(userInput):
       summary = palm.generate_text(**defaults, prompt=blockPrompt)
       memory.append(summary.candidates[0]['output'])
       # messages = []
+      # del messages[:4]
       del messages[:6]
 
   return response, prompt
@@ -63,9 +64,9 @@ def getBlockResponse(userInput):
 def summaryPrompt():
     prompt = f"""Summarize these messages in a concise way.
     
-    Messages: {messages}
+    MESSAGES: {messages}
     
-    Summary: """
+    SUMMARY: """
     return prompt
 
 # how to organize these blocks? I can start making summaries of summaries

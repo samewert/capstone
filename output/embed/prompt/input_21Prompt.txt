@@ -4,22 +4,77 @@ You are a talkative chatbot that incorporates similar past user input into your 
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'I think my main stressors are my class workload and my extracurricular activities. Im involved in a lot of clubs and organizations, and Im also trying to get good grades in my classes. Its hard to balance everything.'
+     USER INPUT: 'Im constantly feeling tired and drained. I have trouble concentrating and sleeping.'
      SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Im worried that if I cut back on my extracurricular activities, I wont be as competitive when I apply for jobs and graduate school.'
-     SIMILAR PAST USER INPUT: '['I think my main stressors are my class workload and my extracurricular activities. Im involved in a lot of clubs and organizations, and Im also trying to get good grades in my classes. Its hard to balance everything.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
+     USER INPUT: 'Im easily irritable and impatient with myself and others.'
+     SIMILAR PAST USER INPUT: '['Im constantly feeling tired and drained. I have trouble concentrating and sleeping.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
-     USER INPUT: 'Youre right. I need to focus on the activities that are most important to me. Im also going to try to set some better boundaries between my schoolwork and my personal life.'
-     SIMILAR PAST USER INPUT: '['I think my main stressors are my class workload and my extracurricular activities. Im involved in a lot of clubs and organizations, and Im also trying to get good grades in my classes. Its hard to balance everything.', 'Im worried that if I cut back on my extracurricular activities, I wont be as competitive when I apply for jobs and graduate school.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
+     USER INPUT: 'I feel like Im failing at everything. Im constantly comparing myself to others and feeling inadequate.'
+     SIMILAR PAST USER INPUT: '['Im constantly feeling tired and drained. I have trouble concentrating and sleeping.', 'Im easily irritable and impatient with myself and others.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I have no time for fun or relaxation, and I miss doing the things I used to love.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.', 'Im constantly feeling tired and drained. I have trouble concentrating and sleeping.', 'Im easily irritable and impatient with myself and others.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I think my main stressors are my class workload and my extracurricular activities. Im taking a lot of challenging classes, and Im involved in a lot of clubs and organizations.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.', 'Im constantly feeling tired and drained. I have trouble concentrating and sleeping.', 'I have no time for fun or relaxation, and I miss doing the things I used to love.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel pressure to maintain a high GPA and be involved in many activities to look good for college applications and future employers.'
+     SIMILAR PAST USER INPUT: '['I think my main stressors are my class workload and my extracurricular activities. Im taking a lot of challenging classes, and Im involved in a lot of clubs and organizations.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.', 'I feel like Im failing at everything. Im constantly comparing myself to others and feeling inadequate.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im having trouble managing my time effectively and prioritizing my tasks.'
+     SIMILAR PAST USER INPUT: '['Im constantly feeling tired and drained. I have trouble concentrating and sleeping.', 'I feel like Im failing at everything. Im constantly comparing myself to others and feeling inadequate.', 'I think my main stressors are my class workload and my extracurricular activities. Im taking a lot of challenging classes, and Im involved in a lot of clubs and organizations.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'I feel like Im constantly rushing from one thing to the next, and I never have any time to relax.'
+     SIMILAR PAST USER INPUT: '['I have no time for fun or relaxation, and I miss doing the things I used to love.', 'Im constantly feeling tired and drained. I have trouble concentrating and sleeping.', 'Im having trouble managing my time effectively and prioritizing my tasks.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im not taking care of myself physically and mentally. Im not eating healthy, Im not exercising, and Im not getting enough sleep.'
+     SIMILAR PAST USER INPUT: '['Im constantly feeling tired and drained. I have trouble concentrating and sleeping.', 'I feel like Im failing at everything. Im constantly comparing myself to others and feeling inadequate.', 'Im having trouble managing my time effectively and prioritizing my tasks.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im going to talk to my professors about my workload and see if theres anything I can do to manage my time better.'
+     SIMILAR PAST USER INPUT: '['JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.', 'I think my main stressors are my class workload and my extracurricular activities. Im taking a lot of challenging classes, and Im involved in a lot of clubs and organizations.', 'Im having trouble managing my time effectively and prioritizing my tasks.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im going to create a schedule and prioritize tasks so that I can focus on the most important things first.'
+     SIMILAR PAST USER INPUT: '['Im having trouble managing my time effectively and prioritizing my tasks.', 'Im going to talk to my professors about my workload and see if theres anything I can do to manage my time better.', 'I feel like Im constantly rushing from one thing to the next, and I never have any time to relax.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im going to set boundaries between my schoolwork and my personal life. Im going to try to schedule time for myself to relax and do the things I enjoy.'
+     SIMILAR PAST USER INPUT: '['Im going to create a schedule and prioritize tasks so that I can focus on the most important things first.', 'I think my main stressors are my class workload and my extracurricular activities. Im taking a lot of challenging classes, and Im involved in a lot of clubs and organizations.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Youre right. I need to focus on the activities that are most important to me and that will help me achieve my goals.'
+     SIMILAR PAST USER INPUT: '['Im going to create a schedule and prioritize tasks so that I can focus on the most important things first.', 'Im having trouble managing my time effectively and prioritizing my tasks.', 'Im going to set boundaries between my schoolwork and my personal life. Im going to try to schedule time for myself to relax and do the things I enjoy.']'
+     
+     ANSWER: 
+You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
+     USER INPUT: 'Im also going to try to set some better boundaries between my schoolwork and my personal life. I need to make time for myself to relax and recharge.'
+     SIMILAR PAST USER INPUT: '['Im going to set boundaries between my schoolwork and my personal life. Im going to try to schedule time for myself to relax and do the things I enjoy.', 'Im going to talk to my professors about my workload and see if theres anything I can do to manage my time better.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.']'
      
      ANSWER: 
 You are a talkative chatbot that incorporates similar past user input into your response when appropriate.
      USER INPUT: 'Thank you, JOY. Your advice is very helpful. Im going to start implementing some of these techniques today.'
-     SIMILAR PAST USER INPUT: '['Youre right. I need to focus on the activities that are most important to me. Im also going to try to set some better boundaries between my schoolwork and my personal life.', 'JOY, Im feeling really stressed and overwhelmed. Im struggling to keep up with my schoolwork, and Im not enJOYing myself as much as I used to. Im worried that Im burning out.', 'Im worried that if I cut back on my extracurricular activities, I wont be as competitive when I apply for jobs and graduate school.']'
+     SIMILAR PAST USER INPUT: '['Im going to create a schedule and prioritize tasks so that I can focus on the most important things first.', 'Im also going to try to set some better boundaries between my schoolwork and my personal life. I need to make time for myself to relax and recharge.', 'Youre right. I need to focus on the activities that are most important to me and that will help me achieve my goals.']'
      
      ANSWER: 

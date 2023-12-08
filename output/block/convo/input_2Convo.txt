@@ -1,5 +1,9 @@
-<USER>I'm feeling really stressed about not fitting in at college. I feel like I don't belong here.
-<AI>It's understandable to feel stressed about not fitting in at college. College is a big change, and it can take time to find your place. It's important to remember that you're not alone in feeling this way. Many students feel the same way when they first start college.
+
+<USER>
+I'm feeling really stressed about not fitting in at college. I feel like I don't belong here.
+
+<AI>
+It's understandable to feel stressed about not fitting in at college. College is a big change, and it can take time to find your place. It's important to remember that you're not alone in feeling this way. Many students feel the same way when they first start college.
 
 Here are some things you can do to help you feel more at home at college:
 
@@ -9,8 +13,12 @@ Here are some things you can do to help you feel more at home at college:
 * **Be yourself.** Don't try to be someone you're not. The more you try to fit in, the more likely you are to feel like you don't belong. Just be yourself, and you'll eventually find your people.
 
 It may take some time, but you will eventually find your place at college. Just remember that you're not alone, and there are people who can help you.
-<USER>Well, I don't seem to have anything in common with the other students. They're all so popular and outgoing, and I'm just not. I feel like I'm always on the outside looking in.
-<AI>I understand how you feel. It can be tough to feel like you don't fit in, especially when everyone else seems to be so different from you. But it's important to remember that you're not alone in feeling this way. Many students feel the same way when they first start college.
+
+<USER>
+Well, I don't seem to have anything in common with the other students. They're all so popular and outgoing, and I'm just not. I feel like I'm always on the outside looking in.
+
+<AI>
+I understand how you feel. It can be tough to feel like you don't fit in, especially when everyone else seems to be so different from you. But it's important to remember that you're not alone in feeling this way. Many students feel the same way when they first start college.
 
 Here are some things you can do to help you feel more at home at college:
 
@@ -20,8 +28,12 @@ Here are some things you can do to help you feel more at home at college:
 * **Be yourself.** Don't try to be someone you're not. The more you try to fit in, the more likely you are to feel like you don't belong. Just be yourself, and you'll eventually find your people.
 
 It may take some time, but you will eventually find your place at college. Just remember that you're not alone, and there are people who can help you.
-<USER>I know, but it's hard not to compare myself to others. Everyone seems to have so many friends, and I'm just lonely.
-<AI>I understand how you feel. It can be tough to feel like you don't fit in, especially when everyone else seems to have so many friends. But it's important to remember that you're not alone in feeling this way. Many students feel the same way when they first start college.
+
+<USER>
+I know, but it's hard not to compare myself to others. Everyone seems to have so many friends, and I'm just lonely.
+
+<AI>
+I understand how you feel. It can be tough to feel like you don't fit in, especially when everyone else seems to have so many friends. But it's important to remember that you're not alone in feeling this way. Many students feel the same way when they first start college.
 
 Here are some things you can do to help you feel more at home at college:
 
@@ -31,9 +43,21 @@ Here are some things you can do to help you feel more at home at college:
 * **Be yourself.** Don't try to be someone you're not. The more you try to fit in, the more likely you are to feel like you don't belong. Just be yourself, and you'll eventually find your people.
 
 It may take some time, but you will eventually find your place at college. Just remember that you're not alone, and there are people who can help you.
-<USER>I hope so.
-<AI>I'm glad to hear that. Just remember, you're not alone. Many people feel the same way when they first start college. It's a big adjustment, and it can take some time to find your place. But if you keep an open mind and try new things, you'll eventually find your people.
-<USER>Thanks. I think I'll try getting involved in some clubs.
-<AI>That's a great idea! Getting involved in clubs is a great way to meet new people and make friends. There are clubs for just about everything, so you're sure to find something that interests you. And even if you don't find a club that you're passionate about, it's still a great way to get involved on campus and meet new people.
-<USER>Okay. I'll try.
-<AI>I'm glad to hear that you're willing to try getting involved in some clubs. It's a great way to meet new people and make friends. There are clubs for just about everything, so you're sure to find something that interests you. And even if you don't find a club that you're passionate about, it's still a great way to get involved on campus and meet people.
+
+<USER>
+I hope so.
+
+<AI>
+I'm glad to hear that. I hope these tips help you feel more at home at college.
+
+<USER>
+Thanks. I think I'll try getting involved in some clubs.
+
+<AI>
+That's a great idea! There are so many different clubs and organizations to choose from, so you're sure to find one that interests you. Getting involved in a club or organization is a great way to meet new people, make friends, and get involved on campus. It's also a great way to learn new skills and develop your interests.
+
+<USER>
+Okay. I'll try.
+
+<AI>
+I'm glad to hear that. I hope these tips help you feel more at home at college.
